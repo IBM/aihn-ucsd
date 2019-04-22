@@ -137,11 +137,13 @@ $ python entity_normalization/train.py -h
 
 # Citing
 If you find this work useful for your research, please use the following citation:
-@inproceedings{    
+
+@inproceedings {    
     wright2019normco:,    
     title={NormCo: Deep Disease Normalization for Biomedical Knowledge Base Construction},    
     author={Wright, Dustin and Katsis, Yannis and Mehta, Raghav and Hsu, Chun-Nan},    
     booktitle={Automated Knowledge Base Construction},    
     year={2019},    
     url={https://openreview.net/forum?id=BJerQWcp6Q}, 
+
 }
