@@ -144,5 +144,6 @@ If you find this work useful for your research, please use the following citatio
     &nbsp;author={Wright, Dustin and Katsis, Yannis and Mehta, Raghav and Hsu, Chun-Nan},    
     &nbsp;booktitle={Automated Knowledge Base Construction},    
     &nbsp;year={2019},    
-    &nbsp;url={https://openreview.net/forum?id=BJerQWcp6Q}, 
+    &nbsp;url={https://openreview.net/forum?id=BJerQWcp6Q},
+    
 }
