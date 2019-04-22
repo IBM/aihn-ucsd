@@ -1,0 +1,602 @@
+439781	IDM	indomethacin
+439781	PRA	plasma renin activity
+439781	BP	blood pressure
+22836123	SSc	systemic sclerosis
+22836123	SRC	Scleroderma renal crisis
+23433219	M.I.N.I.	Mini International Neuropsychiatric Interview
+23535177	PAS	paired associative stimulation
+23535177	PD	Parkinson's disease
+23535177	LIDs	levodopa-induced dyskinesias
+23666265	SD	Sprague-Dawley
+23666265	i.p.	intraperitoneally
+23666265	MVP	maximum voiding pressure
+23666265	CYP	cyclophosphamide
+23666265	MCC	maximum cystometric capacity
+23864035	MM	multiple myeloma
+23864035	bort	Bortezomib
+23864035	R/R	relapsed/refractory
+23864035	OS	overall survival
+23864035	dex	-dexamethasone
+23864035	PFS	progression-free survival
+23871786	AChE	Acetylcholinesterase
+23871786	BPA	Bisphenol A
+23871786	EPM	elevated plus maze
+23871786	PND	postnatal day
+23872883	MDA	malondialdehyde
+23872883	CVDs	Cardiovascular diseases
+23892921	PS	Performance status
+23892921	RW	"real world"
+23892921	RRMM	relapsed/refractory multiple myeloma
+23892921	CR	complete response
+23949582	IFO	Ifosfamide
+23949582	PRI	proliferation rate index
+23949582	SCEs	sister chromatid exchanges
+23952588	PD	Parkinson's disease
+24040781	mTOR-i	mammalian target of rapamycin inhibitors
+24067251	TDF	tenofovir disoproxil fumarate
+24067251	MHRA	Medicines and Healthcare Products Regulatory Agency
+24072398	METH	Methamphetamine
+24091473	LAST	local anaesthetic systemic toxicity
+24091473	ECG	electrocardiogram
+24091473	ROSC	return of spontaneous circulation
+24100257	TS	Takotsubo syndrome
+24114426	MDMA	3,4-methylenedioxymethamphetamine
+24114426	CAN	cannabis/alcohol/nicotine
+24114426	PD	polydrug
+24114426	ND	non-drug
+24114426	AN	alcohol/nicotine
+24126708	PR	prevalence ratio
+24126708	CI	confidence interval
+24132704	LDLr	low-density lipoprotein receptor
+24132704	ERK	Extracellular signal-regulated kinase
+24158386	HL	Hodgkin lymphoma
+24158386	CI	confidence interval
+24158386	ORR	Overall response rate
+24158386	CR	complete response
+24190587	HPA	hypothalamic-pituitary-adrenal
+24209900	NCSE	non-convulsive status epilepticus
+24209900	EEG	electroencephalogram
+24220752	CT	computed tomography
+24220752	CIN	Contrast-induced nephropathy
+24220752	Cr	creatinine
+24234943	SIADH	syndrome of inappropriate anti-diuretic hormone
+24275640	TAP	total antioxidant performance
+24275640	SBs	strand breaks
+24275640	DOX	doxorubicin
+24284476	i.p.	intraperitoneally
+24309294	DG	dentate gyrus
+24309294	PS	Population spikes
+24309294	LTP	long-term potentiation
+24309294	LPP	lateral perforant path
+24333387	STZ	Streptozotocin
+24341598	ARF	acute renal failure
+24341598	CIN	Contrast-induced nephropathy
+24341598	BUN	blood urea nitrogen
+24341598	PCAG	percutaneous coronary angiography
+24345882	POG	Pediatric Oncology Group
+24345882	MTX	methotrexate
+24345882	CNS	central nervous system
+24345882	IT	intrathecal
+24434397	TNA	Tranexamic acid
+24438483	HR	heart rate
+24464946	cTnT	cardiac troponin T
+24464946	AUC	area under the curve
+24535067	Group NP	groups: no pretreatment
+24587916	SBP	Systolic blood pressure
+24587916	Dex-	Dexamethasone-
+24587916	LF	Lactoferrin
+24587916	FRAP	ferric reducing antioxidant power
+24614773	NMDA	N-methyl-D-aspartate
+24618873	CNS	central nervous system
+24658375	ATRA	All-trans retinoic acid
+24658375	APL	acute promyelocytic leukemia
+24659727	PO	per os
+24664478	MRI	magnetic resonance imaging
+24664478	CNS	central nervous system
+24664478	TLS	tumor lysis syndrome
+24664478	IT	intrathecal
+24675088	cTnI	cardiac troponin I
+24675088	MRI	magnetic resonance imaging
+24675088	LVEF	left ventricular ejection fraction
+24675088	DOX	doxorubicin
+24684312	CV	coefficient of variation
+24684312	ICC	intraclass correlation coefficient
+24684312	VAS	visual analogue scale
+24691439	POAG	primary open-angle glaucoma
+24691439	TM	trabecular meshwork
+24691439	IOP	intraocular pressure
+24709919	OIH	Opioid-induced hyperalgesia
+24733133	HITT	heparin-induced thrombocytopenia with thrombosis
+24733133	SVC	superior vena cava
+24733133	CDT	catheter-directed thrombolysis
+24733133	DVT	deep venous thrombosis
+24739405	DHEA	dehydroepiandrosterone
+24739405	sc	subcutaneously
+24739405	ip	intraperitoneally
+24742750	TdP	Torsade de Pointes
+24742750	hiPS-CMs	human-induced pluripotent stem cell-derived cardiomyocytes
+24742750	MEA	Multielectrode array
+24742750	EAD	early afterdepolarization
+24742750	FPD	FPDc
+24778426	OR	odds ratio
+24778426	AKI	acute kidney injury
+24812279	DOX	Doxorubicin
+24816962	MRI	Magnetic resonance imaging
+24840785	NRVMs	neonatal rat ventricular myocytes
+24842192	p-AMPK	Phosphorylated AMPKa
+24842192	TNF-a	tumor necrosis factor-alpha
+24842192	AMPK	AMP-activated protein kinase
+24842192	TLR4	toll-like receptor 4
+24842192	MyD88	myeloid differentiation protein 88
+24842192	IL-6	interleukin 6
+24902786	STZ	streptozotocin
+24902786	icv	intracerebroventricularly
+24911645	AChE	acetylcholinesterase
+24911645	GFC	Garcinielliptone FC
+24923469	LAG	low adherence group
+24923469	SOP	standard operating procedures
+24923469	ICU	Intensive Care Unit
+24923469	AKI	Acute kidney injury
+24923469	HAG	high adherence group
+24928523	MM	multiple myeloma
+24971338	CsA	cyclosporin A
+24971338	SRL	sirolimus
+25006961	NDI	nephrogenic diabetes insipidus
+25006961	WT	wild type
+25041770	CYP3A4	cytochrome P450 3A4
+25054547	BTC	butyrylthiocholine
+25054547	MD	Molecular dynamic
+25071004	Hb	hemoglobin
+25071004	WHO	World Health Organization
+25080425	STAT3	signal transducer and activator of transcription 3
+25096313	LACN	lateral antebrachial cutaneous nerve
+25096313	LACNP	lateral antebrachial cutaneous neuropathy
+25119790	NGAL	neutrophil gelatinase-associated lipocalin
+25119790	NAG	N-acetyl b-D-glucosaminidase
+25119790	ROS	reactive oxygen species
+25119790	KIM	kidney injury molecule
+25907210	RRs	rate ratios
+25907210	LT	lifetime
+25907210	AHS	Agricultural Health Study
+25907210	IW	intensity-weighted
+25986755	PCE	prenatal caffeine exposure
+25986755	GDNF	glial-cell-line-derived neurotrophic factor
+25986755	IUGR	intrauterine growth retardation
+26002693	CML	chronic myeloid leukemia
+26033014	AHS	Agricultural Health Study
+26115410	iAs	inorganic arsenic
+2782734	DRC	dose-response curve
+2782734	HDS	high dose inhaled salbutamol
+2782734	LDS	low dose inhaled salbutamol
+2983630	MHPG	3-methoxy-4-hydroxyphenethyleneglycol
+3711722	VIP	Vasoactive intestinal polypeptide
+9578276	MTD	maximum tolerated dose
+9578276	CRM	continual reassessment method
+11423811	DSE	Dobutamine stress echocardiography
+12678199	TdP	torsade de pointes
+15696449	PBSCT	peripheral blood stem cell transplant
+15696449	ARI	Acute renal insufficiency
+15696449	AL	amyloidosis
+17554526	RC	recreational cocaine
+17554526	OC	occasional cocaine
+17554526	EFE	emotional facial expression
+17554526	CN	cocaine naive participants
+20009434	HD-MTX	High-dose methotrexate
+20009434	PTLD	post-transplantation lymphoproliferative disorder
+20431083	MB	microbleeds
+20431083	IS	ischemic stroke
+20431083	TIA	/transient ischemic attack
+20431083	ICH	intracerebral hemorrhage
+20595935	PRL	prolactin levels
+35781	NA	noradrenaline
+448423	EACA	Epsilon aminocaproic acid
+448423	SAH	subarachnoid hemorrhage
+895432	SC	sedentary control
+895432	EC	exercise control
+895432	S-I	sedentary-isoproterenol
+978847	i.c.	intracisternal
+978847	i.v.	intravenous
+1289188	DFX	desferrioxamine
+1360900	5-HT	5-hydroxytryptamine
+1420650	CBZ	carbamazepine
+1423336	LNAA	large neutral amino acid
+1449452	ACE	Angiotensin-converting enzyme
+1449452	MI	myocardial infarction
+1615846	HDL	high-density lipoprotein
+1615846	LDL	low-density lipoprotein
+1756784	SNR	substantia nigra
+1756784	GFAP	glial fibrillary acidic protein
+1760851	DOX	doxorubicin
+1760851	HPMA	N-(2-hydroxypropyl)methacrylamide
+1779253	PHN	post-herpetic neuralgia
+1779253	VAS	visual analogue scale
+1858969	DEC	diethylcarbamazine
+2021990	H2	histamine 2
+2021990	MAP	mean arterial pressure
+2021990	SVR	systemic vascular resistance
+2131034	IT	intrathecal
+2173761	CxAD	circumflex artery diameter
+2383364	CHP	Chlorhexidine phosphanilate
+2453942	GABA	gamma-aminobutyric acid
+2553470	NMDA	N-methyl-D-aspartate
+2625524	i.p.	intraperitoneal
+2767010	MES	maximal electroshock
+2884595	BSA	bovine serum albumin
+2907577	ARF	acute renal failure
+3084231	CNS	central nervous system
+3155884	ISO	isoproterenol
+3289726	CT	computerized tomographic
+3323599	PS	protamine sulfate
+3323599	FSGS	focal segmental glomerular sclerosis
+3323599	AMNS	puromycin-aminonucleoside
+3383127	5-FU	5-fluorouracil
+3533179	CYA	cyclophosphamide
+3685052	MSG	monosodium glutamate
+3685052	MSG	Monosodium glutamate
+3708328	SNR	substantia nigra pars reticulata
+3708328	GABA	gamma-aminobutyric acid
+3746148	ECGs	electrocardiograms
+3798047	MP	methylprednisolone
+3987172	PPA	Phenylpropanolamine
+3990093	CC	colloidal carbon
+3990093	PAN	puromycin aminonucleoside
+4082192	BNPP	bis(p-nitrophenyl) phosphate
+4082192	F344	Fischer 344
+4082192	PAP	p-aminophenol
+6106951	PTZ	pentylenetetrazol
+6106951	FZP	flurazepam
+6310832	Aza	azathioprine
+6310832	CMV	Cytomegalovirus
+6529939	S-A	sinoatrial
+6631522	I-131 HA	[omega-I-131]heptadecanoic acid
+6673474	SNP	sodium nitroprusside
+6673474	TMP	trimetaphan
+6695685	AV	atrioventricular
+6806735	HMM	hexamethylmelamine
+6985297	AP	action potential
+7018927	LH-RH	LH-releasing hormone
+7018927	LH	luteinizing hormone
+7147232	SNP	sodium nitroprusside
+7147232	ATP	Adenosine triphosphate
+7479194	TMP-SMZ	trimethoprim-sulfamethoxazole
+7492040	MI	myocardial infarction
+7671401	ACE	Angiotensin-converting enzyme
+7727612	VLBW	very-low-birth-weight
+7739955	CPR	cardiopulmonary resuscitation
+7739955	PICU	pediatric intensive care unit
+7931490	IV	intravenous
+7949506	AV	atrioventricular
+8160791	GM	gentamicin
+8160791	RBF	renal blood flow
+8160791	SOD	Superoxide dismutase
+8160791	DMTU	dimethylthiourea
+8188982	ANP	atrial natriuretic peptide
+8188982	CCB	cardiac component of baroreflex
+8188982	SAP	systolic arterial pressure
+8188982	HRp	HR period
+8188982	HR	heart rate
+8188982	LV	lateral ventricle
+8188982	AVP	arginine vasopressin
+8188982	SN	sodium nitroprusside
+8188982	SHR	spontaneously hypertensive
+8188982	Phe	phenylephrine
+8312983	SSRIs	selective serotonin reuptake inhibitors
+8659767	VT	ventricular tachycardia
+8748050	SS	serotonin syndrome
+8748050	NMS	neuroleptic malignant syndrome
+8755612	DES	diethylstilbestrol
+8755612	BN	Brown Norway
+8755612	F344	Fischer 344
+8808730	NOS	nitric oxide synthase
+8808730	DRG	dorsal root ganglia
+8808730	IR	NOS-immunoreactive
+8808730	CYP	cyclophosphamide
+8819482	ISO	isoproterenol
+8825380	rh	recombinant human
+8825380	PAN	puromycin aminonucleoside
+8957205	hCRH	Human corticotropin-releasing hormone
+8957205	TRH	thyrotropin-releasing hormone
+8985298	HBsAg	hepatitis B surface antigen
+8985298	HBV	hepatitis B virus
+8996419	VTE	venous thromboembolism
+8996419	OCs	oral contraceptives
+9125676	ECG	electrocardiographic
+9125676	SCL	sinus-cycle length
+9128918	TIDA	tuberoinfundibular dopaminergic
+9128918	5-HIAA	5-hydroxyindoleacetic acid
+9128918	NE	norepinephrine
+9128918	ME	median eminence
+9128918	PRL	prolactin
+9128918	SN	substantia nigra
+9128918	DA	dopamine
+9128918	AN	arcuate nucleus
+9128918	CP	caudate putamen
+9128918	MPA	medial preoptic area
+9128918	ZI	zona incerta
+9158667	ATRA	all-trans-retinoic acid
+9158667	APL	acute promyelocytic leukemia
+9197951	DEP	diethylpropion
+9382023	BP	blood pressure
+9428298	CNA	continuously nebulized albuterol
+9428298	INA	intermittent albuterol
+9570197	LV	left ventricular
+9782254	RF	radiofrequency
+9782254	UPDRS	Unified Parkinson's Disease Rating Scale
+9869655	EE	17alpha-ethinylestradiol
+9869655	BS	bile salt
+9881641	K+	K(ATP)
+9881641	EDRF	endothelium-derived relaxing factor
+9881641	ACh	acetylcholine
+9881641	VIP	vasoactive intestinal polypeptide
+10219427	IDR	intradermoreactions
+10327032	5-FU	5-fluorouracil
+10401555	CNS	central nervous system
+10401555	ORL1	opioid receptor-like receptor 1
+10462057	HBMP	human bone marrow progenitor
+10672628	NO	Nitric oxide
+10672628	NOS	nitric-oxide synthase
+10672628	NADPH-d	nicotinamide adenine dinucleotide phosphate-diaphorase
+10713017	PPH	primary pulmonary hypertension
+10713017	SPH	secondary pulmonary hypertension
+10770468	ECG	electrocardiographic
+10975596	LVEF	left ventricular ejection fraction
+10975596	HR	Heart rate
+10975596	FS	fractional shortening
+10986547	Y-MRS	Young-Mania Rating Scale
+10986547	EPS	Extrapyramidal Symptom
+11026989	CT	contrast threshold
+11026989	RT	reaction time
+11135381	MUP	maximum urethral pressure
+11176729	CHF	chronic heart failure
+11176729	ACE	angiotensin-converting enzyme
+11176729	OD	once daily
+11229942	CE	cocaethylene
+11229942	IV	intravenous
+11380496	MPO-ANCA	myeloperoxidase-antineutrophil cytoplasmic antibody
+11380496	PTU	propylthiouracil
+11380496	MPO-ANCA	Myeloperoxidase antineutrophil cytoplasmic antibody
+11385188	ECG	electrocardiography
+11401944	TdP	torsade de pointes
+11401944	TDR	transmural dispersion of repolarization
+11401944	APD	action potential duration
+11401944	EAD	early afterdepolarization
+11439380	NCS	nerve conduction studies
+11439380	SNAPs	sensory nerve action potentials
+11708428	PDN	prednisone
+11745287	AUC	area under the concentration curve
+11799346	FDA	Food and Drug Administration
+11799346	WHO	World Health Organization
+11915580	GTN	glyceryl trinitrate
+11915580	NO	nitric oxide
+11915580	DCF	diclofenac
+11915580	DPI	difference in pain intensity score
+11936424	SD	Sprague-Dawley
+11936424	ACE	angiotensin converting enzyme
+11936424	PAN	puromycin aminonucleoside
+11936424	GSI	glomerulosclerosis index
+11936424	BP	blood pressure
+12051122	SIADH	secretion of anti-diuretic hormone
+12059909	CY	cyclophosphamide
+12119460	MMC	mitomycin C
+12119460	CI	confidence interval
+12119460	HUS	hemolytic-uremic syndrome
+12119460	FA	folinic acid
+12119460	AGC	advanced gastric cancer
+12119460	5-FU	5-fluorouracil
+12359538	cTnI	cardiac troponin I
+12359538	CK	creatine kinase
+12359538	MI	myocardial infarction
+12372954	AIN	acute interstitial nephritis
+12452552	NMS	neuroleptic malignant syndrome
+12452552	CRF	chronic renal failure
+12487093	BBB	blood-brain barrier
+12498738	RCR	respiratory control ratio
+12523489	NECA	5'-N-ethylcarboxamidoadenosine
+12523489	DMPX	3,7-dimethyl-1-propargylxanthine
+12523489	CPA	N6-cyclopentyladenosine
+12523489	CPT	8-cyclopentyltheophylline
+12535818	OR	odds ratio
+12535818	AF	atrial fibrillation
+12535818	CI	confidence interval
+12535818	MI	myocardial infarction
+12644816	PSA	prostate-specific antigen
+12699527	MC	Myotonia congenita
+12752472	TE	time
+12752472	TI	time
+12752472	VE	ventilation
+12828076	sFas	soluble Fas
+12865514	STN	subthalamic nucleus
+14748761	VDS	vindesine
+14748761	CI	confidence interval
+14748761	VNR	vinorelbine
+14748761	GEM	gemcitabine
+15094729	MRDs	mean radial degrees
+15229250	MA	methamphetamine
+15229250	MRI	magnetic resonance imaging
+15265979	PPARalpha	peroxisome proliferator-activated receptor-alpha
+15265979	PPARalpha-/-	PPARalpha knockout
+15366550	DI	diabetes insipidus
+15605432	4HNE	4-hydroxy-2-nonenal
+15605432	3NT	3-nitrotyrosine
+15605432	ADR	adriamycin
+15609701	VT	ventricular tachycardia
+15614572	WDS	wet dog shake
+15625689	PD	Parkinson's disease
+15625689	OPSE	oropharyngeal swallowing efficiency
+15627798	PDTC	pyrrolidine dithiocarbamate
+15627798	NF-kappaB	nuclear factor-kappaB
+15627798	MAP	mitogen-activated protein
+15815446	90/HTN	90/hypertension
+15815446	15/HTN	15/hypertension
+15859361	CE	Celecoxib
+15859361	NSAIDs	non-steroidal anti-inflammatory drugs
+15882284	ESRD	end-stage renal disease
+15882284	NSAIDs	nonsteroidal anti-inflammatory drugs
+15987266	CHX	cycloheximide
+15987266	Pilo	pilocarpine
+15987266	MFS	mossy fiber sprouting
+15991002	EPM	elevated plus-maze
+16034922	HT	Hormone therapy
+16083708	DILI	drug-induced liver injury
+16112787	VCM	vancomycin
+16112787	i.p.	intraperitoneally
+16112787	NAG	N-acetyl-beta-d-glucosaminidase
+16112787	ROS	reactive oxygen species
+16112787	CAT	catalase
+16112787	SOD	superoxide dismutase
+16112787	MDA	malondialdehyde
+16309808	NaSSA	noradrenergic and specific serotonergic antidepressant
+16309808	RLS	restless legs syndrome
+16323982	Apo	apolipoproteins
+16323982	TG	triglycerides
+16323982	LP	lipoproteins
+16323982	CPA	cyproterone acetate
+16369751	FBAL	alpha-fluoro-beta-alanine
+16369751	5-FU	5-fluorouracil
+16565833	monoHER	monohydroxyethylrutoside
+16565833	DOX	doxorubicin
+16723784	Tdp	torsade de pointes
+16723784	AF	atrial fibrillation
+16723784	Bpd	Bepridil hydrochloride
+16723784	AFL	atrial flutter
+16731636	SD	Sprague-Dawley
+16731636	Iso	isoproterenol
+16731636	RAS	renin-angiotensin system
+16731636	beta-AR	beta-adrenoceptor
+16731636	LV	left ventricular
+16731636	HR	heart rate
+16810074	NO	nitric oxide
+16810074	NO	nitric oxide
+16810074	ET-1	endothelin-1
+16867246	EPS	Extrapyramidal syndrome
+16867246	PCR	polymerase chain reaction
+16906379	CRP	C-reactive protein
+16911931	HBIg	hepatitis B immune globulin
+16911931	HBV	hepatitis B virus
+16920333	CBZ	carbamazepine
+16920333	OXC	oxcarbazepine
+17035713	CAA	Chloroacetaldehyde
+17035713	IFO	ifosfamide
+17035713	SH	sulfhydryl
+17069550	ABC	Aberrant Behavior Checklist
+17255138	GI	gastrointestinal
+17255138	NS	non-selective
+17255138	NSAIDs	non-steroidal anti-inflammatory drugs
+17255138	AMI	acute myocardial infarction
+17297207	ECG	electrocardiography
+17297207	PVC	premature ventricular contraction
+17351238	GTN	glyceryl trinitrate
+17356399	ALL	acute lymphoblastic leukemia
+17379047	VAL	valsartan
+17379047	HCTZ	hydrochlorothiazide
+17379047	BP	blood pressure
+17379047	MSDBP	mean sitting diastolic BP
+17379047	MSSBP	mean sitting systolic BP
+17445520	PD	panic disorder
+17445520	MDP	major depression with panic attacks
+17484470	MR	mitral regurgitation
+17484470	LV	left ventricular
+17484470	MAP	mitral annuloplasty
+17496739	GTCS	generalized tonic-clonic seizure
+17496739	CAPD	continuous ambulatory peritoneal dialysis
+17572393	BCNU	carmustine-[1,3-bis ( 2-chloroethyl ) -1-nitrosoure]
+17828434	MIP	Myo-inositol-1-phosphate
+17879100	ATIN	Acute tubulo-interstitial nephritis
+17879100	NSAIDs	non-steroidal anti-inflammatory drugs
+17879100	BUN	blood urea nitrogen
+17879100	TBM	tubular basement membrane
+17879217	IE	infective endocarditis
+17954033	PCR-RFLP	polymerase chain reaction-restriction fragment length polymorphism
+18165598	PGE2	prostaglandin E2
+18165598	TXB2	thromboxane B2
+18165598	COX	cyclooxygenase
+18189308	Trks	tyrosine kinase receptors
+18189308	DRG	dorsal root ganglia
+18189308	CYP	cyclophosphamide
+18189308	NGF	nerve growth factor
+18189308	GFAP	glial fibrillary acidic protein
+18340638	PS	phosphatidylserine
+18399341	ASA	American Society of Anesthesiologists
+18422462	EFV	efavirenz
+18422462	NVP	nevirapine
+18422462	HAART	highly active antiretroviral therapy
+18450790	SAP	sensory action potential
+18450790	CLE	cutaneous lupus erythematosus
+18945509	CAD	coronary artery disease
+18987260	SHR	spontaneously hypertensive rats
+18987260	ADR	adriamycin
+19139825	GBM	glioblastoma multiforme
+19139825	OS	overall survival
+19178808	FRLMA	flexible reinforced laryngeal mask airway
+19178808	ETT	endotracheal tube
+19178808	TIVA	total i.v. anesthesia
+19178808	FESS	functional endoscopic sinus surgery
+19184102	NAFLD	nonalcoholic fatty liver disease
+19184102	VPA	Valproic acid
+19263707	PTU	propylthiouracil
+19263707	ANCA	Antineutrophil cytoplasmic antibody
+19293073	USPSTF	U.S. Preventive Services Task Force
+19293073	CVD	cardiovascular disease
+19293073	RCTs	randomized, controlled trials
+19338378	HIT	heparin-induced thrombocytopenia
+19338378	PCI	percutaneous coronary intervention
+19338378	aPTTs	activated partial thromboplastin times
+19338378	ACTs	activated clotting times
+19419794	Cg	cingulate cortex
+19419794	PENK	proenkephalin
+19419794	CPu	caudate-putamen
+19419794	DA	dopamine
+19447152	TBARSs	thiobarbituric acid reactive substances
+19447152	ICV	intracerebroventricular
+19515070	AKI	acute kidney injury
+19549709	PFSs	progression-free survivals
+19549709	NSCLC	non-small-cell lung cancer
+19549709	IHC	immunohistochemistry
+19549709	mTOR	mammalian target of rapamycin
+19549709	pAKT	phospho AKT
+19549709	ORR	overall response rate
+19655282	CTA	computerized tomography angiography
+19655282	EDs	emergency departments
+19728177	FHF	fulminant hepatic failure
+19728177	MICU	medical intensive care unit
+19815465	VGB	vigabatrin
+19841052	CI	confidence interval
+19841052	HR	hazard ratio
+19914299	CER	conditioned emotional response test
+19914299	OLR	object location recognition test
+19914299	5-FU	5-fluorouracil
+19920070	PB	phenobarbital
+19920070	ILK	integrin-linked kinase
+19920070	WT	Wild-type
+19920070	ECM	extracellular matrix
+20024739	ART	antiretroviral therapy
+20034406	SE	status epilepticus
+20046642	MT	metallothionein
+20046642	TNFalpha	tumor necrosis factor-alpha
+20046642	GR	glutathione reductase
+20046642	MDA	malondialdehyde
+20046642	STM	short-term memory
+20169779	PD	Parkinson's disease
+20192893	PTRA	patients undergoing renal angioplasty
+20192893	PCI	percutaneous coronary intervention
+20192893	CM	contrast medium
+20408947	LT	liver transplantation
+20408947	CLD	chronic liver disease
+20408947	ALF	acute liver failure
+20447294	STZ	streptozotocin
+20495512	HIT	Heparin-induced thrombocytopenia
+20513036	Botox	Botulinum toxin
+20513036	ADSD	adductor spasmodic dysphonia
+20682692	EndoMT	endothelial-mesenchymal-transition
+20682692	SIS3	specific inhibitor of Smad3
+20682692	STZ	streptozotocin
+20682692	MMEC	mouse pancreatic microvascular endothelial cell line
+20682692	AGEs	advanced glycation end products
+20828385	MCL	Mantle cell lymphoma
+20959502	MSSA	methicillin-sensitive Staphylococcus aureus
+20959502	CSF	cerebrospinal fluid
+20959502	CNS	central nervous system
+21195121	NO	Nitric oxide
+21195121	NOS	NO syntheses
+24055495	sAD	sporadic Alzheimer's disease
+24055495	IR	insulin-receptor

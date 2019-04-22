@@ -1,0 +1,4151 @@
+8701013-00|22 30|delirium
+8701013-02|101 107|ulcers
+8701013-03|99 107|delirium
+8701013-04|57 65|delirium
+439781-00|21 32|hypotension
+22836123-00|11 35|scleroderma renal crisis
+22836123-01|0 24|Scleroderma renal crisis
+22836123-01|26 29|SRC
+22836123-01|57 75|systemic sclerosis
+22836123-01|77 80|SSc
+22836123-02|82 85|SRC
+22836123-03|40 66|thrombotic microangiopathy
+22836123-03|113 116|SSc
+22836123-04|42 45|SRC
+22836123-05|89 92|SSc
+23433219-00|51 60|psychosis
+23433219-01|113 122|psychosis
+23433219-02|77 86|psychosis
+23433219-04|175 184|psychosis
+23433219-04|202 223|psychiatric disorders
+23433219-06|70 88|psychotic symptoms
+23433219-06|135 153|psychotic symptoms
+23433219-07|16 35|depressive disorder
+23433219-07|67 83|bipolar disorder
+23433219-07|128 148|personality disorder
+23433219-07|280 289|psychosis
+23433219-08|6 25|depressive disorder
+23433219-08|68 88|personality disorder
+23433219-08|165 174|psychosis
+23433219-09|37 46|psychosis
+23433219-11|86 104|psychotic symptoms
+23535177-00|78 97|Parkinson's disease
+23535177-00|110 120|dyskinetic
+23535177-01|61 80|Parkinson's disease
+23535177-01|82 84|PD
+23535177-01|107 118|dyskinesias
+23535177-01|120 124|LIDs
+23535177-03|90 94|LIDs
+23535177-05|52 56|LIDs
+23535177-06|150 154|LIDs
+23535177-08|260 290|abnormal involuntary movements
+23666265-00|87 95|cystitis
+23666265-01|133 141|cystitis
+23666265-04|12 16|pain
+23666265-08|62 66|pain
+23666265-11|85 90|edema
+23666265-13|28 36|cystitis
+23846525-00|6 15|hepatitis
+23846525-01|13 27|hepatotoxicity
+23846525-01|55 64|hepatitis
+23846525-02|48 57|hepatitis
+23846525-04|23 37|hepatotoxicity
+23846525-05|93 107|hepatic injury
+23864035-00|94 101|myeloma
+23864035-01|92 108|multiple myeloma
+23864035-01|110 112|MM
+23864035-02|212 214|MM
+23864035-08|36 57|peripheral neuropathy
+23864035-11|48 50|MM
+23871786-00|43 50|anxiety
+23871786-02|72 79|anxiety
+23871786-06|66 78|hypothalamus
+23871786-07|55 62|anxiety
+23871786-08|162 174|hypothalamus
+23871786-09|57 64|anxiety
+23871786-10|105 112|anxiety
+23872883-00|66 80|cardiotoxicity
+23872883-01|0 23|Cardiovascular diseases
+23872883-01|25 29|CVDs
+23872883-02|129 143|cardiotoxicity
+23892921-00|125 132|myeloma
+23892921-00|216 223|Myeloma
+23892921-01|91 98|myeloma
+23892921-01|100 104|RRMM
+23892921-02|15 19|RRMM
+23892921-09|52 68|myelosuppression
+23892921-10|0 21|Peripheral neuropathy
+23892921-10|65 85|deep vein thrombosis
+23949582-02|63 83|hemorrhagic cystitis
+23949582-08|28 46|IFO's genotoxicity
+23952588-00|48 58|dyskinesia
+23952588-00|93 112|Parkinson's disease
+23952588-01|39 58|Parkinson's disease
+23952588-01|60 62|PD
+23952588-01|115 125|dyskinesia
+23952588-02|61 71|dyskinesia
+23952588-02|114 116|PD
+23952588-03|68 70|PD
+23952588-05|18 28|dyskinesia
+23952588-09|0 10|Dyskinesia
+23952588-11|36 46|dyskinesia
+23952588-12|14 24|dyskinesia
+23952588-12|259 269|dyskinesia
+23952588-13|36 46|dyskinesia
+23952588-14|48 58|dyskinesia
+24040781-00|59 70|proteinuria
+24040781-00|96 110|AL amyloidosis
+24040781-01|0 11|Proteinuria
+24040781-02|183 191|fibrosis
+24040781-02|196 211|tubular atrophy
+24040781-02|237 251|glomerulopathy
+24040781-03|51 62|amyloidosis
+24040781-03|113 134|monoclonal gammapathy
+24040781-03|178 189|proteinuria
+24067251-00|35 48|kidney injury
+24067251-04|57 76|acute kidney injury
+24067251-04|78 104|kidney tubular dysfunction
+24067251-04|109 125|Fanconi syndrome
+24067251-05|80 94|kidney disease
+24067251-05|130 156|kidney tubular dysfunction
+24067251-05|198 220|glomerular dysfunction
+24067251-05|238 254|Fanconi syndrome
+24067251-07|121 137|Fanconi syndrome
+24068571-00|13 35|postoperative delirium
+24068571-01|9 31|Postoperative delirium
+24068571-02|59 81|postoperative delirium
+24068571-05|64 72|delirium
+24068571-05|106 131|neurological dysfunctions
+24068571-06|39 48|confusion
+24068571-07|6 28|postoperative delirium
+24068571-08|26 35|confusion
+24068571-08|116 138|postoperative delirium
+24068571-09|87 95|delirium
+24068571-10|32 54|postoperative delirium
+24072398-00|9 19|neurotoxic
+24072398-00|67 77|depressive
+24072398-01|133 152|depressive symptoms
+24072398-02|94 104|depressive
+24072398-03|26 36|depressive
+24072398-06|5 15|depressive
+24072398-07|46 56|depression
+24072398-08|99 109|depressive
+24088636-00|18 34|optic neuropathy
+24088636-03|34 48|loss of vision
+24088636-04|79 90|tuberculous
+24088636-04|163 175|tuberculosis
+24088636-04|206 241|painless progressive loss of vision
+24088636-05|59 75|optic disc edema
+24088636-06|25 41|optic neuropathy
+24091473-00|74 90|cardiac toxicity
+24091473-01|154 162|toxicity
+24091473-03|97 120|ventricular tachycardia
+24091473-03|122 134|fibrillation
+24100055-00|29 45|thrombocytopenia
+24100055-01|12 28|Thrombocytopenia
+24100055-01|46 69|end-stage liver disease
+24100055-01|115 127|hypertension
+24100055-01|162 173|endotoxemia
+24100055-02|46 62|thrombocytopenia
+24100055-02|72 75|HIT
+24100055-02|99 115|thrombocytopenia
+24100055-03|68 84|thrombocytopenia
+24100055-03|154 157|HIT
+24100055-04|196 219|malignant liver disease
+24100055-05|86 89|HIT
+24100055-06|52 68|thrombocytopenia
+24100055-06|130 153|End-Stage Liver Disease
+24100055-06|164 179|liver cirrhosis
+24100055-08|10 13|HIT
+24100055-08|72 75|HIT
+24100055-09|30 33|HIT
+24100055-09|51 76|end-stage hepatic failure
+24100055-10|25 28|HIT
+24100257-00|0 18|Takotsubo syndrome
+24100257-00|23 49|apical ballooning syndrome
+24100257-01|0 18|Takotsubo syndrome
+24100257-01|20 22|TS
+24100257-01|39 60|broken heart syndrome
+24100257-01|198 221|acute coronary syndrome
+24100257-02|62 83|mitral valve prolapse
+24100257-02|88 97|migraines
+24100257-02|147 157|chest pain
+24100257-03|168 170|TS
+24100257-04|114 123|migraines
+24100257-05|108 125|migraine headache
+24100257-07|46 64|status migrainosus
+24100257-08|55 80|coronary artery vasospasm
+24100257-08|151 153|TS
+24114426-00|0 10|Depression
+24114426-00|12 25|impulsiveness
+24126708-00|87 106|Parkinson's disease
+24126708-01|55 74|Parkinson's disease
+24126708-01|164 174|dyskinesia
+24126708-01|179 200|visual hallucinations
+24126708-04|29 59|idiopathic Parkinson's disease
+24126708-06|65 75|dyskinesia
+24126708-06|161 182|visual hallucinations
+24132704-12|65 77|hyperlipemia
+24132704-13|86 98|hyperlipemia
+24158386-00|58 74|Hodgkin lymphoma
+24158386-01|0 16|Hodgkin lymphoma
+24158386-01|18 20|HL
+24158386-01|53 63|malignancy
+24158386-03|101 109|toxicity
+24158386-04|43 45|HL
+24158386-04|63 71|toxicity
+24158386-05|83 85|HL
+24158386-06|36 44|toxicity
+24158386-11|26 36|toxicities
+24158386-11|58 69|neutropenia
+24158386-11|79 95|thrombocytopenia
+24158386-15|175 177|HL
+24190587-00|25 37|hypothalamic
+24190587-01|90 118|psychobiological dysfunction
+24190587-06|68 75|anxiety
+24190587-06|80 90|depression
+24190587-10|30 37|anxiety
+24190587-10|42 52|depression
+24209900-00|19 33|encephalopathy
+24209900-01|89 96|cancers
+24209900-01|107 115|sarcomas
+24209900-01|117 125|lymphoma
+24209900-01|154 161|cancers
+24209900-02|0 14|Encephalopathy
+24209900-03|123 137|encephalopathy
+24209900-04|118 136|MD Anderson Cancer
+24209900-04|212 226|encephalopathy
+24209900-05|51 65|encephalopathy
+24209900-06|35 46|convulsions
+24209900-06|90 119|convulsive status epilepticus
+24209900-06|121 125|NCSE
+24209900-07|19 42|epileptiform discharges
+24209900-10|44 58|encephalopathy
+24209900-11|93 107|encephalopathy
+24220752-00|30 41|nephropathy
+24220752-00|72 78|cancer
+24220752-01|91 102|nephropathy
+24220752-01|139 145|cancer
+24220752-03|31 50|acute renal failure
+24220752-10|104 116|hypertension
+24220752-12|57 63|cancer
+24220752-13|0 12|Hypertension
+24220752-15|17 28|nephropathy
+24220752-17|0 12|Hypertension
+24234943-00|12 56|inappropriate antidiuretic hormone secretion
+24234943-01|80 85|SIADH
+24234943-02|40 53|hyponatraemia
+24234943-03|63 69|nausea
+24234943-03|71 78|anxiety
+24234943-03|83 92|confusion
+24234943-04|172 177|SIADH
+24234943-09|81 93|hyponatremia
+24234943-10|86 98|hyponatremia
+24275640-00|20 34|cardiotoxicity
+24275640-01|43 57|cardiotoxicity
+24275640-05|73 81|necrosis
+24275640-06|101 109|necrosis
+24275640-07|78 86|necrosis
+24275640-08|67 81|cardiotoxicity
+24275640-10|52 84|toxicity versus chronic toxicity
+24283660-00|19 26|seizure
+24283660-01|43 51|seizures
+24283660-03|27 35|seizures
+24283660-03|52 60|seizures
+24283660-05|0 8|Seizures
+24283660-06|26 47|tonic-clonic seizures
+24283660-07|65 73|seizures
+24283660-07|120 143|end-stage liver disease
+24283660-08|108 116|seizures
+24283660-09|29 37|seizures
+24283660-09|85 92|seizure
+24283660-09|111 120|epileptic
+24283660-10|69 77|seizures
+24283660-11|126 134|seizures
+24284476-03|42 49|amnesia
+24284476-05|130 141|memory loss
+24309294-02|81 88|amnesia
+24309294-08|185 202|memory impairment
+24333387-00|35 48|neurotoxicity
+24333387-00|97 114|memory impairment
+24333387-01|59 76|synaptic toxicity
+24333387-01|113 128|memory impaired
+24333387-02|24 38|Memory deficit
+24333387-04|175 189|excitotoxicity
+24333387-06|200 222|synaptic neurotoxicity
+24333387-07|154 176|synaptic neurotoxicity
+24333387-12|62 84|synaptic neurotoxicity
+24333387-12|120 137|memory impairment
+24341598-00|99 110|nephropathy
+24341598-01|45 56|nephropathy
+24341598-09|74 93|acute renal failure
+24341598-09|95 98|ARF
+24341598-10|37 40|ARF
+24345882-00|171 199|acute lymphoblastic leukemia
+24345882-02|44 57|neurotoxicity
+24345882-02|202 230|acute lymphoblastic leukemia
+24345882-03|71 90|leukoencephalopathy
+24345882-04|90 118|acute lymphoblastic leukemia
+24345882-04|177 185|leukemia
+24345882-06|44 63|leukoencephalopathy
+24434397-00|47 54|seizure
+24434397-00|58 71|renal failure
+24434397-01|34 56|chronic kidney disease
+24434397-02|42 48|anemia
+24434397-02|56 67|menorrhagia
+24434397-04|70 78|bleeding
+24434397-05|73 97|tonic clonic convulsions
+24434397-07|76 104|nervous system abnormalities
+24434397-07|134 145|convulsions
+24434397-09|31 41|convulsion
+24434397-10|33 44|convulsions
+24434397-10|67 75|overdose
+24438483-00|37 62|cardiovascular depression
+24438483-01|171 185|cardiotoxicity
+24438483-02|125 139|cardiotoxicity
+24438483-05|26 37|dysrhythmia
+24438483-05|155 163|asystole
+24438483-06|50 58|asystole
+24438483-07|27 38|dysrhythmia
+24438483-07|101 109|asystole
+24438483-11|161 172|cardiotoxic
+24451297-00|0 31|Drug-Induced Acute Liver Injury
+24451297-01|82 94|liver injury
+24451297-02|40 52|liver damage
+24451297-03|48 54|nausea
+24451297-03|56 64|anorexia
+24451297-03|76 90|abdominal pain
+24451297-07|56 70|hepatic damage
+24459006-00|23 38|agranulocytosis
+24459006-00|43 59|thrombocytopenia
+24459006-01|58 73|agranulocytosis
+24459006-01|79 95|thrombocytopenia
+24459006-03|39 55|blood dyscrasias
+24459006-04|79 94|agranulocytosis
+24459006-04|99 115|thrombocytopenia
+24464946-00|135 149|cardiotoxicity
+24464946-01|128 147|cardiac dysfunction
+24464946-02|36 56|non-Hodgkin lymphoma
+24464946-07|0 14|Cardiotoxicity
+24464946-07|86 99|heart failure
+24464946-08|46 60|cardiotoxicity
+24464946-10|272 286|cardiotoxicity
+24464946-11|63 77|cardiotoxicity
+24464946-12|94 113|cardiac dysfunction
+24535067-00|32 41|myoclonus
+24535067-02|188 197|myoclonus
+24535067-06|0 19|Myoclonic movements
+24535067-07|16 20|pain
+24535067-08|35 44|myoclonus
+24535067-09|144 153|myoclonus
+24554916-00|46 55|poisoning
+24554916-01|97 111|hepatotoxicity
+24554916-02|0 9|Poisoning
+24554916-02|66 75|hepatitis
+24554916-02|87 106|acute liver failure
+24554916-03|39 48|poisoning
+24554916-03|111 122|cholestasis
+24554916-03|150 161|cholestasis
+24554916-03|207 232|phosphorus hepatotoxicity
+24571687-00|0 17|Vasovagal syncope
+24571687-00|29 40|bradycardia
+24571687-01|10 17|syncope
+24571687-01|22 33|bradycardia
+24571687-02|93 106|consciousness
+24571687-05|45 56|bradycardia
+24571687-06|4 15|bradycardia
+24582773-00|19 28|agitation
+24582773-02|31 51|personality disorder
+24582773-02|97 121|substance abuse disorder
+24582773-03|114 123|agitation
+24582773-03|207 245|aggressiveness or personality disorder
+24582773-04|17 22|manic
+24582773-04|33 42|akathisia
+24582773-05|103 112|agitation
+24582773-05|142 151|agitation
+24587916-00|67 79|hypertension
+24587916-01|30 42|hypertension
+24587916-03|98 110|hypertension
+24587916-11|77 89|hypertension
+24587916-12|18 29|weight loss
+24587916-13|136 148|hypertension
+24588023-00|44 63|convulsive seizures
+24588023-01|49 57|seizures
+24588023-02|2 20|convulsive seizure
+24588023-03|85 107|postoperative seizures
+24588023-04|41 65|postoperative convulsive
+24588023-04|66 74|seizures
+24588023-05|22 30|seizures
+24588023-06|53 60|seizure
+24588023-08|26 48|postoperative seizures
+24588023-08|97 110|calcification
+24588023-08|131 155|congestive heart failure
+24588023-08|157 192|deep hypothermic circulatory arrest
+24588023-09|105 113|seizures
+24588023-10|14 33|convulsive seizures
+24588023-10|152 171|convulsive seizures
+24588023-11|106 125|convulsive seizures
+24588023-11|183 191|seizures
+24588023-12|0 19|Convulsive seizures
+24588023-13|154 176|postoperative seizures
+24595967-04|0 27|Memory recall of word pairs
+24595967-04|71 76|sleep
+24595967-08|113 131|memory impairments
+24614773-00|15 29|encephalopathy
+24614773-01|62 71|confusion
+24614773-01|73 83|aggression
+24614773-01|85 108|auditory hallucinations
+24614773-02|90 101|hemiparesis
+24614773-02|168 187|hemiplegic migraine
+24614773-05|68 82|encephalopathy
+24614773-06|46 60|encephalopathy
+24614773-06|90 102|encephalitis
+24618873-00|15 37|oculomotor dysfunction
+24618873-01|67 71|pain
+24618873-02|15 19|pain
+24618873-03|28 34|nausea
+24618873-03|36 44|vomiting
+24618873-03|49 60|hypotension
+24618873-04|17 50|impaired renal and liver function
+24618873-04|81 85|pain
+24618873-04|175 185|neurotoxic
+24618873-04|225 237|irritability
+24618873-04|242 249|seizure
+24618873-06|107 116|dysmetria
+24618873-06|118 128|dysarthria
+24641119-01|44 66|maculopapular eruption
+24641119-03|55 77|maculopapular eruption
+24653743-00|10 30|Sudden Cardiac Death
+24653743-00|59 78|Torsades de Pointes
+24653743-01|133 152|atrial fibrillation
+24653743-01|194 214|sudden cardiac death
+24653743-02|65 83|torsade de pointes
+24653743-04|179 198|torsades de pointes
+24653743-05|102 121|atrial fibrillation
+24658375-00|32 53|inflammatory myositis
+24658375-00|72 100|acute promyelocytic leukemia
+24658375-01|68 96|acute promyelocytic leukemia
+24658375-01|98 101|APL
+24658375-02|40 48|myositis
+24658375-03|49 52|APL
+24659727-00|76 84|lymphoma
+24659727-01|35 43|toxicity
+24659727-01|131 139|lymphoma
+24659727-04|0 11|Neutropenia
+24659727-04|81 92|neutropenia
+24659727-05|42 53|neutropenia
+24659727-05|160 171|neutropenia
+24659727-06|57 71|hepatotoxicity
+24659727-07|31 45|renal toxicity
+24659727-07|49 69|hemorrhagic cystitis
+24659727-09|153 158|tumor
+24664478-00|11 24|neurotoxicity
+24664478-01|18 31|neurotoxicity
+24664478-02|48 77|T-cell lymphoblastic lymphoma
+24664478-04|52 72|leukemic involvement
+24664478-06|93 113|tumor lysis syndrome
+24664478-06|115 118|TLS
+24664478-09|42 50|numbness
+24664478-10|56 77|peripheral neuropathy
+24664478-13|4 14|neuropathy
+24664478-15|68 81|neurotoxicity
+24665854-00|18 47|hyperammonemic encephalopathy
+24665854-01|0 26|Neurological complications
+24665854-03|18 47|hyperammonemic encephalopathy
+24665854-04|102 110|epilepsy
+24665854-04|124 146|impaired consciousness
+24665854-04|152 166|hyperammonemia
+24671324-00|0 21|Necrotising fasciitis
+24671324-00|101 131|Waldenstrom macroglobulinaemia
+24671324-01|126 136|infections
+24671324-01|161 173|malignancies
+24671324-03|43 73|Waldenstrom macroglobulinaemia
+24671324-03|87 108|necrotising fasciitis
+24671324-03|117 128|neutropenia
+24671324-05|63 73|infections
+24675088-00|106 120|cardiotoxicity
+24675088-01|17 23|cancer
+24675088-02|85 99|cardiomyopathy
+24675088-02|328 336|toxicity
+24675088-05|76 87|hypertrophy
+24675088-06|22 30|fibrosis
+24675088-07|232 246|LV dysfunction
+24675088-09|126 147|diastolic dysfunction
+24675088-12|41 55|LV dysfunction
+24684312-00|99 111|hyperalgesia
+24684312-00|116 125|allodynia
+24684312-01|94 98|pain
+24684312-01|114 126|hyperalgesia
+24684312-01|131 140|allodynia
+24684312-01|176 190|pain disorders
+24684312-04|24 45|pinprick hyperalgesia
+24684312-04|63 72|allodynia
+24684312-04|150 163|brush strokes
+24684312-05|19 31|hyperalgesia
+24684312-05|36 45|allodynia
+24684312-08|10 31|pinprick hyperalgesia
+24684312-09|25 46|pinprick hyperalgesia
+24684312-10|83 96|brush strokes
+24684312-11|51 63|hyperalgesia
+24684312-11|81 90|allodynia
+24684312-12|125 137|hyperalgesia
+24684312-12|142 151|allodynia
+24684312-13|58 70|hyperalgesic
+24691439-00|44 52|glaucoma
+24691439-00|86 94|glaucoma
+24691439-01|42 61|ocular hypertension
+24691439-02|53 61|glaucoma
+24691439-02|85 104|open-angle glaucoma
+24691439-03|51 59|glaucoma
+24691439-04|60 68|glaucoma
+24691439-04|83 91|glaucoma
+24691439-05|142 149|retinal
+24691439-05|170 189|axonal degeneration
+24691439-05|225 233|glaucoma
+24691439-06|35 54|ocular hypertension
+24691439-08|209 228|ocular hypertension
+24691439-09|107 126|ocular hypertension
+24691439-10|71 90|ocular hypertension
+24691439-10|203 211|glaucoma
+24709919-00|42 54|hyperalgesia
+24709919-01|15 27|hyperalgesia
+24709919-01|29 32|OIH
+24717468-09|60 71|hypotension
+24717468-09|112 123|bradycardia
+24717468-11|84 95|hypotension
+24717468-11|99 110|bradycardia
+24717468-12|20 31|hypotension
+24717468-12|36 47|bradycardia
+24717468-13|54 65|hypotension
+24717468-13|69 80|bradycardia
+24727461-00|48 73|mitochondrial dysfunction
+24727461-00|97 111|cardiotoxicity
+24727461-00|125 138|breast cancer
+24727461-01|60 66|cancer
+24727461-01|78 100|cardiovascular disease
+24727461-02|31 45|cardiotoxicity
+24727461-02|104 129|mitochondrial dysfunction
+24727461-03|62 78|cardiac toxicity
+24727461-03|147 160|breast cancer
+24727461-04|24 37|breast tumors
+24727461-06|28 48|cardiac disturbances
+24727461-08|56 68|heart damage
+24729111-00|19 33|myxoedema coma
+24729111-01|36 47|bradycardia
+24729111-01|49 60|hypothermia
+24729111-01|65 84|respiratory failure
+24729111-01|136 155|atrial fibrillation
+24733133-00|40 52|thrombolysis
+24733133-00|112 128|thrombocytopenia
+24733133-00|134 144|thrombosis
+24733133-01|71 87|thrombocytopenia
+24733133-01|93 103|thrombosis
+24733133-01|105 109|HITT
+24733133-01|166 178|thrombolysis
+24733133-02|42 59|renal amyloidosis
+24733133-02|194 216|deep venous thrombosis
+24733133-02|218 221|DVT
+24733133-02|227 245|pulmonary embolism
+24733133-02|275 291|thrombocytopenia
+24733133-04|136 149|SVC) syndrome
+24733133-07|124 127|SVC
+24733133-08|120 123|SVC
+24733133-10|68 80|hearing loss
+24733133-10|93 116|end-stage renal disease
+24733133-11|35 52|renal amyloidosis
+24733133-11|57 69|SVC syndrome
+24733133-11|83 87|HITT
+24739405-00|57 70|schizophrenia
+24739405-01|87 100|schizophrenia
+24739405-04|33 49|hyper locomotion
+24739405-04|152 161|catalepsy
+24739405-04|198 211|schizophrenia
+24739405-06|67 83|hyper locomotion
+24739405-06|120 129|catalepsy
+24739405-09|77 86|catalepsy
+24739405-11|75 84|catalepsy
+24739405-12|100 113|schizophrenia
+24742750-00|111 126|QT prolongation
+24742750-02|114 129|QT prolongation
+24742750-03|97 112|QT prolongation
+24742750-06|83 101|Torsade de Pointes
+24742750-06|103 106|TdP
+24742750-07|73 76|TdP
+24753331-00|21 29|toxicity
+24753331-01|114 140|ventricular septal defects
+24753331-01|161 179|growth retardation
+24753331-01|223 231|toxicity
+24753331-02|90 98|toxicity
+24753331-05|78 100|developmental toxicity
+24753331-06|0 8|Toxicity
+24753331-06|55 73|growth retardation
+24753331-07|84 99|embryonic death
+24753331-07|104 129|ventricular septal defect
+24778426-00|9 23|Renal Toxicity
+24778426-00|27 33|Cancer
+24778426-02|65 79|nephrotoxicity
+24778426-03|42 50|toxicity
+24778426-04|63 77|nephrotoxicity
+24778426-04|81 87|cancer
+24778426-06|29 35|cancer
+24778426-07|24 43|acute kidney injury
+24778426-07|45 48|AKI
+24778426-08|103 114|neck cancer
+24778426-08|132 142|malignancy
+24778426-09|66 80|nephrotoxicity
+24778426-10|79 91|hypertension
+24778426-10|135 149|nephrotoxicity
+24778426-11|139 153|nephrotoxicity
+24778426-12|126 138|hypertension
+24778426-12|167 181|nephrotoxicity
+24802403-00|27 35|seizures
+24802403-00|37 68|learning and memory impairments
+24802403-01|0 20|Cognitive impairment
+24802403-01|64 72|epilepsy
+24802403-02|47 55|epilepsy
+24802403-03|69 77|seizures
+24802403-03|82 100|cognition deficits
+24802403-04|60 98|epileptogenesis and cognitive deficits
+24802403-06|77 85|seizures
+24802403-06|87 107|cognitive impairment
+24802403-09|80 100|cognitive impairment
+24802403-10|94 102|epilepsy
+24802403-10|144 164|cognitive impairment
+24802403-10|176 184|seizures
+24812279-00|52 66|cardiotoxicity
+24812279-01|45 51|cancer
+24812279-01|114 128|cardiotoxicity
+24812279-02|51 64|heart failure
+24812279-03|63 77|cardiotoxicity
+24812279-09|154 168|cardiotoxicity
+24816962-00|22 36|encephalopathy
+24816962-02|56 70|encephalopathy
+24816962-03|132 147|corpus callosum
+24816962-04|31 39|toxicity
+24840785-00|39 49|arrhythmia
+24840785-02|92 106|cardiotoxicity
+24840785-03|69 78|poisoning
+24840785-04|88 97|poisoning
+24840785-05|110 120|arrhythmia
+24840785-06|39 56|myocardial injury
+24840785-06|71 83|cytotoxicity
+24840785-07|46 63|myocardial injury
+24840785-13|94 104|arrhythmia
+24842192-00|90 118|left ventricular dysfunction
+24842192-00|129 150|myocardial infarction
+24842192-01|58 79|myocardial infarction
+24842192-02|76 95|cardiac dysfunction
+24842192-02|149 170|myocardial infarction
+24842192-04|95 116|myocardial infarction
+24842192-06|9 32|ventricular dysfunction
+24842192-07|131 136|tumor
+24842192-07|137 145|necrosis
+24842192-11|50 71|myocardial infarction
+24842192-11|72 91|cardiac dysfunction
+24842192-12|56 76|infarcted myocardium
+24881749-00|0 30|Neuroleptic malignant syndrome
+24881749-00|121 141|Huntington's disease
+24881749-00|177 190|breast cancer
+24881749-01|66 96|neuroleptic malignant syndrome
+24881749-01|225 245|Huntington's disease
+24881749-03|22 35|breast cancer
+24881749-04|48 78|neuroleptic malignant syndrome
+24894748-00|45 56|bradycardia
+24894748-01|12 29|sinus bradycardia
+24894748-02|64 87|coronary artery disease
+24894748-02|154 167|onychomycosis
+24894748-03|121 130|confusion
+24894748-04|52 63|bradycardia
+24894748-05|124 141|sinus bradycardia
+24894748-08|169 186|sinus bradycardia
+24897009-00|19 40|peripheral neuropathy
+24897009-01|29 45|optic neuropathy
+24897009-01|64 85|axonal polyneuropathy
+24897009-02|111 122|visual loss
+24897009-03|119 127|toxicity
+24902786-00|48 65|memory impairment
+24902786-01|74 91|memory impairment
+24902786-07|66 85|impaired the memory
+24902786-07|201 218|memory impairment
+24902786-08|80 97|memory impairment
+24911645-00|104 112|seizures
+24911645-02|44 57|skin diseases
+24911645-02|138 147|diarrheas
+24911645-04|86 93|seizure
+24911645-04|329 337|seizures
+24911645-05|43 50|seizure
+24911645-09|128 146|status epilepticus
+24911645-09|196 203|seizure
+24923469-00|75 94|acute kidney injury
+24923469-01|14 33|Acute kidney injury
+24923469-01|35 38|AKI
+24923469-03|160 171|nephrotoxic
+24923469-03|206 209|AKI
+24923469-08|0 3|AKI
+24923469-10|15 18|AKI
+24923469-12|0 3|AKI
+24923469-13|79 89|infections
+24923469-14|76 79|AKI
+24923469-15|50 61|nephrotoxic
+24923469-15|117 120|AKI
+24927617-00|0 14|Rhabdomyolysis
+24927617-00|20 46|hepatitis C virus infected
+24927617-01|25 60|chronic hepatitis C virus infection
+24927617-03|110 124|rhabdomyolysis
+24927617-04|75 83|toxicity
+24927617-10|87 102|muscle toxicity
+24928523-00|150 166|multiple myeloma
+24928523-01|40 56|multiple myeloma
+24928523-01|58 60|MM
+24928523-02|212 214|MM
+24928523-04|10 21|neutropenia
+24928523-04|26 42|thrombocytopenia
+24928523-04|146 155|cytopenia
+24928523-05|0 21|Peripheral neuropathy
+24928523-05|62 83|peripheral neuropathy
+24928523-08|89 91|MM
+24971338-00|57 68|nephropathy
+24971338-01|152 163|nephropathy
+24971338-05|0 13|Renal lesions
+24971338-06|27 38|proteinuria
+24971338-06|91 107|renal impairment
+24971338-07|52 66|kidney lesions
+24971338-08|34 46|renal damage
+24971338-09|40 52|renal damage
+24975837-00|70 88|acute renal injury
+24975837-01|91 110|acute kidney injury
+24975837-01|209 244|increase the acute tubular necrosis
+24975837-02|51 63|inflammation
+24975837-02|174 194|diabetic nephropathy
+24975837-03|66 85|acute kidney injury
+24975837-05|98 109|weight loss
+24975837-05|202 224|acute tubular necrosis
+24975837-07|83 102|acute kidney injury
+24975837-07|120 128|necrotic
+24975837-08|86 100|nephrotoxicity
+24999722-00|80 108|birdshot retinochoroidopathy
+24999722-01|120 162|birdshot retinochoroidopathy whose disease
+24999722-02|50 78|birdshot retinochoroidopathy
+24999722-05|45 64|ocular inflammation
+24999722-05|78 96|retinal vasculitis
+24999722-06|22 30|cataract
+24999722-07|21 33|inflammation
+24999722-08|7 17|vasculitis
+24999722-09|49 66|retinal thickness
+24999722-09|98 119|cystoid macular edema
+24999722-12|67 75|cataract
+24999722-13|92 104|inflammation
+24999722-13|148 176|birdshot retinochoroidopathy
+24999722-14|50 58|cataract
+24999722-14|63 82|ocular hypertension
+25006369-00|53 66|fasciculation
+25006369-00|71 78|myalgia
+25006369-01|82 102|muscle fasciculation
+25006369-01|107 114|myalgia
+25006369-02|95 108|fasciculation
+25006369-02|113 120|myalgia
+25006369-06|136 150|fasciculations
+25006369-06|158 165|myalgia
+25006369-07|47 67|muscle fasciculation
+25006369-08|9 16|myalgia
+25006369-10|136 149|fasciculation
+25006369-10|154 161|myalgia
+25006961-00|48 78|nephrogenic diabetes insipidus
+25006961-01|45 75|nephrogenic diabetes insipidus
+25006961-01|77 80|NDI
+25006961-03|131 139|polyuria
+25006961-12|116 119|NDI
+25006961-12|164 172|polyuria
+25031906-03|47 59|hypertension
+25031906-03|104 127|loss of taste sensation
+25041770-00|0 14|Rhabdomyolysis
+25041770-02|39 53|rhabdomyolysis
+25041770-03|121 135|rhabdomyolysis
+25041770-04|46 60|rhabdomyolysis
+25041770-05|93 101|myopathy
+25041770-06|82 96|rhabdomyolysis
+25054547-00|117 122|apnea
+25054547-01|63 68|apnea
+25054547-02|36 55|neuromuscular block
+25071004-00|8 14|anemia
+25071004-01|17 33|hemolytic anemia
+25071004-01|198 205|malaria
+25071004-02|159 166|malaria
+25071004-06|21 27|anemia
+25080425-00|138 155|myocardial injury
+25080425-01|95 114|myocardial ischemia
+25080425-03|6 32|myocardial ischemic injury
+25080425-05|140 162|ventricular remodeling
+25080425-08|34 51|myocardial damage
+25080425-09|96 115|myocardial ischemia
+25084821-00|19 30|neutropenia
+25084821-00|36 43|bipolar
+25084821-00|57 81|hepatocellular carcinoma
+25084821-01|117 133|blood dyscrasias
+25084821-01|146 157|neutropenia
+25084821-03|25 49|hepatocellular carcinoma
+25084821-03|65 76|neutropenia
+25084821-04|48 64|bipolar disorder
+25084821-04|84 108|hepatocellular carcinoma
+25084821-05|14 24|leucopenia
+25084821-07|22 33|neutropenia
+25084821-08|0 19|Hepatic dysfunction
+25084821-08|77 82|fever
+25096313-00|21 41|cutaneous neuropathy
+25096313-01|87 107|cutaneous neuropathy
+25096313-01|191 212|lateral epicondylitis
+25096313-03|33 37|pain
+25096313-08|127 148|lateral epicondylitis
+25119790-00|34 48|nephrotoxicity
+25119790-01|107 119|renal injury
+25119790-02|8 19|proteinuria
+25119790-03|16 28|renal injury
+25119790-03|246 259|kidney injury
+25119790-03|343 351|necrosis
+25119790-10|75 86|nephropathy
+25907210-00|19 26|tumours
+25907210-01|116 127|lung cancer
+25907210-01|247 253|cancer
+25907210-02|38 44|cancer
+25907210-02|85 91|tumour
+25907210-03|146 152|cancer
+25907210-04|173 179|cancer
+25907210-05|30 41|lung cancer
+25907210-06|0 13|Kidney cancer
+25907210-06|179 205|aggressive prostate cancer
+25907210-07|100 111|lung cancer
+25907210-08|26 39|kidney cancer
+25907210-08|62 88|aggressive prostate cancer
+25951420-00|52 71|Parkinson's Disease
+25951420-01|87 106|Parkinson's disease
+25951420-02|124 143|Parkinson's disease
+25951420-04|46 65|Parkinson's disease
+25951420-05|92 111|Parkinson's disease
+25986755-00|78 96|glomerulosclerosis
+25986755-01|96 127|intrauterine growth retardation
+25986755-01|129 133|IUGR
+25986755-02|31 35|IUGR
+25986755-02|57 75|glomerulosclerosis
+25986755-03|34 52|glomerulosclerosis
+25986755-04|49 67|glomerulosclerosis
+25986755-05|15 19|IUGR
+25986755-06|81 99|glomerulosclerosis
+25986755-06|124 132|fibrosis
+25986755-11|49 75|dysplasia of fetal kidneys
+25986755-11|87 105|glomerulosclerosis
+25986755-11|223 241|glomerulosclerosis
+26002693-00|15 18|CML
+26002693-01|111 135|chronic myeloid leukemia
+26002693-01|137 140|CML
+26002693-02|0 3|CML
+26002693-03|56 59|CML
+26002693-03|94 117|Philadelphia chromosome
+26033014-00|0 6|Cancer
+26033014-02|51 66|liver neoplasms
+26033014-05|13 19|cancer
+26033014-06|142 148|cancer
+26033014-07|67 74|cancers
+26033014-07|136 143|cancers
+26033014-08|4 16|liver cancer
+26033014-10|51 59|lymphoma
+26033014-10|74 82|lymphoma
+26033014-11|35 46|lung cancer
+26033014-12|58 70|liver cancer
+26033014-12|154 169|liver neoplasms
+26033014-13|31 43|liver cancer
+26033014-13|48 72|follicular cell lymphoma
+26115410-01|137 154|inorganic arsenic
+26115410-01|156 159|iAs
+26115410-03|94 97|iAs
+26115410-03|142 150|diseases
+26115410-03|184 190|cancer
+26115410-04|106 112|cancer
+26115410-04|173 176|iAs
+26115410-05|108 114|cancer
+26115410-05|204 207|iAs
+26115410-05|232 244|carcinogenic
+26115410-06|58 61|iAs
+26115410-06|75 81|cancer
+44072-02|27 37|arrhythmia
+44072-04|77 87|arrhythmia
+44072-04|129 139|arrhythmia
+753803-00|25 43|muscular dystrophy
+753803-01|99 117|muscular dystrophy
+753803-03|0 8|Myopathy
+753803-03|38 46|myopathy
+753803-04|20 32|myodystrophy
+753803-06|62 71|myopathic
+753803-06|152 160|myopathy
+753803-07|73 82|myopathic
+753803-07|261 270|myopathic
+753803-09|101 118|myopathic disease
+920167-03|30 50|pulmonary hemorrhage
+920167-05|33 44|embryopathy
+920167-05|50 66|nasal hypoplasia
+920167-05|91 116|chondrodysplasia punctata
+920167-06|0 16|Nasal hypoplasia
+1451544-00|25 37|hypertension
+1451544-01|155 167|hypertension
+1451544-03|27 35|headache
+1451544-03|37 46|dizziness
+1451544-03|64 72|flushing
+1451544-05|84 104|postural hypotension
+2782734-01|102 108|asthma
+2782734-05|127 133|tremor
+2782734-10|82 88|tremor
+2983630-00|44 59|panic disorders
+2983630-01|277 288|agoraphobia
+2983630-01|294 307|panic attacks
+2983630-01|311 325|panic disorder
+2983630-02|67 74|anxiety
+2983630-02|95 101|nausea
+2983630-02|135 142|tremors
+2983630-04|126 139|panic attacks
+2983630-07|86 100|panic disorder
+2983630-08|14 31|anxiety disorders
+3711722-00|78 91|heart failure
+3711722-02|74 87|heart failure
+3711722-03|21 35|cardiomyopathy
+3711722-04|37 50|heart failure
+3711722-05|189 206|rheumatic disease
+3711722-05|218 241|myxomatous degeneration
+3711722-06|81 97|coronary disease
+3711722-08|19 42|coronary artery disease
+3711722-08|209 225|coronary disease
+6728873-03|71 85|clonic seizure
+6728873-06|38 53|clonic seizures
+6728873-07|24 38|tonic seizures
+6728873-08|113 127|tonic seizures
+6728873-11|39 47|toxicity
+7248895-00|9 38|carcinoma of the renal pelvis
+7248895-01|25 52|right hydroureteronephrosis
+7248895-01|106 115|hematuria
+7248895-01|177 196|cerebral vasculitis
+7248895-02|55 63|bleeding
+7248895-03|60 89|carcinoma of the renal pelvis
+7248895-04|50 70|hemorrhagic cystitis
+7248895-04|139 148|carcinoma
+7248895-04|226 235|carcinoma
+7248895-05|7 17|carcinomas
+7248895-05|49 58|carcinoma
+7248895-06|30 59|carcinoma of the renal pelvis
+7248895-07|30 36|cancer
+7248895-08|23 28|tumor
+7248895-09|103 123|obstructive uropathy
+9578276-05|54 65|hypotension
+9578276-05|82 96|abdominal pain
+9578276-05|102 110|vomiting
+9578276-06|63 73|blood loss
+9578276-08|27 37|blood loss
+11423811-00|134 144|chest pain
+11423811-01|17 27|Chest pain
+11423811-02|105 113|ischemia
+11423811-03|217 227|chest pain
+11423811-05|95 105|chest pain
+11423811-06|48 56|toxicity
+11423811-09|78 98|inferior hypokinesis
+11423811-11|169 186|tachydysrhythmias
+11423811-11|204 215|tachycardia
+11423811-13|126 136|chest pain
+12678199-00|19 37|torsade de pointes
+12678199-01|67 85|torsade de pointes
+12678199-01|87 90|TdP
+12678199-02|43 46|TdP
+12678199-02|114 125|hypokalemia
+12678199-03|83 86|TdP
+12678199-04|22 33|bradycardia
+12678199-04|55 58|TdP
+12678199-05|165 178|proarrhythmia
+12678199-06|81 84|TdP
+12678199-06|93 104|hypokalemia
+12678199-06|109 123|hypomagnesemia
+15696449-00|0 25|Acute renal insufficiency
+15696449-00|86 97|amyloidosis
+15696449-01|26 54|primary systemic amyloidosis
+15696449-01|56 58|AL
+15696449-04|42 67|acute renal insufficiency
+15696449-06|21 23|AL
+15696449-07|0 25|Acute renal insufficiency
+15696449-07|27 30|ARI
+15696449-09|37 40|ARI
+15696449-10|36 51|hypoalbuminemia
+15696449-10|59 70|proteinuria
+15696449-12|17 20|ARI
+15696449-13|26 38|renal injury
+15696449-14|0 22|Ongoing tubular injury
+15696449-14|49 61|renal injury
+15696449-15|15 18|ARI
+15696449-16|84 86|AL
+17554526-11|40 51|psychopaths
+17554526-11|95 115|amygdala dysfunction
+17721298-00|0 14|Corneal ulcers
+17721298-01|30 44|corneal ulcers
+17721298-01|61 71|drug abuse
+17721298-02|26 32|ulcers
+17721298-03|32 46|corneal ulcers
+17721298-03|63 73|drug abuse
+17721298-04|28 42|corneal ulcers
+17721298-05|4 18|corneal ulcers
+17721298-06|71 100|substance abuse consultations
+17721298-08|4 14|infections
+17721298-10|85 99|corneal ulcers
+17721298-11|0 10|Drug abuse
+17721298-12|28 38|infections
+17721298-13|80 95|substance abuse
+18341442-00|78 97|idiopathic epilepsy
+18341442-01|183 202|idiopathic epilepsy
+18341442-03|35 54|idiopathic epilepsy
+18341442-06|0 7|Seizure
+18341442-08|7 14|seizure
+18341442-08|68 76|seizures
+18341442-08|118 125|seizure
+18341442-08|186 194|seizures
+18341442-08|298 305|seizure
+18341442-09|23 31|lethargy
+18341442-10|171 190|idiopathic epilepsy
+19681452-00|0 33|Bilateral haemorrhagic infarction
+19681452-00|75 95|alcohol intoxication
+19681452-01|34 42|ischemic
+19681452-01|47 66|haemorrhagic stroke
+19681452-02|56 64|ischemia
+19681452-03|29 40|infarctions
+19681452-04|16 32|ganglia infarcts
+19681452-05|26 44|cardiac arrhythmia
+19681452-05|48 71|respiratory dysfunction
+19681452-05|141 163|cerebral hypoperfusion
+20009434-00|0 19|Acute renal failure
+20009434-01|62 78|Burkitt lymphoma
+20009434-01|106 120|renal toxicity
+20009434-02|20 39|acute renal failure
+20009434-02|46 48|HD
+20009434-02|183 209|congenital biliary atresia
+20009434-03|60 64|PTLD
+20009434-03|87 115|lymphoproliferative disorder
+20009434-03|117 148|Burkitt-type malignant lymphoma
+20009434-05|33 52|acute renal failure
+20009434-06|17 42|intravascular hypovolemia
+20009434-06|80 119|ileostoma caused acute prerenal failure
+20009434-07|77 79|HD
+20009434-07|121 130|ileostoma
+20431083-00|51 75|intracerebral hemorrhage
+20431083-01|81 105|intracerebral hemorrhage
+20431083-01|107 110|ICH
+20431083-02|106 109|ICH
+20431083-02|114 129|ischemic stroke
+20431083-02|131 133|IS
+20431083-02|145 153|ischemic
+20431083-03|94 100|stroke
+20431083-03|104 107|TIA
+20431083-03|199 202|ICH
+20431083-03|246 248|IS
+20431083-03|262 265|ICH
+20431083-03|269 277|ischemic
+20431083-04|83 86|ICH
+20431083-05|38 41|ICH
+20431083-05|51 53|IS
+20431083-05|84 87|ICH
+20431083-05|91 93|IS
+20431083-06|66 69|ICH
+20431083-06|138 140|IS
+20431083-07|72 75|ICH
+20431083-07|167 169|IS
+20431083-08|147 150|ICH
+20431083-09|53 56|ICH
+20431083-09|140 143|ICH
+20595935-00|30 48|hyperprolactinemia
+20595935-01|100 118|hyperprolactinemia
+20595935-03|109 127|macroprolactinemia
+20595935-04|86 104|hyperprolactinemia
+20595935-07|93 110|macroprolactinoma
+20595935-07|128 145|microprolactinoma
+20595935-07|215 233|pseudoprolactinoma
+20595935-07|277 295|hyperprolactinemia
+20595935-08|234 252|pseudoprolactinoma
+20595935-08|276 294|hyperprolactinemia
+20595935-09|97 115|hyperprolactinemia
+20595935-10|150 168|hyperprolactinemia
+35781-03|132 142|cataleptic
+35781-05|147 156|catalepsy
+35781-06|8 17|catalepsy
+48835-00|65 78|hypoglycaemia
+48835-01|30 43|hypoglycaemia
+48835-03|35 48|hypoglycaemia
+48835-06|0 12|Hypertension
+48835-06|16 25|diabetics
+48835-06|35 56|hypoglycaemia attacks
+89511-00|28 47|endometrial disease
+89511-01|57 76|endometrial disease
+89511-02|0 18|Cystic hyperplasia
+89511-03|98 116|cystic hyperplasia
+89511-03|150 161|hyperplasia
+89511-03|174 195|endometrial carcinoma
+89511-03|352 363|hyperplasia
+89511-03|369 379|malignancy
+89511-04|105 128|endometrial hyperplasia
+89511-04|132 141|carcinoma
+146391-00|0 21|Pure red cell aplasia
+146391-00|23 39|toxic dermatitis
+146391-00|44 59|lymphadenopathy
+146391-01|71 80|skin rash
+146391-01|82 97|lymphadenopathy
+146391-01|102 123|pure red cell aplasia
+146391-03|0 9|Skin rash
+146391-03|87 112|malignant lymphadenopathy
+146391-04|0 21|Pure red cell aplasia
+146391-06|103 112|skin rash
+146391-06|114 129|lymphadenopathy
+146391-06|134 155|pure red cell aplasia
+256433-00|63 73|infections
+256433-00|77 83|cancer
+256433-01|17 27|infections
+256433-01|31 37|cancer
+256433-01|72 83|neutropenia
+256433-02|36 47|neutropenia
+256433-03|35 46|neutropenia
+256433-05|42 48|cancer
+256433-07|30 39|infection
+256433-08|80 90|infections
+256433-09|29 50|Klebsiella pneumoniae
+256433-09|75 91|Escherichia coli
+256433-09|169 179|infections
+256433-10|121 132|neutropenia
+256433-12|0 8|Azotemia
+256433-13|6 14|azotemia
+256433-14|0 8|Azotemia
+256433-15|72 86|renal toxicity
+448423-00|10 33|subarachnoid hemorrhage
+448423-00|80 109|acute renal artery thrombosis
+448423-02|86 109|subarachnoid hemorrhage
+448423-02|111 114|SAH
+448423-03|94 104|thrombotic
+448423-04|61 93|intracranial vascular thrombosis
+448423-04|111 114|SAH
+448423-04|148 155|thrombi
+448423-04|173 195|fibrinolytic syndromes
+448423-04|224 238|thromboembolic
+448423-05|27 34|thrombi
+448423-05|71 93|fibrinolytic disorders
+448423-05|155 162|thrombi
+448423-05|193 218|intravascular coagulation
+448423-05|241 255|coagulopathies
+448423-06|31 41|infarction
+448423-06|63 73|thrombosis
+448423-07|61 64|SAH
+448423-07|114 117|SAH
+448423-08|61 73|hypertension
+448423-08|78 111|abrupt neurological deterioration
+573555-07|37 49|hypoglycemia
+573555-07|51 69|hyperbilirubinemia
+573555-07|71 83|polycythemia
+573555-07|94 99|apnea
+573555-07|105 116|bradycardia
+573555-08|0 18|Growth retardation
+611664-00|39 73|idiopathic orthostatic hypotension
+611664-01|19 53|idiopathic orthostatic hypotension
+611664-01|109 130|autonomic dysfunction
+611664-02|139 155|hypersensitivity
+611664-05|21 33|hypertension
+611664-09|87 121|idiopathic orthostatic hypotension
+612112-06|122 126|pain
+612112-06|131 140|myoclonia
+612112-07|171 180|myoclonia
+689020-00|32 38|tremor
+689020-01|42 48|tremor
+689020-03|58 77|tremor oscillations
+689020-06|53 59|tremor
+689020-08|50 56|tremor
+733189-00|0 55|Bilateral retinal artery and choriocapillaris occlusion
+733189-02|39 53|retinal artery
+733189-02|91 100|blindness
+733189-04|62 67|palsy
+733189-04|69 92|pupillary abnormalities
+733189-04|98 122|conjunctival hemorrhages
+733189-04|128 133|edema
+733189-05|32 43|visual loss
+733189-05|45 70|constricted visual fields
+733189-05|118 139|chorioretinal atrophy
+816141-00|27 43|hemolytic anemia
+816141-01|15 28|renal disease
+816141-01|55 71|hemolytic anemia
+816141-05|38 55|hemolytic anemias
+851038-00|41 53|parkinsonian
+851038-01|0 11|Hypokalemia
+851038-01|67 79|parkinsonian
+851038-02|91 102|hypokalemia
+851038-03|107 118|hypokalemic
+891494-00|10 24|encephalopathy
+891494-01|26 40|encephalopathy
+891494-01|57 65|seizures
+891494-03|4 18|encephalopathy
+891494-03|66 83|allergic reaction
+891494-04|96 100|rash
+891494-05|88 96|seizures
+895432-00|61 82|myocardial infarction
+895432-01|64 85|myocardial infarction
+895432-09|158 168|infarction
+931801-00|51 63|renal damage
+931801-01|34 53|acute renal failure
+931801-02|90 103|renal failure
+931801-04|36 48|renal damage
+931801-06|109 122|renal damages
+931801-07|40 52|renal damage
+931801-08|54 67|renal lesions
+931801-09|45 59|nephrotoxicity
+946593-00|0 10|Paraplegia
+946593-01|24 34|paraplegia
+946593-03|166 174|leukemia
+946593-03|189 210|cerebrospinal leakage
+946593-03|450 460|neurotoxic
+946593-04|136 144|toxicity
+946593-05|17 30|neurotoxicity
+946593-05|129 137|leukemia
+946593-07|111 124|neurotoxicity
+978847-02|308 319|tachycardia
+1117341-01|114 127|hyperglycemia
+1117341-01|184 194|glucosuria
+1158089-04|205 215|depression
+1158089-07|126 136|depression
+1158089-09|0 9|Depressed
+1280054-00|6 25|myeloencephalopathy
+1280054-01|65 74|leukaemia
+1280054-01|128 142|encephalopathy
+1280707-01|53 70|arrhythmogenicity
+1280707-02|141 151|arrhythmic
+1280707-07|57 67|arrhythmia
+1280707-09|28 38|arrhythmia
+1289188-00|0 19|Acute renal failure
+1289188-01|37 48|thalassemia
+1289188-02|141 160|renal insufficiency
+1289188-03|226 240|nephrotoxicity
+1289188-04|117 136|acute renal failure
+1359137-00|23 41|hyperprolactinemia
+1359137-02|40 58|hyperprolactinemia
+1359137-02|63 73|amenorrhea
+1359137-02|74 88|oligomenorrhea
+1359137-03|39 57|hyperprolactinemia
+1359137-06|109 127|hyperprolactinemia
+1359137-06|132 155|amenorrhea/galactorrhea
+1360900-00|24 35|convulsions
+1360900-01|58 68|convulsive
+1360900-03|27 38|convulsions
+1361574-08|103 114|convulsions
+1395192-00|10 31|myocardial infarction
+1395192-01|0 21|Myocardial infarction
+1395192-02|0 5|Spasm
+1395192-02|31 43|atheromatous
+1395192-03|70 91|myocardial infarction
+1420650-00|0 9|Asterixis
+1420650-01|33 42|asterixis
+1420650-02|108 117|asterixis
+1420650-04|12 21|asterixis
+1420650-04|57 70|neurotoxicity
+1423336-00|24 35|hypotensive
+1423336-00|58 70|parkinsonian
+1423336-01|57 69|parkinsonian
+1423336-02|21 32|hypotensive
+1423336-03|39 50|hypotensive
+1423336-04|119 130|hypotensive
+1423336-06|131 142|hypotensive
+1423336-07|40 51|hypotensive
+1423336-08|4 15|hypotensive
+1424076-01|36 52|multiple myeloma
+1424076-02|52 60|lethargy
+1424076-02|65 73|weakness
+1424076-02|90 102|hyponatremia
+1449452-00|0 13|Heart failure
+1449452-03|17 36|atrial fibrillation
+1449452-04|33 46|heart failure
+1449452-06|115 126|arrhythmias
+1449452-11|151 172|myocardial infarction
+1449452-11|174 176|MI
+1522360-00|14 23|hemolysis
+1522360-00|28 47|acute renal failure
+1522360-01|0 13|Renal failure
+1522360-02|14 23|hemolysis
+1522360-02|35 54|acute renal failure
+1522360-03|18 25|leprosy
+1522360-03|40 49|hemolysis
+1522360-03|54 73|acute renal failure
+1556529-00|19 28|hepatitis
+1556529-01|16 25|hepatitis
+1556529-01|78 82|AIDS
+1556529-02|26 35|hepatitis
+1556529-04|36 40|AIDS
+1563460-00|0 21|Thoracic hematomyelia
+1563460-01|10 31|thoracic hematomyelia
+1564030-00|0 5|Mania
+1564030-01|117 127|depression
+1564030-02|84 89|mania
+1564030-03|75 80|mania
+1564030-04|45 63|mania or hypomania
+1564030-04|141 181|attention-deficit hyperactivity disorder
+1564030-04|215 225|depression
+1564030-04|231 240|psychotic
+1564030-04|271 289|affective disorder
+1564030-04|302 318|bipolar disorder
+1564030-04|339 355|bipolar disorder
+1564030-05|146 151|mania
+1615846-00|43 64|hyperlipoproteinemias
+1615846-01|207 221|hyperlipidemia
+1615846-01|239 271|atherosclerotic vascular disease
+1615846-07|0 8|Myositis
+1615846-07|202 216|rhabdomyolysis
+1615846-07|220 233|myoglobinuria
+1655018-00|0 24|Hepatocellular carcinoma
+1655018-00|28 44|Fanconi's anemia
+1655018-01|65 81|Fanconi's anemia
+1655018-02|56 64|aplastic
+1655018-02|77 87|septicemia
+1655018-02|143 171|hemorrhagic bronchopneumonia
+1655018-03|3 19|autopsy peliosis
+1655018-03|33 47|hepatic tumors
+1655018-03|113 137|hepatocellular carcinoma
+1655018-04|74 91|hepatic neoplasms
+1655018-04|171 187|Fanconi's anemia
+1735570-00|65 77|hypertensive
+1735570-01|193 205|hypertensive
+1735570-08|25 36|hypotension
+1735570-08|70 81|bradycardia
+1735570-08|135 146|tachycardia
+1735570-09|98 110|hypertension
+1735570-09|138 150|hypertensive
+1735570-10|86 98|hypertension
+1756784-00|70 88|status epilepticus
+1756784-01|69 86|epileptic seizure
+1756784-02|37 55|status epilepticus
+1756784-03|15 33|status epilepticus
+1756784-05|89 107|status epilepticus
+1756784-06|113 128|neuronal damage
+1756784-08|156 161|edema
+1756784-09|98 106|seizures
+1756784-11|71 86|neuronal damage
+1756784-13|18 23|edema
+1756784-19|124 142|status epilepticus
+1760851-00|8 22|cardiotoxicity
+1760851-01|51 59|toxicity
+1760851-01|73 87|cardiotoxicity
+1760851-06|51 65|cardiotoxicity
+1760851-06|292 306|cardiotoxicity
+1779253-00|50 59|neuralgia
+1779253-01|145 154|neuralgia
+1779253-02|40 44|pain
+1779253-04|188 196|mastitis
+1779253-07|124 143|sensory disturbance
+1779253-07|147 151|pain
+1837756-00|31 39|paranoia
+1837756-02|14 22|paranoid
+1837756-03|111 121|depressive
+1837756-03|126 144|psychotic symptoms
+1837756-04|12 32|depressive disorders
+1837756-04|98 107|psychosis
+1837756-04|109 119|bipolarity
+1837756-04|168 177|psychosis
+1837756-05|46 54|paranoia
+1837756-06|39 47|paranoid
+1837756-06|165 173|paranoia
+1858969-00|14 26|encephalitis
+1858969-00|47 54|loiasis
+1858969-01|14 26|encephalitis
+1858969-01|118 136|Loa loa filariasis
+1858969-06|43 55|encephalitis
+1905439-00|0 8|Delirium
+1905439-01|66 91|gastrointestinal symptoms
+1905439-01|119 127|headache
+1905439-05|4 12|delirium
+1905439-06|76 84|delirium
+1943082-00|40 78|intestinal ischemia-reperfusion injury
+1943082-01|15 23|ischemic
+1943082-01|51 68|liver dysfunction
+1943082-02|42 56|hepatic injury
+1943082-03|80 94|hepatic injury
+1943082-04|38 76|intestinal ischemia-reperfusion injury
+1943082-06|66 104|intestinal ischemia-reperfusion injury
+2021990-09|62 73|hypotension
+2083961-00|0 19|Acute renal failure
+2083961-01|57 79|pulmonary tuberculosis
+2083961-02|120 126|nausea
+2083961-02|128 136|vomiting
+2083961-02|141 146|fever
+2083961-03|29 48|acute renal failure
+2131034-00|7 21|polyneuropathy
+2131034-01|28 47|neurologic toxicity
+2131034-02|21 38|axonal neuropathy
+2131034-03|0 21|Neurologic toxicities
+2131034-04|27 44|axonal neuropathy
+2131034-05|121 134|neurotoxicity
+2173761-05|53 64|hypotension
+2173761-05|204 215|tachycardia
+2217015-00|23 34|neutropenia
+2217015-00|39 52|renal failure
+2217015-00|77 91|hypothyroidism
+2217015-01|33 59|non-oliguric renal failure
+2217015-01|71 82|neutropenia
+2217015-02|4 15|neutropenia
+2217015-03|24 35|hypothyroid
+2217015-04|60 71|hypothyroid
+2217015-04|91 105|hypothyroidism
+2239937-00|12 25|hypercalcemia
+2239937-01|46 59|hypercalcemic
+2239937-02|69 82|hypercalcemia
+2239937-02|302 315|renal disease
+2239937-03|28 50|hypercalcemic episodes
+2320485-00|19 35|hemolytic anemia
+2320485-00|72 79|syncope
+2320485-02|21 48|autoimmune hemolytic anemia
+2320485-03|39 55|hemolytic anemia
+2320485-03|129 136|syncope
+2320485-04|62 68|trauma
+2320485-08|46 63|hemolytic anemias
+2358093-00|46 67|hereditary angioedema
+2358093-02|128 149|hereditary angioedema
+2358093-05|0 23|Menstrual abnormalities
+2358093-05|31 42|weight gain
+2358093-05|50 72|muscle cramps/myalgias
+2383364-01|48 57|infection
+2383364-07|83 87|pain
+2383364-08|51 55|pain
+2400986-00|15 28|neurotoxicity
+2400986-01|24 34|neurotoxic
+2400986-01|72 85|neurotoxicity
+2400986-02|186 192|tumors
+2400986-02|194 206|brain tumors
+2400986-06|82 90|seizures
+2400986-07|100 113|neurotoxicity
+2400986-08|123 144|neurological symptoms
+2400986-09|147 169|nervous system disease
+2400986-11|31 44|neurotoxicity
+2400986-12|133 146|neurotoxicity
+2400986-12|157 170|neurotoxicity
+2429800-00|49 60|hypotension
+2453942-01|82 92|neurotoxic
+2453942-03|189 197|seizures
+2453942-04|21 38|tonic convulsions
+2484903-01|47 56|hepatitis
+2484903-01|99 122|hepatocellular necrosis
+2484903-01|167 186|lupus-like syndrome
+2484903-03|77 92|hyperthyroidism
+2553470-00|69 87|status epilepticus
+2553470-01|130 137|seizure
+2553470-03|237 245|seizures
+2553470-04|116 123|seizure
+2553470-06|47 55|seizures
+2553470-06|192 210|status epilepticus
+2553470-06|242 250|seizures
+2553470-07|70 88|status epilepticus
+2553470-07|134 141|seizure
+2553470-08|83 101|status epilepticus
+2553470-08|106 118|brain damage
+2553470-09|126 144|status epilepticus
+2614930-00|19 30|bradycardia
+2614930-00|49 69|autonomic neuropathy
+2614930-01|15 23|diabetic
+2614930-01|61 81|autonomic neuropathy
+2614930-01|100 110|chest pain
+2614930-02|21 35|atrial flutter
+2614930-03|79 90|tachycardia
+2614930-04|78 89|bradycardia
+2625524-03|50 58|seizures
+2625524-04|55 63|seizures
+2625524-05|166 174|seizures
+2625524-06|75 83|seizures
+2650911-00|93 117|hamster renal carcinomas
+2650911-01|127 143|renal carcinomas
+2650911-02|111 116|tumor
+2650911-04|131 155|hamster renal carcinomas
+2710809-00|0 11|Bradycardia
+2710809-01|67 87|trigeminal neuralgia
+2710809-01|213 224|bradycardia
+2710809-01|226 236|dysarthria
+2710809-01|242 251|dysphagia
+2710809-03|0 11|Bradycardia
+2718706-00|11 22|hypotension
+2718706-01|87 98|hypotensive
+2718706-03|32 43|hypotension
+2718706-06|7 18|hypotension
+2718706-06|64 75|bradycardia
+2718706-07|35 43|bleeding
+2718706-08|7 18|hypotension
+2718706-08|111 122|hypotension
+2718706-09|6 17|hypotension
+2718706-10|64 75|hypotension
+2718706-10|97 108|tachycardia
+2718706-10|121 133|hypertension
+2765447-00|0 10|Convulsion
+2765447-01|0 21|Tonic-clonic seizures
+2767010-03|78 86|seizures
+2767010-06|91 114|ventricular tachycardia
+2767010-07|73 83|arrhythmia
+2767010-08|96 107|arrhythmias
+2767010-12|6 14|toxicity
+2818777-00|24 38|hepatic injury
+2818777-01|37 52|hepatic failure
+2818777-02|70 84|hepatic injury
+2818777-03|99 120|drug hypersensitivity
+2884595-04|90 104|encephalopathy
+2904523-00|12 46|adrenaline-hypertension hypothesis
+2904523-06|53 76|hypertension hypothesis
+2907577-00|47 66|acute renal failure
+2907577-01|74 99|ischaemic and nephrotoxic
+2907577-01|110 129|acute renal failure
+2907577-01|131 134|ARF
+2907577-02|194 213|acute renal failure
+2907577-03|186 194|necrosis
+2907577-06|196 199|ARF
+2931989-01|140 151|cystic acne
+2931989-02|49 57|dry eyes
+2931989-02|59 73|blurred vision
+2931989-02|105 120|photodermatitis
+2931989-03|46 57|papilledema
+2931989-03|59 78|pseudotumor cerebri
+2931989-03|98 129|subepithelial corneal opacities
+2931989-05|74 98|congenital abnormalities
+2931989-05|145 166|orbital hypertelorism
+2931989-05|172 194|optic nerve hypoplasia
+2933998-00|30 46|bronchial asthma
+2933998-02|134 150|bronchial asthma
+2974281-00|79 90|hypertrophy
+2974281-02|80 97|heart hypertrophy
+2974281-03|123 140|heart hypertrophy
+2974281-04|49 60|hypertrophy
+2974281-05|102 115|hypertrophied
+2974281-06|109 122|hypertrophied
+2974281-07|173 184|hypertrophy
+3074291-00|83 99|nocturnal asthma
+3074291-01|122 138|nocturnal asthma
+3074291-05|88 94|nausea
+3074291-05|96 104|vomiting
+3074291-05|109 116|tremors
+3074291-06|66 82|nocturnal asthma
+3083835-00|11 22|anaphylaxis
+3083835-01|26 37|anaphylaxis
+3083835-01|153 164|anaphylaxis
+3083835-02|56 67|anaphylaxis
+3084231-00|33 41|dementia
+3084231-01|33 41|dementia
+3084231-01|83 91|epilepsy
+3084231-03|290 304|hyperammonemia
+3088653-00|32 39|amnesia
+3088653-01|90 107|retention deficit
+3088653-02|68 75|amnesia
+3088653-05|122 129|amnesia
+3088653-06|58 62|pain
+3088653-06|236 253|retention deficit
+3109094-01|41 49|cystitis
+3109094-01|123 139|submucosal edema
+3109094-03|46 56|hypertonic
+3109094-04|174 179|edema
+3109094-04|256 268|degeneration
+3125850-00|63 84|muscle fasciculations
+3125850-03|31 52|muscle fasciculations
+3125850-04|33 54|muscle fasciculations
+3125850-05|79 100|muscle fasciculations
+3125850-06|74 95|muscle fasciculations
+3125850-07|104 125|muscle fasciculations
+3155884-00|57 68|cardiotoxic
+3155884-00|111 119|diabetic
+3155884-01|46 65|myocardial fibrosis
+3155884-02|98 106|diabetes
+3155884-02|119 130|cardiotoxic
+3155884-03|112 120|fibrosis
+3155884-04|70 78|diabetic
+3155884-07|211 219|diabetic
+3155884-08|149 177|cardiovascular complications
+3155884-08|181 189|diabetic
+3191389-00|65 73|seizures
+3191389-01|63 71|seizures
+3191389-01|76 94|status epilepticus
+3191389-02|183 191|seizures
+3191389-04|74 82|seizures
+3191389-05|44 52|seizures
+3191389-05|77 84|seizure
+3191389-05|93 105|brain damage
+3191389-06|128 136|seizures
+3289726-00|6 28|neurologic dysfunction
+3289726-00|67 83|malignant glioma
+3289726-01|67 73|tumors
+3289726-01|78 102|hematologic malignancies
+3289726-02|148 155|cancers
+3289726-02|166 182|malignant glioma
+3289726-03|73 79|glioma
+3289726-03|95 119|neurologic deterioration
+3289726-05|50 59|confusion
+3289726-05|61 72|papilledema
+3289726-05|74 84|somnolence
+3289726-05|140 147|seizure
+3289726-07|85 90|tumor
+3289726-07|100 115|peritumor edema
+3289726-08|57 65|toxicity
+3289726-08|101 117|malignant glioma
+3297909-00|12 28|bile duct injury
+3297909-01|26 34|jaundice
+3297909-02|0 11|Cholestasis
+3297909-04|10 18|fibrosis
+3297909-05|64 76|liver damage
+3323259-01|75 97|cardiovascular disease
+3323259-01|200 223|cardiovascular diseases
+3323259-05|89 95|angina
+3323259-05|100 112|hypertension
+3323259-05|126 136|depression
+3323259-07|175 187|hypertension
+3323259-08|107 113|angina
+3323259-09|96 119|subarachnoid hemorrhage
+3323259-09|121 138|migraine headache
+3323259-09|140 148|dementia
+3323259-09|154 160|stroke
+3323259-10|90 98|headache
+3323259-10|100 115|facial flushing
+3323259-10|131 136|edema
+3323259-10|138 144|nausea
+3323259-10|146 154|anorexia
+3323259-10|160 169|dizziness
+3323599-00|35 44|nephrosis
+3323599-01|41 61|glomerular sclerosis
+3323599-05|15 33|nephrotic syndrome
+3323599-05|38 59|finally renal failure
+3323599-09|70 78|toxicity
+3323599-09|168 191|end-stage renal disease
+3339945-00|13 26|neurotoxicity
+3339945-01|63 76|neurotoxicity
+3339945-02|154 162|seizures
+3339945-05|39 47|seizures
+3339945-06|71 81|neurotoxic
+3375885-00|0 12|Hyperkalemia
+3375885-01|40 60|rheumatoid arthritis
+3375885-01|93 104|nephropathy
+3375885-01|113 125|hyperkalemia
+3375885-01|130 161|inappropriate hypoaldosteronism
+3375885-02|30 43|renal disease
+3375885-02|72 102|type IV renal tubular acidosis
+3375885-03|124 136|hyperkalemia
+3383127-00|0 11|Hypotension
+3383127-00|34 48|cardiotoxicity
+3383127-01|28 39|hypotension
+3383127-01|83 103|colorectal carcinoma
+3383127-02|17 28|hypotension
+3383127-02|56 84|left ventricular dysfunction
+3383127-05|145 159|cardiotoxicity
+3409843-00|6 21|aplastic anemia
+3409843-01|16 31|aplastic anemia
+3409843-01|69 78|epileptic
+3409843-02|26 46|bone marrow toxicity
+3423103-00|90 101|hypotension
+3423103-00|106 117|bradycardia
+3423103-03|22 33|hypotension
+3423103-04|41 52|bradycardia
+3423103-06|106 117|hypotension
+3423103-06|122 133|bradycardia
+3423103-07|12 23|hypotension
+3423103-07|109 120|bradycardia
+3439580-00|0 12|Hypertension
+3439580-00|16 29|neuroblastoma
+3439580-01|0 12|Hypertension
+3439580-01|59 72|neuroblastoma
+3439580-03|35 47|hypertension
+3439580-03|99 112|neuroblastoma
+3439580-03|151 168|behavior disorder
+3439580-04|44 49|tumor
+3439580-04|83 95|hypertensive
+3439580-05|228 240|hypertension
+3439580-07|110 123|neuroblastoma
+3475563-00|38 54|oral candidiasis
+3475563-03|40 50|hoarseness
+3475563-05|58 68|hoarseness
+3475563-07|98 108|hoarseness
+3475563-07|112 123|candidiasis
+3533179-00|17 31|cardiotoxicity
+3533179-02|36 50|cardiotoxicity
+3533179-02|118 132|cardiotoxicity
+3533179-03|29 37|toxicity
+3533179-03|224 238|cardiotoxicity
+3533179-04|140 155|aplastic anemia
+3533179-04|157 181|Wiskott-Aldrich syndrome
+3533179-04|202 227|immunodeficiency syndrome
+3533179-05|73 87|cardiotoxicity
+3533179-06|33 57|congestive heart failure
+3533179-08|0 14|Cardiotoxicity
+3533179-09|0 24|Congestive heart failure
+3533179-11|25 39|cardiotoxicity
+3533179-11|126 141|aplastic anemia
+3533179-11|146 164|immunodeficiencies
+3533179-11|287 301|cardiotoxicity
+3533179-12|40 53|drug toxicity
+3538855-00|43 57|nephrotoxicity
+3538855-01|43 57|nephrotoxicity
+3538855-02|149 182|glomerular or tubular dysfunction
+3538855-03|108 127|acute renal failure
+3538855-04|100 113|liver disease
+3538855-04|228 242|nephrotoxicity
+3538855-05|16 35|acute renal failure
+3538855-05|45 50|shock
+3538855-07|106 120|nephrotoxicity
+3685052-00|10 17|seizure
+3685052-00|162 169|seizure
+3685052-01|71 82|convulsions
+3685052-01|123 142|behavioral deficits
+3685052-02|111 118|seizure
+3685052-03|18 25|seizure
+3685052-03|67 74|seizure
+3685052-04|89 96|seizure
+3685052-05|68 75|seizure
+3685052-06|25 36|hypothermia
+3685052-06|128 139|hypothermia
+3685052-06|143 150|seizure
+3685052-07|10 17|seizure
+3685052-07|93 100|seizure
+3708328-00|18 26|seizures
+3708328-01|91 113|temporal lobe epilepsy
+3708328-01|189 199|convulsive
+3708328-01|273 281|seizures
+3708328-02|161 169|seizures
+3708328-03|312 320|seizures
+3708328-03|325 343|status epilepticus
+3708328-04|121 132|convulsions
+3708328-05|84 91|seizure
+3708328-06|64 72|seizures
+3708328-07|212 220|seizures
+3708328-08|77 89|brain damage
+3708328-09|127 138|convulsions
+3708328-10|67 75|seizures
+3746148-00|26 49|coronary artery disease
+3746148-01|110 133|coronary artery disease
+3746148-02|61 82|myocardial infarction
+3746148-02|88 90|MI
+3746148-02|116 126|infarction
+3746148-02|132 134|MI
+3746148-02|160 170|infarction
+3746148-02|176 178|MI
+3746148-04|20 50|ischemic ST-segment depression
+3746148-05|20 30|depression
+3746148-06|103 113|depression
+3746148-08|47 66|myocardial ischemia
+3746148-09|103 126|coronary artery disease
+3798047-00|0 11|Bradycardia
+3798047-01|31 51|rheumatoid arthritis
+3798047-02|29 40|bradycardia
+3798047-04|42 59|sinus bradycardia
+3798047-07|59 72|heart disease
+3812624-00|22 47|nystagmus and oscillopsia
+3812624-01|9 18|nystagmus
+3812624-02|71 80|nystagmus
+3812624-05|26 35|nystagmus
+3831029-00|60 75|cardiac failure
+3831029-01|87 102|cardiac failure
+3831029-04|3 14|arrhythmias
+3831029-05|70 85|cardiac failure
+3832950-00|27 35|epilepsy
+3832950-01|69 77|epilepsy
+3832950-01|93 99|spasms
+3832950-02|17 25|seizures
+3832950-02|82 90|seizures
+3832950-03|0 8|Seizures
+3832950-03|61 69|seizures
+3832950-03|89 97|seizures
+3832950-06|38 48|drowsiness
+3832950-06|53 59|ataxia
+3833372-01|227 239|hypertensive
+3833372-05|81 93|hypertension
+3833372-06|91 98|fatigue
+3833372-06|100 109|dizziness
+3833372-06|115 123|weakness
+3864191-00|11 22|nephropathy
+3864191-01|81 92|nephropathy
+3864191-02|30 61|unconjugated hyperbilirubinemia
+3864191-03|50 68|papillary necrosis
+3864191-12|77 89|renal damage
+3864191-12|181 190|hematuria
+3895875-00|55 76|myocardial infarction
+3895875-01|41 62|myocardial infarction
+3895875-02|68 92|ventricular fibrillation
+3895875-02|106 129|ventricular tachycardia
+3895875-02|164 185|myocardial infarction
+3895875-03|110 133|ventricular tachycardia
+3895875-03|217 228|arrhythmias
+3895875-04|90 111|myocardial infarction
+3895875-04|174 184|infarction
+3895875-06|135 146|hypotension
+3895875-06|237 245|asystole
+3895875-07|100 121|myocardial infarction
+3925479-00|55 64|catalepsy
+3925479-01|93 102|catalepsy
+3925479-01|196 205|catalepsy
+3925479-02|61 70|catalepsy
+3925479-03|64 73|catalepsy
+3925479-04|71 80|catalepsy
+3925479-05|93 102|catalepsy
+3925479-06|47 56|catalepsy
+3925479-07|71 80|catalepsy
+3975902-00|0 26|Cardiovascular dysfunction
+3975902-00|31 47|hypersensitivity
+3975902-01|78 90|hypertension
+3975902-03|68 84|hypersensitivity
+3975902-08|23 67|disturbances in myocardial energy metabolism
+3975902-09|67 76|depressed
+3975902-10|81 114|myocardial metabolic disturbances
+3975902-10|124 140|hypersensitivity
+3975902-10|244 268|cardiomyopathic disorder
+3987172-00|54 66|hypertension
+3987172-01|26 34|overdose
+3987172-01|52 64|hypertension
+3987172-01|66 90|intracerebral hemorrhage
+3987172-02|82 94|hypertension
+3987172-06|87 93|stroke
+3990093-00|23 43|glomerular sclerosis
+3990093-00|73 82|nephrosis
+3990093-01|34 55|mesangial dysfunction
+3990093-01|75 95|glomerular sclerosis
+3990093-04|12 32|glomerular sclerosis
+3990093-06|15 24|sclerosis
+3990093-08|258 267|sclerosis
+3990093-09|146 157|dysfunction
+3990093-10|43 52|nephrosis
+3990093-10|72 92|glomerular sclerosis
+4010471-00|38 46|seizures
+4010471-02|109 117|seizures
+4010471-03|116 123|seizure
+4010471-04|23 30|seizure
+4010471-05|44 51|seizure
+4082192-00|51 65|nephrotoxicity
+4082192-00|141 155|nephrotoxicity
+4082192-01|39 55|tubular necrosis
+4082192-03|96 110|nephrotoxicity
+4082192-04|104 118|nephrotoxicity
+4082192-06|119 133|nephrotoxicity
+4082192-06|146 160|nephrotoxicity
+4082192-10|54 68|nephrotoxicity
+4082192-11|90 112|renal tubular necrosis
+4082466-00|17 25|seizures
+4082466-01|39 47|seizures
+4082466-01|117 126|analgesia
+4082466-02|160 168|seizures
+4082466-04|24 32|seizures
+4082466-04|56 67|convulsions
+4631913-00|45 55|infections
+4631913-02|0 12|Leukocytosis
+4631913-03|97 107|leukopenia
+4631913-04|165 174|infection
+4631913-05|53 63|leukopenia
+4631913-05|98 104|sepsis
+6106951-02|78 89|convulsions
+6106951-02|115 125|depression
+6106951-03|58 69|convulsions
+6106951-04|46 56|depression
+6106951-04|117 128|convulsions
+6106951-04|163 184|loss of consciousness
+6106951-05|102 116|muscle tremors
+6106951-05|121 132|convulsions
+6106951-07|51 62|convulsions
+6106951-08|26 37|convulsions
+6106951-09|64 75|convulsions
+6106951-10|128 136|epilepsy
+6299641-01|167 178|tachycardia
+6299641-03|29 40|tachycardia
+6299641-08|68 79|tachycardia
+6305660-00|21 34|breast cancer
+6305660-03|115 126|endometrial
+6305660-07|0 10|Mastodynia
+6305660-07|94 109|breast firmness
+6305660-07|149 166|breast nodularity
+6305660-08|109 119|mastodynia
+6305660-08|169 179|mastodynia
+6310832-00|6 16|infections
+6310832-01|95 104|infection
+6310832-04|45 55|infections
+6310832-04|93 103|infections
+6310832-05|34 44|infections
+6310832-05|88 98|infections
+6310832-06|14 31|infectious deaths
+6310832-06|89 98|infection
+6310832-06|152 158|deaths
+6310832-07|46 57|bacteremias
+6310832-08|20 29|infection
+6310832-08|56 76|abdominal infections
+6310832-08|96 120|intrathoracic infections
+6310832-08|144 168|urinary tract infections
+6310832-09|0 20|Pulmonary infections
+6310832-10|36 61|staphylococcal infections
+6310832-10|120 146|systemic fungal infections
+6310832-11|0 15|Cytomegalovirus
+6310832-11|17 20|CMV
+6310832-12|58 71|CMV infection
+6310832-13|25 53|Epstein Barr Virus infection
+6310832-14|51 59|lymphoma
+6316193-00|89 97|seizures
+6316193-01|168 176|seizures
+6316193-04|188 196|seizures
+6321816-00|41 53|hypertension
+6321816-01|50 62|hypertensive
+6321816-02|64 76|hypertension
+6321816-02|169 187|diabetes insipidus
+6321816-04|107 119|hypertension
+6321816-04|215 227|hypertension
+6321816-05|40 55|neurohypophysis
+6321816-05|126 138|hypertension
+6321816-07|77 89|hypertension
+6453500-00|0 15|Toxic hepatitis
+6453500-01|13 31|toxic liver damage
+6517710-00|0 17|Atrial thrombosis
+6517710-02|102 119|atrial thrombosis
+6517710-03|31 50|cardiac hypertrophy
+6517710-03|76 99|myocardial degeneration
+6517710-04|15 34|cardiac hypertrophy
+6517710-05|123 133|thrombosis
+6517710-05|222 239|atrial thrombosis
+6529939-00|42 58|sinoatrial block
+6529939-01|122 128|angina
+6529939-07|78 87|S-A block
+6529939-12|105 114|S-A block
+6585590-00|18 32|cardiotoxicity
+6585590-00|38 52|nephrotoxicity
+6585590-01|20 34|cardiotoxicity
+6585590-01|40 54|nephrotoxicity
+6585590-01|152 168|IgM immunocytoma
+6585590-02|15 20|tumor
+6585590-03|0 5|Tumor
+6585590-04|30 35|tumor
+6585590-05|23 37|cardiotoxicity
+6585590-06|30 42|renal damage
+6585590-06|109 120|albuminuria
+6585590-09|45 50|tumor
+6585590-10|35 49|cardiotoxicity
+6585590-10|55 69|nephrotoxicity
+6585590-11|0 11|Albuminuria
+6585590-11|19 31|renal damage
+6585590-11|78 85|ascites
+6585590-11|153 167|cardiomyopathy
+6615679-00|0 26|Intraoperative bradycardia
+6615679-00|31 42|hypotension
+6615679-01|120 131|bradycardia
+6615679-01|143 154|hypotensive
+6615679-04|101 112|bradycardia
+6615679-04|117 128|hypotension
+6627074-00|16 22|apnoea
+6627074-05|125 131|apnoea
+6631522-06|152 166|cardiotoxicity
+6673474-00|56 67|hypotension
+6673474-02|136 147|hypotension
+6673474-03|38 49|hypotension
+6673474-03|167 178|hypotension
+6673474-03|262 273|hypotension
+6673474-04|50 61|hypotension
+6687006-02|4 17|hyperactivity
+6687006-04|29 42|hyperactivity
+6687006-04|165 175|neurotoxic
+6695685-01|37 71|atrioventricular (AV) dissociation
+6695685-02|82 115|supraventricular tachyarrhythmias
+6695685-04|25 35|chest pain
+6806735-00|13 27|ovarian cancer
+6806735-01|46 60|ovarian cancer
+6806735-04|12 20|toxicity
+6806735-04|54 60|anemia
+6806735-06|0 29|HMM gastrointestinal toxicity
+6806735-07|7 21|nephrotoxicity
+6884395-00|24 32|aneurysm
+6884395-01|34 42|aneurysm
+6884395-01|85 97|hypertension
+6893265-00|25 39|hepatic damage
+6893265-01|38 50|liver damage
+6893265-02|149 158|hepatitis
+6985297-00|15 26|bradycardia
+6985297-01|64 79|anginal attacks
+6985297-01|100 111|bradycardia
+6985498-00|0 9|Hepatitis
+6985498-00|14 36|renal tubular acidosis
+6985498-01|31 50|acute cholecystitis
+6985498-01|111 141|hepatic insufficiency syndrome
+6985498-01|146 168|renal tubular acidosis
+6985498-02|8 16|bleeding
+7018927-00|87 105|hyperprolactinemia
+7018927-04|56 74|hyperprolactinemia
+7121659-00|57 70|renal failure
+7121659-00|88 107|acute renal failure
+7121659-00|116 128|thrombopenia
+7121659-00|133 142|hemolysis
+7121659-03|81 104|hematological disorders
+7121659-04|28 50|acute tubular necrosis
+7121659-04|116 124|ischemic
+7147232-00|26 37|hypotension
+7147232-01|111 122|hypotension
+7147232-05|33 44|hypotension
+7147232-06|0 11|Hypotension
+7147232-08|7 18|hypotension
+7173007-02|44 50|nausea
+7173007-02|55 64|dizziness
+7173007-03|48 62|abdominal pain
+7173007-05|128 136|toxicity
+7176945-00|19 24|pains
+7176945-01|48 52|pain
+7176945-03|48 52|pain
+7176945-04|17 38|muscle fasciculations
+7176945-04|118 122|pain
+7176945-05|166 170|pain
+7315949-00|27 32|spasm
+7315949-08|106 111|spasm
+7369302-00|66 75|amblyopia
+7369302-01|6 15|blindness
+7369302-03|117 125|toxicity
+7378868-00|22 35|jaw stiffness
+7378868-00|40 47|myalgia
+7378868-02|29 42|jaw stiffness
+7378868-03|14 20|apnoea
+7378868-03|63 70|myalgia
+7378868-06|30 42|jaw rigidity
+7378868-06|47 54|myalgia
+7411769-00|21 33|hyperkalemia
+7411769-00|57 72|gouty arthritis
+7411769-01|60 72|hyperkalemia
+7411769-01|77 96|renal insufficiency
+7411769-01|132 147|gouty arthritis
+7411769-02|90 121|hyporeninemic hypoaidosteronism
+7411769-03|177 194|diabetes mellitus
+7411769-03|210 223|renal disease
+7457821-06|0 11|Venous pain
+7457821-06|61 65|pain
+7457821-06|69 77|swelling
+7457821-08|0 6|Nausea
+7457821-08|11 19|vomiting
+7457821-08|69 78|psychoses
+7477981-00|17 28|dyskinesias
+7477981-01|50 61|dyskinesias
+7477981-01|105 124|Parkinson's disease
+7477981-02|102 113|dyskinesias
+7477981-02|138 150|parkinsonian
+7477981-03|4 15|dyskinesias
+7477981-03|100 120|dystonic dyskinesias
+7477981-03|145 156|dyskinesias
+7477981-03|205 216|dyskinesias
+7477981-04|134 145|dyskinesias
+7477981-04|166 178|parkinsonian
+7479194-00|125 138|drug toxicity
+7479194-01|264 279|renal disorders
+7479194-03|33 57|idiopathic liver disease
+7479194-05|31 46|blood disorders
+7479194-05|98 117|erythema multiforme
+7479194-05|122 146|Stevens-Johnson syndrome
+7479194-06|22 42|epidermal necrolysis
+7479194-07|28 59|acute parenchymal renal disease
+7492040-00|65 86|myocardial infarction
+7492040-01|87 108|myocardial infarction
+7492040-01|110 112|MI
+7492040-04|47 49|MI
+7492040-05|84 86|MI
+7492040-05|134 157|ventricular tachycardia
+7492040-05|162 186|ventricular fibrillation
+7492040-05|203 211|seizures
+7492040-06|76 84|toxicity
+7492040-06|143 145|MI
+7492040-06|223 231|toxicity
+7644931-01|161 187|non-small cell lung cancer
+7644931-03|149 159|toxicities
+7644931-03|161 171|arthralgia
+7644931-03|176 194|sensory neuropathy
+7644931-05|0 10|Toxicities
+7644931-06|53 63|toxicities
+7661171-00|65 82|renal dysfunction
+7661171-00|103 112|cirrhosis
+7661171-01|91 108|renal dysfunction
+7661171-07|263 272|cirrhosis
+7671401-00|36 48|angio-oedema
+7671401-01|78 87|urticaria
+7671401-01|93 105|angio-oedema
+7671401-02|62 74|hypertension
+7671401-02|79 103|congestive heart failure
+7671401-03|62 74|angio-oedema
+7671401-04|138 150|angio-oedema
+7727612-00|0 9|Myoclonus
+7727612-03|64 73|myoclonus
+7727612-04|14 24|neurotoxic
+7739955-00|107 121|cardiomyopathy
+7739955-01|94 113|circulatory failure
+7739955-01|119 141|myocardial dysfunction
+7739955-02|25 42|viral myocarditis
+7739955-02|82 106|eosinophilic myocarditis
+7739955-02|120 141|cardiac hemosiderosis
+7739955-02|161 178|cardiogenic shock
+7739955-04|151 171|cardiac dysrhythmias
+7739955-05|23 47|cardiocirculatory arrest
+7739955-05|72 83|hypotension
+7739955-05|88 100|dysrhythmias
+7739955-08|37 51|cardiac arrest
+7739955-10|104 126|myocardial dysfunction
+7931490-00|112 118|nausea
+7931490-00|123 131|vomiting
+7931490-01|252 258|nausea
+7931490-01|263 271|vomiting
+7931490-03|82 88|nausea
+7931490-03|90 98|vomiting
+7931490-05|98 106|vomiting
+7931490-05|249 257|vomiting
+7931490-06|58 64|nausea
+7931490-06|81 89|vomiting
+7931490-08|0 8|Headache
+7931490-09|100 108|vomiting
+7931490-09|211 219|vomiting
+7949506-01|110 137|atrioventricular (AV) block
+7949506-01|166 177|hypotension
+7949506-02|41 59|hyperaldosteronism
+7949506-03|88 96|AV block
+7949506-03|108 119|hypotension
+7949506-05|67 75|AV block
+7949506-09|124 143|AV node dysfunction
+7967231-01|117 134|tonic convulsions
+7967231-02|101 112|convulsions
+7967231-02|219 230|convulsions
+7967231-03|63 71|epilepsy
+8096565-00|11 32|myocardial infarction
+8096565-02|46 67|myocardial infarction
+8096565-02|128 144|cluster headache
+8096565-03|41 64|ischaemic heart disease
+8096565-03|68 87|Prinzmetal's angina
+8135424-00|19 27|seizures
+8135424-01|88 96|seizures
+8135424-04|17 25|seizures
+8135424-07|33 41|seizures
+8135424-11|15 24|somnolent
+8135424-13|44 52|seizures
+8135424-15|43 51|seizures
+8135424-17|48 56|seizures
+8135424-18|34 42|seizures
+8160791-00|84 95|nephropathy
+8160791-01|131 142|nephropathy
+8160791-03|200 211|nephropathy
+8160791-09|87 98|nephropathy
+8184922-00|49 60|hypertrophy
+8184922-01|86 105|cardiac hypertrophy
+8184922-03|114 133|hypertrophic hearts
+8184922-05|101 120|cardiac hypertrophy
+8184922-06|134 153|cardiac hypertrophy
+8188982-00|80 92|hypertensive
+8188982-01|240 252|hypertensive
+8188982-04|228 240|hypertension
+8188982-04|279 290|hypotension
+8188982-08|80 91|hypotension
+8308951-00|61 85|intracerebral hemorrhage
+8308951-01|10 32|intercerebral hematoma
+8308951-01|57 69|coagulopathy
+8308951-03|44 56|coagulopathy
+8308951-04|98 110|coagulopathy
+8312343-02|37 62|idiopathic cardiomyopathy
+8312343-02|70 94|congenital heart disease
+8312343-02|160 187|hypertrophic cardiomyopathy
+8312343-02|194 216|valvular heart disease
+8312343-02|239 253|cardiomyopathy
+8312343-08|50 59|infection
+8312343-13|21 31|infections
+8312343-14|0 26|Cytomegalovirus infections
+8312343-16|86 101|atherosclerosis
+8312343-17|0 8|Seizures
+8312343-17|45 57|hypertension
+8312983-00|0 8|Delirium
+8312983-04|126 136|somnolence
+8312983-05|11 30|cognitive disorders
+8312983-05|40 48|delirium
+8312983-06|49 70|hyperkinetic delirium
+8318674-00|0 15|Pulmonary edema
+8318674-00|20 25|shock
+8318674-00|58 66|lymphoma
+8318674-01|69 78|lymphomas
+8318674-02|37 42|fever
+8318674-02|44 52|diarrhea
+8318674-02|54 59|shock
+8318674-02|61 76|pulmonary edema
+8318674-02|78 97|acute renal failure
+8318674-02|99 117|metabolic acidosis
+8318674-02|119 130|weight gain
+8318674-02|135 147|leukocytosis
+8318674-03|65 74|infection
+8318674-06|64 76|septic shock
+8318674-06|87 116|respiratory distress syndrome
+8392553-00|60 74|cardiac injury
+8392553-01|108 122|cardiomyopathy
+8392553-02|87 103|ischemic lesions
+8392553-02|108 116|fibrosis
+8392553-05|92 120|ventricular ischemic lesions
+8392553-05|125 133|fibrosis
+8392553-10|57 71|cardiac injury
+8511251-00|16 35|myocardial ischemia
+8511251-01|20 39|myocardial ischemia
+8511251-02|4 12|ischemia
+8511251-02|33 54|coronary artery spasm
+8603459-00|20 34|cardiotoxicity
+8603459-02|84 98|cardiotoxicity
+8603459-08|91 103|hypertrophic
+8603459-09|30 38|toxicity
+8603459-09|168 176|toxicity
+8603459-12|104 118|cardiotoxicity
+8603459-13|99 113|cardiotoxicity
+8659767-01|55 67|dysrhythmias
+8659767-02|173 194|myocardial infarction
+8659767-04|33 56|ventricular tachycardia
+8659767-04|58 60|VT
+8659767-07|0 2|VT
+8659767-09|27 48|myocardial infarction
+8659767-09|144 146|VT
+8659767-12|88 90|VT
+8659767-12|145 157|dysrhythmias
+8667442-00|0 20|Milk-alkali syndrome
+8667442-00|61 79|hypoparathyroidism
+8667442-01|0 20|Milk-alkali syndrome
+8667442-01|89 109|peptic ulcer disease
+8667442-02|22 27|ulcer
+8667442-02|97 117|milk-alkali syndrome
+8667442-02|168 181|hypercalcemia
+8667442-02|183 192|alkalosis
+8667442-02|198 251|renal impairment remains the hallmark of the syndrome
+8667442-03|0 20|Milk-alkali syndrome
+8667442-04|37 55|hypoparathyroidism
+8667442-04|158 178|milk-alkali syndrome
+8667442-06|77 97|milk-alkali syndrome
+8667442-06|110 133|hypercalcemic emergency
+8748050-00|0 14|Encephalopathy
+8748050-00|49 79|neuroleptic malignant syndrome
+8748050-00|84 121|serotonin syndrome spectrum disorders
+8748050-01|32 46|encephalopathy
+8748050-01|119 138|unipolar depression
+8748050-02|56 86|neuroleptic malignant syndrome
+8748050-02|88 91|NMS
+8748050-02|96 114|serotonin syndrome
+8748050-02|116 118|SS
+8748050-04|4 7|NMS
+8748050-04|13 27|encephalopathy
+8748050-04|104 107|NMS
+8748050-04|112 114|SS
+8748050-04|128 137|disorders
+8755612-00|22 27|tumor
+8755612-00|39 50|hemorrhagic
+8755612-00|85 90|tumor
+8755612-01|90 118|hemorrhagic pituitary tumors
+8755612-02|203 214|hemorrhagic
+8755612-05|28 34|tumors
+8755612-05|44 55|hemorrhagic
+8755612-07|94 105|hemorrhagic
+8755612-08|47 58|hemorrhagic
+8755612-08|156 167|hemorrhagic
+8755612-08|189 200|hemorrhagic
+8755612-09|4 15|hemorrhagic
+8808730-00|102 120|bladder irritation
+8808730-02|9 17|cystitis
+8819482-00|70 89|myocardial ischemia
+8819482-00|111 128|coronary stenosis
+8819482-01|49 68|myocardial ischemia
+8819482-01|103 120|coronary stenosis
+8819482-02|19 43|coronary artery stenosis
+8819482-03|36 44|stenosis
+8819482-05|283 291|stenosis
+8819482-06|263 271|stenosis
+8819482-07|37 56|myocardial ischemia
+8819482-07|82 90|stenosis
+8825380-00|98 109|nephropathy
+8825380-01|79 96|structural injury
+8825380-01|140 151|nephropathy
+8825380-01|178 196|glomerular disease
+8825380-02|104 118|growth failure
+8825380-02|144 155|nephropathy
+8825380-03|4 18|glomerulopathy
+8825380-04|133 144|weight gain
+8825380-04|223 236|renal disease
+8825380-05|86 97|nephropathy
+8825380-06|150 161|nephropathy
+8825380-07|56 78|glomerular hypertrophy
+8825380-07|102 120|glomerulosclerosis
+8825380-07|122 147|tubulointerstitial injury
+8825380-08|17 28|nephropathy
+8825380-09|81 92|weight gain
+8825380-09|110 121|proteinuria
+8825380-10|96 107|nephropathy
+8825380-10|190 207|structural injury
+8829135-00|51 58|amnesia
+8829135-02|185 192|amnesia
+8829135-04|112 119|amnesic
+8829135-05|79 86|amnesia
+8957205-00|85 108|hypercapnic ventilatory
+8985298-00|39 50|hepatitis B
+8985298-00|72 83|hepatitis B
+8985298-01|92 103|hepatitis B
+8985298-02|104 115|hepatitis B
+8985298-06|55 66|hepatitis B
+8996419-00|34 56|venous thromboembolism
+8996419-01|88 110|venous thromboembolism
+8996419-01|112 115|VTE
+8996419-03|71 74|VTE
+8996419-06|42 62|deep-vein thrombosis
+8996419-06|64 81|venous thrombosis
+8996419-06|110 127|pulmonary embolus
+8996419-06|238 241|VTE
+8996419-07|62 65|VTE
+8996419-07|168 171|VTE
+8996419-10|50 53|VTE
+8996419-11|19 22|VTE
+8996419-11|85 100|vein thrombosis
+8996419-11|108 128|pulmonary thrombosis
+8996419-11|142 159|venous thrombosis
+8996419-12|18 21|VTE
+8996419-13|44 47|VTE
+8996419-14|68 71|VTE
+8996419-15|58 61|VTE
+8996419-16|69 72|VTE
+9061777-00|51 58|seizure
+9061777-00|80 92|brain damage
+9061777-01|85 92|seizure
+9061777-02|71 85|clonic seizure
+9061777-03|107 114|seizure
+9061777-04|14 21|seizure
+9061777-05|77 84|seizure
+9061777-05|132 139|seizure
+9061777-07|21 35|neuronal death
+9061777-10|28 46|status epilepticus
+9061777-10|193 205|brain damage
+9071336-00|59 72|breast cancer
+9071336-00|248 261|breast cancer
+9071336-01|44 56|cytotoxicity
+9071336-02|212 225|breast cancer
+9071336-03|164 175|neutropenia
+9071336-03|291 302|neutropenia
+9071336-04|25 35|toxicities
+9071336-08|55 68|breast cancer
+9125676-00|69 97|ventricular tachyarrhythmias
+9125676-01|75 94|torsades de pointes
+9125676-01|132 151|torsades de pointes
+9125676-01|203 231|ventricular tachyarrhythmias
+9125676-02|41 64|coronary artery disease
+9125676-02|78 100|dilated cardiomyopathy
+9125676-02|127 150|ventricular tachycardia
+9125676-02|154 178|ventricular fibrillation
+9125676-02|233 260|ventricular tachyarrhythmia
+9125676-04|58 81|ventricular tachycardia
+9125676-04|85 109|ventricular fibrillation
+9125676-05|17 44|ventricular tachyarrhythmia
+9125676-05|105 132|ventricular tachyarrhythmia
+9125676-06|28 47|torsades de pointes
+9125676-07|126 145|torsades de pointes
+9125676-08|79 98|torsades de pointes
+9125676-09|48 67|torsades de pointes
+9125676-10|54 77|ventricular tachycardia
+9125676-11|31 46|cardiac disease
+9125676-11|61 80|torsades de pointes
+9125676-12|0 19|Torsades de pointes
+9125676-13|175 194|torsades de pointes
+9125676-14|107 126|torsades de pointes
+9125676-15|20 48|ventricular tachyarrhythmias
+9125676-15|94 104|arrhythmia
+9128918-00|8 26|hyperprolactinemia
+9128918-04|40 58|hyperprolactinemia
+9128918-05|0 18|Hyperprolactinemia
+9128918-06|18 36|hyperprolactinemia
+9128918-07|15 33|hyperprolactinemia
+9128918-08|68 86|hyperprolactinemia
+9128918-09|315 333|hyperprolactinemia
+9128918-09|399 417|hyperprolactinemia
+9128918-10|31 49|hyperprolactinemia
+9128918-10|151 169|hyperprolactinemia
+9128918-11|28 40|hypothalamic
+9132810-00|31 62|necrotizing leukoencephalopathy
+9132810-01|145 176|necrotizing leukoencephalopathy
+9132810-01|199 227|acute lymphoblastic leukemia
+9132810-03|36 55|loss of myelination
+9132810-03|60 68|necrosis
+9132810-04|35 54|leukoencephalopathy
+9158667-00|0 24|Thrombotic complications
+9158667-00|28 56|acute promyelocytic leukemia
+9158667-01|10 29|acute renal failure
+9158667-01|38 64|occlusion of renal vessels
+9158667-01|83 111|acute promyelocytic leukemia
+9158667-01|113 116|APL
+9158667-02|20 39|acute renal failure
+9158667-02|46 49|APL
+9158667-03|45 59|thromboembolic
+9158667-03|106 109|APL
+9158667-04|73 76|APL
+9158667-05|41 60|acute renal failure
+9158667-05|120 123|APL
+9158667-06|70 73|APL
+9158667-07|0 10|Thrombotic
+9197951-00|71 76|mania
+9197951-01|157 162|manic
+9197951-02|77 98|pupillary oscillation
+9197951-02|201 206|manic
+9197951-03|36 57|pupillary oscillation
+9197951-03|110 115|manic
+9197951-04|57 78|pupillary oscillation
+9197951-04|134 139|manic
+9272404-01|66 70|pain
+9272404-02|133 143|tonic pain
+9272404-04|7 11|pain
+9272404-04|137 147|tonic pain
+9272404-05|60 64|pain
+9272404-06|66 76|tonic pain
+9272404-07|89 99|tonic pain
+9272404-07|160 164|pain
+9272404-07|239 243|pain
+9272404-10|28 32|pain
+9272404-10|82 86|pain
+9323412-00|13 23|depression
+9323412-01|45 78|postoperative nausea and vomiting
+9323412-02|33 58|major depression disorder
+9323412-03|63 73|depressive
+9323412-04|87 93|nausea
+9323412-04|148 167|depression disorder
+9382023-00|0 12|Hypertensive
+9382023-01|59 71|hypertensive
+9382023-02|56 68|hypertension
+9428298-00|60 66|asthma
+9428298-01|132 138|asthma
+9428298-02|37 43|asthma
+9428298-04|17 37|cardiac dysrhythmias
+9428298-05|12 23|hypokalemia
+9538487-00|0 28|Hyperosmolar nonketotic coma
+9538487-00|61 91|nephrogenic diabetes insipidus
+9538487-01|45 61|manic depression
+9538487-01|127 131|coma
+9538487-02|31 39|polyuria
+9538487-02|44 54|polydipsia
+9538487-03|20 34|hyperglycaemia
+9538487-03|138 168|nephrogenic diabetes insipidus
+9538487-04|51 59|diabetes
+9538487-04|69 77|polyuria
+9538487-04|85 115|nephrogenic diabetes insipidus
+9538487-04|146 170|hyperosmolar dehydration
+9570197-03|136 146|chest pain
+9646784-00|16 32|thrombocytopenia
+9646784-00|46 61|thromboembolism
+9646784-03|72 88|thrombocytopenia
+9646784-03|109 121|osteoporosis
+9646784-03|123 135|eosinophilia
+9646784-03|153 161|allergic
+9646784-03|183 199|thrombocytopenia
+9646784-03|204 212|alopecia
+9725303-00|37 57|ureteric obstruction
+9725303-01|49 65|ureteric calculi
+9725303-01|73 85|HIV-infected
+9725303-01|214 226|urolithiasis
+9725303-02|12 32|Ureteric obstruction
+9725303-04|83 113|ureteric stones or obstruction
+9725303-04|131 144|HIV infection
+9759693-00|0 16|Ischemic colitis
+9759693-03|29 47|coronary vasospasm
+9759693-03|49 68|myocardial ischemia
+9759693-03|74 95|myocardial infarction
+9759693-04|51 67|ischemic colitis
+9759693-04|85 93|migraine
+9782254-00|95 114|Parkinson's disease
+9782254-00|219 231|bradykinesia
+9782254-00|233 241|rigidity
+9782254-00|262 273|dyskinesias
+9782254-02|58 77|Parkinson's Disease
+9782254-03|141 152|dyskinesias
+9782254-04|95 107|bradykinesia
+9782254-04|112 120|rigidity
+9782254-05|56 78|homonymous hemianopsia
+9782254-07|112 131|Parkinson's disease
+9782254-08|114 122|bleeding
+9831002-00|0 30|Neuroleptic malignant syndrome
+9831002-01|35 65|neuroleptic malignant syndrome
+9831002-02|90 118|multicystic encephalomalacia
+9831002-02|144 175|hypoxic-ischemic encephalopathy
+9831002-02|243 273|neuroleptic malignant syndrome
+9831002-06|40 70|neuroleptic malignant syndrome
+9869655-10|60 84|intrahepatic cholestasis
+9881641-00|24 35|hypotension
+9881641-03|20 31|hypotension
+9881641-04|0 11|Hypotension
+9881641-05|48 59|hypotension
+9881641-05|127 138|hypotension
+9881641-06|48 59|hypotension
+9881641-07|120 131|hypotension
+9889429-00|103 115|hypertension
+9889429-00|133 142|psoriasis
+9889429-01|33 45|hypertension
+9889429-02|53 65|hypertensive
+9889429-04|171 191|gingival hyperplasia
+9889429-05|70 92|hypertensive psoriatic
+9889429-05|196 216|gingival hyperplasia
+10087562-00|0 18|Torsade de pointes
+10087562-00|19 42|ventricular tachycardia
+10087562-00|111 133|dilated cardiomyopathy
+10087562-00|138 162|congestive heart failure
+10087562-01|74 87|heart failure
+10087562-01|101 123|dilated cardiomyopathy
+10087562-01|151 174|ventricular arrhythmias
+10087562-01|189 204|QT prolongation
+10087562-01|209 227|torsade de pointes
+10087562-01|228 251|ventricular tachycardia
+10087562-02|15 33|torsade de pointes
+10087562-02|34 57|ventricular tachycardia
+10087562-02|138 149|arrhythmias
+10087562-02|227 246|rhythm disturbances
+10219427-03|108 115|dyspnea
+10219427-03|117 138|loss of consciousness
+10219427-03|166 170|rash
+10219427-03|261 265|pain
+10219427-05|94 101|allergy
+10327032-00|18 47|hyperammonemic encephalopathy
+10327032-00|51 57|cancer
+10327032-00|143 154|dehydration
+10327032-00|159 168|infection
+10327032-01|22 28|cancer
+10327032-01|71 100|hyperammonemic encephalopathy
+10327032-02|39 52|liver disease
+10327032-03|9 38|hyperammonemic encephalopathy
+10327032-05|55 63|azotemia
+10327032-05|100 110|infections
+10327032-05|132 141|infection
+10327032-05|169 180|dehydration
+10327032-06|54 68|hyperammonemia
+10327032-06|109 119|infections
+10327032-08|15 44|hyperammonemic encephalopathy
+10327032-09|0 8|Azotemia
+10327032-09|21 34|insufficiency
+10327032-09|49 59|infections
+10390729-04|129 141|hypoactivity
+10390729-04|211 224|hyperactivity
+10390729-06|168 181|hyperactivity
+10401555-00|54 71|memory impairment
+10401555-02|119 128|allodynia
+10401555-02|133 145|hyperalgesia
+10401555-04|107 140|impairment of learning and memory
+10427794-00|18 32|liver toxicity
+10427794-01|44 64|rheumatoid arthritis
+10427794-01|95 104|hepatitis
+10427794-03|20 29|hepatitis
+10427794-03|157 173|hypersensitivity
+10427794-04|43 51|toxicity
+10427794-04|102 116|hepatic damage
+10462057-00|153 168|aplastic anemia
+10462057-01|148 163|aplastic anemia
+10462057-07|3 11|necrosis
+10462057-07|154 162|necrosis
+10462057-11|51 66|aplastic anemia
+10462057-11|242 257|aplastic anemia
+10510854-03|256 265|catalepsy
+10672628-00|78 87|catalepsy
+10672628-01|95 104|catalepsy
+10672628-04|82 91|catalepsy
+10672628-05|94 103|catalepsy
+10672628-07|0 9|Catalepsy
+10672628-09|101 110|catalepsy
+10677406-00|10 38|left ventricular dysfunction
+10677406-00|63 86|coronary artery disease
+10677406-00|130 150|myocardial ischaemia
+10677406-01|89 117|left ventricular dysfunction
+10677406-01|135 158|coronary artery disease
+10677406-02|144 153|ischaemia
+10677406-03|34 40|angina
+10677406-03|66 89|coronary artery disease
+10677406-06|75 96|diastolic dysfunction
+10677406-07|71 81|depression
+10677406-11|30 53|coronary artery disease
+10677406-11|74 83|ischaemia
+10677406-11|116 144|left ventricular dysfunction
+10677406-12|19 28|ischaemia
+10677406-12|126 149|coronary artery disease
+10713017-00|16 38|pulmonary hypertension
+10713017-00|109 131|pulmonary hypertension
+10713017-01|99 129|primary pulmonary hypertension
+10713017-01|131 134|PPH
+10713017-03|96 118|pulmonary hypertension
+10713017-04|104 126|pulmonary hypertension
+10713017-05|39 61|pulmonary hypertension
+10713017-05|78 81|PPH
+10713017-07|67 70|PPH
+10713017-07|84 106|pulmonary hypertension
+10713017-07|136 158|pulmonary hypertension
+10713017-09|109 112|PPH
+10713017-12|50 53|PPH
+10713017-12|245 248|PPH
+10713017-13|116 138|pulmonary hypertension
+10726030-00|36 52|thrombocytopenia
+10726030-00|57 67|thrombosis
+10726030-01|97 107|thrombosis
+10726030-02|120 130|thrombotic
+10726030-04|0 8|Bleeding
+10726030-05|6 14|bleeding
+10726030-06|90 106|thrombocytopenia
+10726030-06|127 139|osteoporosis
+10726030-06|141 153|eosinophilia
+10726030-06|171 179|allergic
+10726030-06|201 217|thrombocytopenia
+10726030-06|219 227|alopecia
+10726030-06|246 258|hyperkalemia
+10726030-06|260 277|hypoaldosteronism
+10726030-06|283 291|priapism
+10726030-07|149 153|HITT
+10726030-07|158 170|osteoporosis
+10764869-00|20 36|optic neuropathy
+10764869-01|39 55|optic neuropathy
+10764869-04|106 133|ischemic optic neuropathies
+10764869-06|81 101|optic nerve toxicity
+10770468-00|0 13|Hypercalcemia
+10770468-00|15 25|arrhythmia
+10770468-01|21 28|bipolar
+10770468-01|89 102|hypercalcemia
+10770468-01|114 129|bradyarrhythmia
+10770468-01|187 194|bipolar
+10770468-01|228 241|hypercalcemia
+10770468-02|27 40|hypercalcemia
+10770468-03|27 41|hypercalcemias
+10770468-03|147 161|hypercalcemias
+10770468-03|173 185|malignancies
+10770468-03|265 278|hypercalcemia
+10770468-05|106 127|bipolar normocalcemic
+10770468-05|167 188|bipolar normocalcemic
+10770468-08|14 27|hypercalcemia
+10770468-08|51 59|diseases
+10770468-08|64 71|bipolar
+10770468-08|105 118|hypercalcemia
+10933650-00|15 29|nephrotoxicity
+10933650-01|0 2|NS
+10933650-01|107 115|toxicity
+10933650-02|16 24|toxicity
+10933650-05|59 67|necrosis
+10933650-07|126 140|nephrotoxicity
+10939760-00|31 45|nephrotoxicity
+10939760-01|19 33|nephrotoxicity
+10939760-03|49 57|oliguria
+10939760-03|59 73|abdominal pain
+10939760-03|75 88|renal failure
+10939760-03|121 134|renal calculi
+10939760-05|2 18|nephrostomy tube
+10939760-05|63 81|ureteral lithiasis
+10960401-00|9 18|nystagmus
+10960401-01|58 67|dizziness
+10960401-01|85 94|nystagmus
+10975596-00|94 115|myocardial infarction
+10975596-01|275 296|myocardial infarction
+10975596-05|75 86|tachycardia
+10975596-05|149 160|tachycardia
+10975596-07|110 121|arrhythmias
+10985896-00|86 93|ovarian
+10985896-00|98 120|fallopian tube cancers
+10985896-00|133 142|carcinoma
+10985896-01|135 149|ovarian cancer
+10985896-01|170 178|toxicity
+10985896-01|267 285|hand-foot syndrome
+10985896-01|292 302|stomatitis
+10985896-03|37 44|ovarian
+10985896-03|48 70|fallopian tube cancers
+10985896-03|93 102|carcinoma
+10985896-06|50 68|hand-foot syndrome
+10985896-06|73 83|stomatitis
+10985896-07|30 38|diarrhea
+10985896-11|72 80|toxicity
+10985896-11|82 92|stomatitis
+10985896-11|94 112|hand-foot syndrome
+10985896-12|130 144|ovarian cancer
+10986547-00|32 45|bipolar mania
+10986547-02|100 113|bipolar mania
+10986547-04|51 67|bipolar disorder
+10986547-04|69 74|manic
+10986547-07|66 69|EPS
+10986547-11|216 235|emergent somnolence
+10986547-12|92 105|bipolar mania
+11026989-07|9 27|Pupillary dilation
+11105626-00|10 34|isotretinoin embryopathy
+11105626-00|50 56|anotia
+11105626-00|74 86|malformation
+11105626-01|32 61|multiple congenital anomalies
+11105626-01|63 69|anotia
+11105626-01|87 99|malformation
+11135381-00|73 92|stress incontinence
+11135381-01|120 147|urinary stress incontinence
+11135381-03|125 144|stress incontinence
+11135381-05|46 54|headache
+11135381-06|157 176|stress incontinence
+11176729-00|86 107|chronic heart failure
+11176729-02|123 144|chronic heart failure
+11176729-02|146 149|CHF
+11176729-03|101 104|CHF
+11176729-05|58 61|CHF
+11176729-06|131 142|hypotension
+11176729-06|147 164|renal dysfunction
+11176729-07|196 207|hypotension
+11176729-07|229 246|renal dysfunction
+11176729-07|250 262|hyperkalemia
+11176729-10|192 200|diabetes
+11176729-11|89 92|CHF
+11229942-00|22 47|cocaethylene cardiotoxity
+11229942-03|15 31|cardiac toxicity
+11229942-04|74 88|cardiotoxicity
+11229942-10|0 23|Ventricular arrhythmias
+11229942-10|106 129|ventricular tachycardia
+11229942-12|40 56|cardiac toxicity
+11229942-13|70 91|myocardial depression
+11299446-00|13 25|Parkinsonism
+11299446-01|41 60|Parkinson's disease
+11366874-01|115 126|bradycardia
+11366874-02|0 11|Bradycardia
+11380496-00|93 108|Graves' disease
+11380496-01|83 93|vasculitis
+11380496-01|129 144|Graves' disease
+11380496-03|109 119|vasculitis
+11380496-03|185 200|Graves' disease
+11380496-04|66 81|Graves' disease
+11380496-05|54 69|hyperthyroidism
+11380496-05|77 92|Graves' disease
+11380496-05|147 157|vasculitis
+11380496-10|68 83|Graves' disease
+11380496-13|90 95|fever
+11380496-13|102 108|ulcers
+11380496-13|113 127|polyarthralgia
+11380496-14|125 135|vasculitis
+11385188-00|14 27|heart disease
+11385188-01|31 44|heart disease
+11385188-02|25 48|coronary artery disease
+11385188-03|0 44|Decreased left ventricular systolic function
+11385188-05|17 32|coronary artery
+11385188-05|36 54|myocardial disease
+11395263-00|77 94|myocardial stress
+11395263-01|122 143|myocardial infarction
+11395263-02|112 133|myocardial infarction
+11401944-00|62 85|ventricular tachycardia
+11401944-01|119 137|torsade de pointes
+11401944-01|139 142|TdP
+11401944-01|149 164|QT prolongation
+11401944-02|122 125|TdP
+11401944-03|365 380|QT prolongation
+11401944-06|151 166|QT prolongation
+11401944-07|124 127|TdP
+11401944-09|216 219|TdP
+11401944-09|226 241|QT prolongation
+11425091-01|56 79|subependymal hemorrhage
+11425091-05|86 99|cocaine abuse
+11425091-09|48 65|subependymal cyst
+11439380-00|12 22|neuropathy
+11439380-00|58 73|prostate cancer
+11439380-01|47 57|neuropathy
+11439380-02|53 68|prostate cancer
+11439380-08|23 33|neuropathy
+11439380-11|0 10|Neuropathy
+11439380-12|38 59|peripheral neuropathy
+11474137-00|83 95|hearing loss
+11474137-01|71 82|ototoxicity
+11474137-01|240 251|ototoxicity
+11474137-02|121 132|ototoxicity
+11474137-09|152 163|ototoxicity
+11708428-00|19 26|anxiety
+11708428-01|55 62|anxiety
+11708428-06|0 7|Anxiety
+11708428-12|45 52|anxiety
+11745287-00|83 106|squamous cell carcinoma
+11745287-01|152 161|carcinoma
+11745287-02|222 254|squamous cell cervical carcinoma
+11745287-02|291 299|toxicity
+11745287-03|96 104|toxicity
+11745287-05|26 42|myelosuppression
+11745287-05|63 74|neutropenia
+11745287-05|91 97|anemia
+11745287-05|114 130|thrombocytopenia
+11745287-05|151 168|neutropenic fever
+11745287-07|30 38|toxicity
+11745287-07|48 54|nausea
+11745287-07|71 77|emesis
+11745287-07|94 101|fatigue
+11745287-07|117 126|mucositis
+11745287-07|134 144|stomatitis
+11745287-07|160 172|constipation
+11745287-07|188 199|weight loss
+11745287-07|215 233|hand-foot syndrome
+11745287-08|126 135|carcinoma
+11799346-00|22 27|mania
+11799346-01|58 63|manic
+11799346-01|149 154|mania
+11799346-03|44 49|mania
+11799346-07|76 81|manic
+11799346-08|127 132|mania
+11799346-10|46 51|mania
+11799346-12|89 94|mania
+11799346-12|161 166|manic
+11835460-00|17 35|ocular dyskinesias
+11835460-00|39 58|Parkinson's disease
+11835460-01|17 35|ocular dyskinesias
+11835460-02|64 75|dyskinesias
+11835460-03|235 253|ocular dyskinesias
+11915580-00|73 93|primary dysmenorrhea
+11915580-01|0 20|Primary dysmenorrhea
+11915580-01|52 59|painful
+11915580-01|112 123|endometrial
+11915580-03|123 143|primary dysmenorrhea
+11915580-04|60 72|dysmenorrhea
+11915580-09|18 22|pain
+11915580-11|51 62|pelvic pain
+11915580-12|0 13|Low back pain
+11915580-13|0 8|Headache
+11915580-14|41 49|headache
+11915580-15|116 136|primary dysmenorrhea
+11936424-00|90 107|glomerular injury
+11936424-00|145 154|nephrosis
+11936424-01|178 189|proteinuria
+11936424-01|201 223|glomerular hypertrophy
+11936424-01|238 256|glomerulosclerosis
+11936424-01|310 319|nephrotic
+11936424-02|0 9|Nephrosis
+11936424-08|29 40|proteinuria
+11936424-09|4 22|glomerulosclerosis
+11988250-00|0 22|Pulmonary hypertension
+11988250-01|32 42|hypoxaemia
+11988250-01|140 164|patent ductus arteriosus
+11988250-03|0 10|Hypoxaemia
+11988250-04|80 112|pulmonary pressure if hypoxaemia
+12051122-00|0 12|Hyponatremia
+12051122-01|124 136|hyponatremia
+12051122-02|110 122|hyponatremia
+12051122-03|32 44|hyponatremia
+12051122-06|63 71|leukemia
+12051122-06|75 83|lymphoma
+12051122-08|77 89|hyponatremia
+12059909-00|8 16|toxicity
+12059909-03|9 17|toxicity
+12059909-03|35 56|haemorrhagic cystitis
+12059909-04|30 38|ulcerous
+12059909-04|47 55|ulcerous
+12059909-04|73 81|cystitis
+12059909-05|8 16|cystitis
+12059909-09|8 16|cystitis
+12059909-10|36 44|toxicity
+12059909-11|25 46|interstitial cystitis
+12119460-00|114 128|gastric cancer
+12119460-02|158 172|gastric cancer
+12119460-02|174 177|AGC
+12119460-02|211 223|low toxicity
+12119460-03|95 103|toxicity
+12119460-05|91 94|AGC
+12119460-12|10 20|toxicities
+12119460-12|56 66|leukopenia
+12119460-12|82 98|thrombocytopenia
+12119460-12|133 141|diarrhea
+12119460-12|156 166|stomatitis
+12119460-12|179 197|hand-foot syndrome
+12119460-13|23 48|hemolytic-uremic syndrome
+12119460-13|50 53|HUS
+12119460-14|93 96|AGC
+12119460-15|112 115|HUS
+12165618-00|51 74|impaired renal function
+12165618-00|78 122|human immunodeficiency virus type 1-infected
+12165618-01|100 119|renal complications
+12165618-03|57 71|nephrotoxicity
+12165618-03|90 112|human immunodeficiency
+12165618-08|136 145|hematuria
+12165618-12|44 56|leukocyturia
+12165618-13|53 67|nephrotoxicity
+12165618-14|115 127|leukocyturia
+12165618-18|103 118|nephrolithiasis
+12165618-19|21 35|nephrotoxicity
+12359538-00|58 68|chest pain
+12359538-01|83 102|myocardial necrosis
+12359538-01|130 151|myocardial infarction
+12359538-01|153 155|MI
+12359538-01|203 213|chest pain
+12359538-03|84 94|chest pain
+12359538-03|121 123|MI
+12359538-04|66 68|MI
+12372954-00|6 28|interstitial nephritis
+12372954-01|26 48|interstitial nephritis
+12372954-01|50 53|AIN
+12372954-02|51 56|fever
+12372954-02|61 80|acute renal failure
+12372954-03|76 98|retinal vein occlusion
+12372954-04|40 45|fever
+12372954-04|50 59|skin rash
+12372954-05|38 48|arthralgia
+12372954-05|53 58|fever
+12372954-05|90 120|eosinophilia and renal failure
+12372954-05|132 135|AIN
+12372954-08|69 72|AIN
+12452552-00|0 30|Neuroleptic malignant syndrome
+12452552-00|54 73|intestinal bleeding
+12452552-00|92 113|chronic renal failure
+12452552-01|15 36|chronic renal failure
+12452552-01|38 41|CRF
+12452552-01|53 83|neuroleptic malignant syndrome
+12452552-01|85 88|NMS
+12452552-02|39 42|NMS
+12452552-02|52 71|intestinal bleeding
+12452552-03|26 29|NMS
+12452552-03|48 51|CRF
+12452552-03|74 93|intestinal bleeding
+12487093-03|19 31|hypertension
+12487093-06|33 40|seizure
+12498738-00|62 76|cardiomyopathy
+12498738-01|107 121|cardiomyopathy
+12498738-02|52 77|mitochondrial dysfunction
+12498738-03|200 246|hepatic mitochondrial bioenergetic dysfunction
+12498738-03|286 294|toxicity
+12498738-05|253 273|cardiac mitochondria
+12498738-07|56 74|liver mitochondria
+12498738-09|131 149|heart mitochondria
+12498738-10|80 98|liver mitochondria
+12498738-11|190 215|mitochondrial dysfunction
+12498738-11|220 234|cardiomyopathy
+12498738-11|285 291|cancer
+12523489-00|16 29|hyperactivity
+12523489-00|105 118|hyperactivity
+12523489-01|96 109|hyperactivity
+12523489-10|73 86|hyperactivity
+12523489-10|160 173|hyperactivity
+12523489-12|165 178|hyperactivity
+12523489-12|282 295|hyperactivity
+12535818-00|27 42|bradyarrhythmia
+12535818-00|98 117|atrial fibrillation
+12535818-00|128 149|myocardial infarction
+12535818-01|98 117|atrial fibrillation
+12535818-01|119 121|AF
+12535818-01|145 160|bradyarrhythmia
+12535818-02|30 45|bradyarrhythmia
+12535818-02|173 196|ventricular arrhythmias
+12535818-03|85 87|AF
+12535818-03|159 180|myocardial infarction
+12535818-03|182 184|MI
+12535818-04|49 64|bradyarrhythmia
+12535818-09|85 87|AF
+12535818-09|103 105|MI
+12535818-09|128 143|bradyarrhythmia
+12559315-02|44 52|cystitis
+12559315-09|74 95|interstitial cystitis
+12559315-09|142 154|mastocytosis
+12559315-10|66 74|cystitis
+12644816-00|77 92|prostate cancer
+12644816-01|115 142|haematological malignancies
+12644816-03|124 139|prostate cancer
+12644816-09|25 37|constipation
+12644816-09|39 57|morning drowsiness
+12644816-09|59 68|dizziness
+12644816-09|73 77|rash
+12644816-10|12 41|peripheral sensory neuropathy
+12644816-11|82 103|peripheral neuropathy
+12644816-12|167 188|peripheral neuropathy
+12677626-00|0 31|Central nervous system toxicity
+12677626-01|54 70|cardiac toxicity
+12677626-03|33 41|seizures
+12677626-05|129 137|seizures
+12677626-06|4 12|seizures
+12677626-07|35 58|cardiovascular toxicity
+12677626-09|55 71|cardiac toxicity
+12677626-09|186 197|convulsions
+12677626-10|69 77|toxicity
+12677626-10|112 128|cardiac toxicity
+12699527-00|42 60|myotonia congenita
+12699527-00|99 117|myotonic disorders
+12699527-01|0 18|Myotonia congenita
+12699527-01|20 22|MC
+12699527-02|84 96|muscle spasm
+12699527-03|4 17|muscle spasms
+12699527-05|0 8|Myotonia
+12699527-06|14 16|MC
+12699527-08|60 82|malignant hyperthermia
+12752472-00|38 46|epilepsy
+12752472-01|9 14|Apnea
+12752472-01|40 48|seizures
+12752472-03|112 120|epilepsy
+12752472-04|38 47|epileptic
+12752472-04|131 147|hyperventilation
+12752472-04|151 166|hypoventilation
+12752472-06|190 192|VT
+12752472-06|292 294|VT
+12752472-07|13 38|hyperventilation maneuver
+12752472-08|58 67|epileptic
+12752472-09|4 28|hypoventilation maneuver
+12752472-10|7 16|epileptic
+12752472-13|84 92|epilepsy
+12828076-00|45 64|acute liver failure
+12828076-00|84 92|overdose
+12828076-01|157 176|acute liver failure
+12828076-02|81 100|acute liver failure
+12828076-03|91 110|acute liver failure
+12828076-04|16 21|tumor
+12828076-04|22 30|necrosis
+12828076-05|65 84|acute liver failure
+12828076-06|51 70|acute liver failure
+12828076-06|90 98|overdose
+12828076-06|179 188|hepatitis
+12828076-09|75 94|acute liver failure
+12828076-09|190 195|tumor
+12828076-09|196 204|necrosis
+12865514-00|46 65|Parkinson's disease
+12865514-01|118 137|Parkinson's disease
+12865514-03|52 71|Parkinson's disease
+12865514-03|129 141|bradykinesia
+12865514-03|143 151|rigidity
+12865514-03|174 185|dyskinesias
+12865514-04|162 181|Parkinson's Disease
+12865514-05|152 171|Parkinson's Disease
+12865514-06|22 30|akinesia
+12865514-06|32 40|rigidity
+12865514-06|42 48|tremor
+12865514-10|90 101|weight gain
+12865514-11|93 112|Parkinson's disease
+12865514-13|73 84|dyskinesias
+12912689-00|0 15|Ocular motility
+12912689-00|68 82|retinoblastoma
+12912689-01|90 98|toxicity
+12912689-01|141 167|intraocular retinoblastoma
+12912689-02|50 74|abnormal ocular motility
+12912689-03|18 42|abnormal ocular motility
+12912689-03|75 89|retinoblastoma
+12912689-04|113 128|ocular motility
+12912689-04|135 140|tumor
+12912689-04|154 169|ocular motility
+12912689-06|23 38|ocular motility
+12912689-06|94 120|intraocular retinoblastoma
+12912689-07|201 209|necrosis
+12912689-09|78 86|fibrosis
+12912689-10|36 44|toxicity
+12948256-00|15 31|optic neuropathy
+12948256-01|63 79|optic neuropathy
+12948256-02|40 56|optic neuropathy
+12948256-02|97 109|tuberculosis
+12948256-04|26 42|optic neuropathy
+12948256-06|32 49|visual impairment
+12948256-06|66 83|diabetes mellitus
+12948256-06|85 93|glaucoma
+12948256-07|33 49|optic neuropathy
+12948256-08|98 115|diabetes mellitus
+12948256-08|117 125|glaucoma
+12950111-00|36 49|hyperhidrosis
+12950111-01|0 23|Gustatory hyperhidrosis
+12950111-04|17 40|gustatory hyperhidrosis
+12950111-04|184 197|hyperhidrosis
+12950111-07|34 43|dry mouth
+12950111-07|105 113|headache
+12950111-08|170 193|gustatory hyperhidrosis
+14616590-04|124 128|pain
+14616590-06|29 45|thrombophlebitis
+14616590-09|0 4|Pain
+14616590-09|45 61|thrombophlebitis
+14616590-10|166 182|thrombophlebitis
+14748761-02|185 197|malignancies
+14748761-03|78 84|cancer
+14748761-04|55 61|deaths
+14748761-08|72 83|cardiotoxic
+14748761-09|225 241|cardiac diseases
+15018178-00|16 49|hypoxic cortical laminar necrosis
+15018178-00|66 82|hemolytic anemia
+15018178-01|97 113|hemolytic anemia
+15018178-01|176 191|cerebral anoxia
+15018178-02|36 61|cortical laminar necrosis
+15018178-02|117 125|ischemic
+15018178-03|26 34|necrosis
+15094729-00|45 65|visual field defects
+15094729-01|45 65|visual field defects
+15094729-01|188 195|seizure
+15094729-05|205 224|visual field defect
+15094729-08|24 44|visual field defects
+15094729-09|89 109|visual field defects
+15094729-09|183 191|toxicity
+15096374-00|25 35|dermatitis
+15096374-01|209 216|rosacea
+15096374-01|221 240|perioral dermatitis
+15096374-02|25 35|dermatitis
+15096374-03|38 68|inflammatory facial dermatoses
+15096374-04|102 109|rosacea
+15096374-04|134 138|acne
+15096374-06|18 31|eyelid eczema
+15096374-06|56 66|dermatitis
+15096374-07|18 35|atopic dermatitis
+15096374-07|56 71|papular rosacea
+15096374-08|71 81|dermatitis
+15229250-00|0 24|Structural abnormalities
+15229250-02|69 77|deficits
+15229250-02|123 155|cerebral metabolic abnormalities
+15229250-03|226 246|cognitive impairment
+15229250-05|30 50|gray-matter deficits
+15229250-06|142 166|white-matter hypertrophy
+15229250-08|131 146|impaired memory
+15229250-10|23 34|hypertrophy
+15229250-10|109 116|gliosis
+15229250-10|130 145|neuronal damage
+15229250-11|117 129|brain injury
+15265979-00|14 39|hepatic lipid homeostasis
+15265979-01|92 106|hepatotoxicity
+15265979-03|19 31|hepatomegaly
+15265979-06|51 63|hepatomegaly
+15265979-07|130 141|weight loss
+15265979-08|118 126|hepatoma
+15265979-09|54 88|disrupts hepatic lipid homeostasis
+15265979-10|74 85|hepatotoxic
+15265979-10|172 186|hepatotoxicity
+15276093-01|90 118|primary hypercholesterolemia
+15276093-01|129 141|dyslipidemia
+15276093-03|31 43|dyslipidemia
+15276093-05|145 157|dyslipidemia
+15276093-06|127 135|myopathy
+15276093-12|136 144|myopathy
+15282950-00|61 78|myocardial injury
+15282950-01|48 73|Terminalia chebula fruits
+15282950-01|152 169|myocardial damage
+15282950-04|61 80|myocardial necrosis
+15321332-00|10 31|postoperative anxiety
+15321332-00|88 97|analgesia
+15366550-00|56 74|diabetes insipidus
+15366550-02|62 80|diabetes insipidus
+15366550-02|82 84|DI
+15366550-02|101 123|traumatic brain injury
+15366550-03|102 112|polydipsia
+15366550-04|38 52|nephrogenic DI
+15366550-04|187 189|DI
+15366550-05|212 226|nephrogenic DI
+15366550-05|252 254|DI
+15366550-05|268 280|brain trauma
+15366550-06|67 69|DI
+15482540-00|42 48|anemia
+15482540-01|69 88|chronic hepatitis C
+15482540-01|98 114|hemolytic anemia
+15482540-02|83 89|anemia
+15482540-03|36 55|chronic hepatitis C
+15482540-04|72 78|anemia
+15482540-05|27 33|anemia
+15482540-06|64 70|anemia
+15482540-08|129 135|anemia
+15605432-00|65 93|cardiac mitochondrial injury
+15605432-01|102 105|RNS
+15605432-01|158 172|cardiotoxicity
+15605432-06|96 116|mitochondrial injury
+15605432-08|26 46|mitochondrial injury
+15609701-00|16 30|coronary spasm
+15609701-00|49 71|dilated cardiomyopathy
+15609701-00|98 121|ventricular tachycardia
+15609701-01|30 58|left ventricular dysfunction
+15609701-01|66 88|dilated cardiomyopathy
+15609701-01|154 177|ventricular tachycardia
+15609701-01|179 181|VT
+15609701-02|64 66|VT
+15609701-03|80 82|VT
+15609701-06|0 18|Coronary vasospasm
+15614572-04|116 125|catalepsy
+15614572-05|47 56|catalepsy
+15614572-06|55 64|catalepsy
+15614572-06|167 176|catalepsy
+15614572-07|125 134|catalepsy
+15614572-08|46 55|catalepsy
+15614572-11|242 251|catalepsy
+15625689-00|0 24|Swallowing abnormalities
+15625689-00|29 39|dyskinesia
+15625689-00|43 62|Parkinson's disease
+15625689-01|0 30|Gastrointestinal abnormalities
+15625689-01|34 53|Parkinson's disease
+15625689-01|55 57|PD
+15625689-02|72 74|PD
+15625689-02|118 128|dyskinesia
+15625689-03|8 18|dyskinetic
+15625689-04|26 35|dysphagia
+15625689-04|67 86|Parkinson's Disease
+15625689-06|36 46|dyskinetic
+15625689-07|0 10|Dyskinetic
+15625689-08|64 68|OPSE
+15625689-09|22 31|dysphagia
+15625689-09|47 49|PD
+15625689-10|22 32|dyskinetic
+15625689-11|90 99|dysphagia
+15625689-11|154 156|PD
+15627798-00|58 86|tubulointerstitial nephritis
+15627798-01|71 92|interstitial fibrosis
+15627798-09|44 52|fibrosis
+15627798-11|80 108|tubulointerstitial nephritis
+15630069-00|36 49|schizophrenia
+15630069-01|45 62|diabetes mellitus
+15630069-01|98 111|schizophrenia
+15630069-01|230 248|glucose metabolism
+15630069-01|293 301|diabetes
+15630069-03|66 79|schizophrenia
+15630069-06|34 47|schizophrenia
+15630069-06|51 75|schizoaffective disorder
+15630069-07|163 184|glucose effectiveness
+15630069-13|113 148|impairment of glucose effectiveness
+15815446-00|6 23|cerebral ischemia
+15815446-00|65 77|hypertension
+15815446-01|27 59|middle cerebral artery occlusion
+15815446-01|77 89|hypertensive
+15815446-01|132 144|hypertension
+15815446-01|148 169|ischemic brain injury
+15815446-02|134 146|hypertension
+15815446-02|248 260|hypertension
+15815446-02|329 341|hypertension
+15815446-03|37 49|brain injury
+15815446-03|129 134|edema
+15815446-05|0 12|Brain injury
+15815446-05|32 40|ischemic
+15815446-08|78 113|hypertension decreases brain injury
+15815446-08|118 123|edema
+15815446-08|144 156|hypertension
+15815446-08|189 194|edema
+15817013-00|23 42|atrial fibrillation
+15817013-00|74 84|hemorrhage
+15817013-00|89 95|stroke
+15817013-01|48 58|hemorrhage
+15817013-01|63 69|stroke
+15817013-01|103 122|atrial fibrillation
+15817013-04|150 169|atrial fibrillation
+15817013-05|42 50|bleeding
+15817013-05|61 68|strokes
+15817013-08|20 31|hemorrhages
+15817013-08|122 128|bleeds
+15817013-09|11 17|stroke
+15817013-10|30 40|hemorrhage
+15817013-10|145 151|stroke
+15859361-02|20 36|hypersensitivity
+15859361-06|36 52|hypersensitivity
+15859361-12|80 88|erythema
+15859361-12|98 118|urticaria-angioedema
+15859361-14|38 48|angioedema
+15859361-15|21 37|hypersensitivity
+15882284-00|83 106|end-stage renal disease
+15882284-01|150 173|end-stage renal disease
+15882284-01|175 179|ESRD
+15882284-02|82 86|ESRD
+15882284-03|84 88|ESRD
+15882284-04|91 95|ESRD
+15882284-10|12 16|ESRD
+15882284-10|159 179|vascular nephropathy
+15882284-11|134 138|ESRD
+15882284-12|61 65|ESRD
+15953230-00|25 33|overdose
+15953230-00|47 68|prolonged QT syndrome
+15953230-01|29 38|poisoning
+15953230-02|15 48|QT prolongation and hypocalcaemia
+15953230-03|4 19|QT prolongation
+15987266-00|82 91|epileptic
+15987266-01|112 120|epilepsy
+15987266-02|218 236|status epilepticus
+15991002-03|152 159|anxiety
+15991002-04|70 77|anxiety
+15991002-05|79 86|anxiety
+15991002-10|92 99|anxiety
+15991002-12|94 101|anxiety
+16034922-02|59 81|cardiovascular disease
+16034922-02|83 95|osteoporosis
+16034922-02|100 108|dementia
+16034922-03|63 76|heart disease
+16034922-03|78 100|venous thromboembolism
+16034922-03|102 108|stroke
+16034922-03|120 137|ischaemic attacks
+16034922-03|139 152|breast cancer
+16034922-03|154 171|colorectal cancer
+16034922-03|173 187|ovarian cancer
+16034922-03|189 207|endometrial cancer
+16034922-03|209 228|gallbladder disease
+16034922-03|250 258|dementia
+16034922-03|260 269|fractures
+16034922-04|87 106|Menstrual Disorders
+16034922-12|88 110|venous thromboembolism
+16034922-12|153 159|stroke
+16034922-12|177 190|breast cancer
+16034922-12|211 230|gallbladder disease
+16034922-13|69 75|stroke
+16034922-13|80 99|gallbladder disease
+16034922-14|89 98|fractures
+16034922-14|103 115|colon cancer
+16034922-15|143 151|dementia
+16034922-16|17 39|cardiovascular disease
+16034922-16|117 139|venous thromboembolism
+16034922-19|55 77|venous thromboembolism
+16034922-20|72 87|chronic disease
+16083708-00|0 25|Drug-induced liver injury
+16083708-01|91 103|liver injury
+16083708-01|105 109|DILI
+16083708-02|90 94|DILI
+16083708-03|4 16|liver damage
+16083708-03|64 75|cholestatic
+16083708-05|124 128|DILI
+16083708-08|97 105|jaundice
+16083708-09|43 68|fulminant hepatic failure
+16083708-09|124 145|hepatocellular damage
+16083708-10|55 63|jaundice
+16083708-11|70 74|DILI
+16092435-00|72 86|cardiotoxicity
+16092435-01|48 62|myocardiopathy
+16092435-02|69 85|cardiac toxicity
+16092435-03|66 80|cardiotoxicity
+16112787-00|96 110|nephrotoxicity
+16112787-01|293 309|renal impairment
+16112787-02|51 70|VCM plus erdosteine
+16112787-05|149 169|renal tubular injury
+16112787-07|67 81|nephrotoxicity
+16112787-08|96 103|atrophy
+16112787-08|123 131|necrosis
+16112787-10|89 103|nephrotoxicity
+16112787-10|183 196|kidney damage
+16309808-00|51 73|restless legs syndrome
+16309808-01|79 101|restless legs syndrome
+16309808-01|103 106|RLS
+16309808-02|29 32|RLS
+16309808-02|170 173|RLS
+16309808-03|164 167|RLS
+16309808-04|112 115|RLS
+16309808-05|26 35|depressed
+16309808-05|71 80|dyspepsia
+16309808-05|95 98|RLS
+16309808-06|40 43|RLS
+16309808-06|101 104|RLS
+16309808-07|80 83|RLS
+16309808-07|177 180|RLS
+16309808-08|95 98|RLS
+16323982-00|33 58|coronary arterial disease
+16323982-01|86 101|prostate cancer
+16323982-02|116 118|TG
+16323982-02|248 263|prostate cancer
+16323982-04|108 130|coronary heart disease
+16323982-05|13 48|Ischaemic coronary arteriosclerosis
+16369751-00|15 29|cardiotoxicity
+16369751-01|0 14|Cardiotoxicity
+16369751-01|91 103|malignancies
+16369751-02|65 79|cardiotoxicity
+16369751-03|34 57|colon cancer metastases
+16369751-04|119 123|pain
+16369751-04|129 154|right bundle branch block
+16369751-05|20 24|pain
+16369751-06|18 22|pain
+16369751-06|87 101|cardiotoxicity
+16369751-11|117 131|cardiotoxicity
+16369751-12|61 75|cardiotoxicity
+16565833-00|128 142|cardiotoxicity
+16565833-01|32 46|cardiotoxicity
+16565833-02|12 26|cardiac damage
+16565833-04|107 121|cardiotoxicity
+16565833-09|134 140|Cancer
+16565833-10|82 96|cardiac damage
+16723784-00|74 93|atrial fibrillation
+16723784-00|98 105|flutter
+16723784-01|90 109|atrial fibrillation
+16723784-01|111 113|AF
+16723784-01|119 133|atrial flutter
+16723784-01|135 138|AFL
+16723784-02|44 62|torsade de pointes
+16723784-02|64 67|Tdp
+16723784-04|83 85|AF
+16723784-04|93 96|AFL
+16723784-07|17 32|QT prolongation
+16723784-07|69 80|bradycardia
+16723784-07|119 128|dizziness
+16723784-07|141 148|fatigue
+16723784-08|25 40|QT prolongation
+16723784-08|42 45|Tdp
+16723784-09|32 35|Tdp
+16723784-09|41 52|hypokalemia
+16723784-10|87 90|Tdp
+16723784-10|164 167|Tdp
+16731636-00|31 50|cardiac hypertrophy
+16731636-05|0 14|LV hypertrophy
+16731636-06|12 26|LV hypertrophy
+16731636-08|109 120|hypertrophy
+16801510-00|13 29|long QT syndrome
+16801510-01|25 41|long QT syndrome
+16801510-03|43 67|QT interval prolongation
+16801510-06|135 150|QT prolongation
+16801510-07|69 85|QTc prolongation
+16801510-08|53 72|torsades de pointes
+16801510-10|145 156|hypokalemia
+16801510-11|13 37|QT interval prolongation
+16801510-12|111 126|QT prolongation
+16801510-13|0 16|Long QT syndrome
+16810074-00|14 26|hypertension
+16810074-01|54 66|hypertension
+16810074-01|84 104|arterial dysfunction
+16810074-02|13 25|hypertension
+16810074-04|116 128|hypertension
+16810074-10|98 110|hypertension
+16810074-12|94 106|hypertensive
+16810074-14|204 216|hypertension
+16867246-00|61 84|extrapyramidal syndrome
+16867246-00|96 109|schizophrenic
+16867246-01|5 28|Extrapyramidal syndrome
+16867246-01|30 33|EPS
+16867246-02|154 167|schizophrenia
+16867246-03|73 76|EPS
+16867246-03|80 93|schizophrenic
+16867246-04|155 168|schizophrenic
+16867246-04|189 192|EPS
+16867246-04|208 211|EPS
+16867246-08|232 245|schizophrenia
+16867246-09|76 79|EPS
+16876986-00|77 85|seizures
+16876986-01|100 108|epilepsy
+16876986-02|126 134|seizures
+16876986-04|12 20|seizures
+16876986-05|27 45|status epilepticus
+16876986-05|122 130|seizures
+16876986-06|164 172|seizures
+16876986-06|225 243|status epilepticus
+16880771-02|92 98|stroke
+16880771-07|50 63|word learning
+16880771-12|130 136|stroke
+16906379-00|20 30|vasculitis
+16906379-00|58 78|polyarteritis nodosa
+16906379-01|54 77|palmoplantar pustulosis
+16906379-01|88 93|fever
+16906379-01|95 103|myalgias
+16906379-01|105 119|polyneuropathy
+16906379-01|136 140|pain
+16906379-03|102 122|polyarteritis nodosa
+16906379-05|65 75|vasculitis
+16906379-06|95 115|polyarteritis nodosa
+16911931-00|14 25|hepatitis B
+16911931-00|84 95|hepatitis B
+16911931-01|21 32|hepatitis B
+16911931-01|107 118|hepatitis B
+16911931-02|94 105|hepatitis B
+16920333-00|64 72|seizures
+16920333-02|116 124|seizures
+16920333-02|202 209|seizure
+16920333-03|81 89|seizures
+16920333-03|117 124|seizure
+16920333-04|84 92|seizures
+16920333-05|45 53|seizures
+16920333-05|123 131|seizures
+16920333-05|159 166|seizure
+17028363-00|0 19|Acute renal failure
+17028363-02|0 11|Nephropathy
+17028363-03|44 63|acute renal failure
+17028363-03|191 203|Rhizoma Rhei
+17028363-04|4 16|renal injury
+17028363-05|28 62|hypocellular interstitial fibrosis
+17028363-06|83 104|interstitial fibrosis
+17028363-06|109 124|tubular atrophy
+17028363-07|95 107|renal injury
+17028363-07|154 178|interstitial nephropathy
+17028363-07|241 254|renal failure
+17035713-00|92 103|nephropathy
+17035713-01|113 125|renal damage
+17035713-01|141 146|tumor
+17035713-04|0 8|Toxicity
+17035713-06|107 115|necrosis
+17035713-11|106 114|necrosis
+17035713-12|86 94|toxicity
+17035713-14|67 78|nephropathy
+17042797-00|116 134|status epilepticus
+17042797-01|10 28|status epilepticus
+17042797-02|95 103|seizures
+17042797-02|134 152|status epilepticus
+17042797-04|162 180|status epilepticus
+17042797-06|86 104|status epilepticus
+17042797-07|100 108|seizures
+17042797-07|201 209|seizures
+17042797-09|115 137|temporal lobe epilepsy
+17069550-00|50 67|autistic disorder
+17069550-01|88 94|autism
+17069550-02|191 197|autism
+17069550-03|48 54|autism
+17069550-05|65 77|irritability
+17069550-08|88 97|headaches
+17069550-09|153 159|autism
+17069550-09|174 184|aggression
+17151160-00|90 103|schizophrenia
+17151160-01|124 156|schizophrenia spectrum disorders
+17151160-02|98 111|schizophrenia
+17151160-02|119 144|schizophreniform disorder
+17151160-02|155 179|schizoaffective disorder
+17151160-05|42 54|parkinsonism
+17151160-05|59 68|akathisia
+17151160-07|19 30|weight gain
+17151160-11|42 53|weight gain
+17151160-11|59 70|weight gain
+17159032-00|6 35|paracentral visual field loss
+17159032-01|45 51|ocular
+17159032-06|33 59|visual field abnormalities
+17159032-08|159 179|visual field defects
+17223814-00|15 37|atrioventricular block
+17223814-01|123 146|carcinoma of the breast
+17223814-05|29 51|atrioventricular block
+17223814-06|128 142|cardiotoxicity
+17255138-02|30 51|myocardial infarction
+17255138-02|53 56|AMI
+17255138-02|115 117|GI
+17255138-03|53 56|AMI
+17255138-03|61 72|GI bleeding
+17255138-08|104 107|AMI
+17255138-08|108 110|GI
+17255138-10|86 89|AMI
+17255138-10|90 101|GI bleeding
+17255138-11|4 7|AMI
+17255138-11|8 19|GI toxicity
+17297207-00|16 26|arrhythmia
+17297207-00|52 59|malaria
+17297207-01|48 55|malaria
+17297207-01|69 77|jaundice
+17297207-01|97 107|arrhythmia
+17297207-01|109 142|premature ventricular contraction
+17297207-02|56 61|fever
+17297207-02|70 78|vomiting
+17297207-02|80 88|jaundice
+17297207-04|223 230|malaria
+17297207-04|236 244|jaundice
+17297207-05|43 51|diarrhea
+17297207-05|53 61|tinnitus
+17297207-05|63 78|loss of hearing
+17297207-06|111 144|premature ventricular contraction
+17297207-06|146 149|PVC
+17297207-06|191 207|sinoatrial block
+17297207-09|60 63|PVC
+17297207-11|138 149|arrhythmias
+17297207-11|168 178|arrhythmia
+17297207-11|196 199|PVC
+17297207-12|162 176|heart diseases
+17297207-12|216 227|hypokalemia
+17297207-12|260 268|vomiting
+17297207-12|276 284|diarrhea
+17297207-12|288 295|malaria
+17346443-00|22 42|lichenoid dermatitis
+17346443-00|76 90|Wilson disease
+17346443-00|126 133|anxiety
+17346443-01|0 16|Wilson's disease
+17346443-01|121 129|toxicity
+17346443-01|185 206|psychiatric disorders
+17346443-02|20 36|Wilson's disease
+17346443-02|42 63|chronic liver disease
+17346443-02|133 140|anxiety
+17346443-02|149 159|depression
+17346443-03|93 113|lichenoid dermatitis
+17346443-04|83 99|Wilson's disease
+17346443-05|194 210|Wilson's disease
+17346443-06|14 30|Wilson's disease
+17346443-07|57 73|Wilson's disease
+17346443-07|151 167|Wilson's disease
+17351238-01|49 59|chest pain
+17351238-01|71 81|chest pain
+17351238-08|63 79|syncopal episode
+17356399-00|6 20|encephalopathy
+17356399-00|25 43|cerebral vasospasm
+17356399-00|149 177|acute lymphoblastic leukemia
+17356399-01|90 118|acute lymphoblastic leukemia
+17356399-01|120 123|ALL
+17356399-02|22 42|acute encephalopathy
+17356399-02|76 83|aphasia
+17356399-02|85 97|incontinence
+17356399-02|99 120|visual hallucinations
+17356399-02|138 146|weakness
+17356399-02|160 178|cerebral vasospasm
+17379047-00|195 207|hypertensive
+17379047-01|46 58|hypertension
+17379047-02|29 41|hypertension
+17379047-02|147 159|hypertensive
+17379047-03|182 194|hypertension
+17379047-05|24 36|hypertension
+17379047-17|17 28|hypokalemia
+17379047-20|217 228|hypokalemia
+17384765-00|114 134|cognitive impairment
+17384765-03|205 214|poisoning
+17384765-07|119 137|cognitive deficits
+17445520-00|27 41|panic disorder
+17445520-00|46 56|depression
+17445520-00|62 75|panic attacks
+17445520-01|40 54|panic disorder
+17445520-01|56 58|PD
+17445520-01|78 94|major depression
+17445520-01|100 113|panic attacks
+17445520-01|115 118|MDP
+17445520-01|158 174|Mental Disorders
+17445520-01|246 259|panic attacks
+17445520-02|38 40|PD
+17445520-02|50 53|MDP
+17445520-02|63 79|major depression
+17445520-02|88 101|panic attacks
+17445520-02|103 105|MD
+17445520-04|173 180|anxiety
+17445520-05|43 45|PD
+17445520-05|79 82|MDP
+17445520-05|115 117|MD
+17445520-05|161 166|panic
+17445520-06|18 20|PD
+17445520-06|25 28|MDP
+17445520-06|85 87|MD
+17445520-08|18 20|MD
+17445520-09|54 67|panic attacks
+17445520-09|98 100|PD
+17445520-09|104 107|MDP
+17484470-01|100 122|dilated cardiomyopathy
+17484470-01|127 158|functional mitral regurgitation
+17484470-03|72 85|heart failure
+17484470-07|6 19|heart failure
+17484470-09|57 70|heart failure
+17496739-00|32 39|seizure
+17496739-01|46 59|neurotoxicity
+17496739-02|35 58|end-stage renal disease
+17496739-02|149 155|tremor
+17496739-02|187 203|mental confusion
+17496739-02|235 255|tonic-clonic seizure
+17496739-02|332 346|bronchiectasis
+17496739-02|362 371|infection
+17496739-03|78 90|leukocytosis
+17496739-04|31 41|dysarthria
+17496739-07|59 69|infarction
+17496739-07|74 95|organic brain lesions
+17496739-09|21 35|encephalopathy
+17496739-09|64 70|uremic
+17496739-10|114 128|encephalopathy
+17543491-00|23 55|ipsilateral vocal cord paralysis
+17543491-02|34 41|palsies
+17543491-03|82 105|contralateral paralysis
+17543491-09|41 88|intraoperative ipsilateral vocal cord paralysis
+17543491-11|146 155|paralysis
+17543491-12|46 78|ipsilateral vocal cord paralysis
+17543491-13|21 30|paralysis
+17543491-13|221 230|paralysis
+17543491-14|55 64|paralysis
+17572393-00|107 125|cortical dysplasia
+17572393-01|0 18|Cortical dysplasia
+17572393-01|24 36|malformation
+17572393-02|252 270|cortical dysplasia
+17572393-06|182 200|cortical dysplasia
+17828434-04|145 153|seizures
+17879100-00|55 77|interstitial nephritis
+17879100-01|13 35|interstitial nephritis
+17879100-01|37 41|ATIN
+17879100-01|68 87|acute renal failure
+17879100-01|166 185|interstitial injury
+17879100-03|45 64|acute renal failure
+17879100-04|63 68|fever
+17879100-07|63 67|ATIN
+17879100-10|40 51|proteinuria
+17879217-00|44 62|glomerulonephritis
+17879217-00|66 93|staphylococcal endocarditis
+17879217-01|0 40|Segmental necrotising glomerulonephritis
+17879217-01|133 145|tuberculosis
+17879217-02|25 35|infections
+17879217-02|44 66|infective endocarditis
+17879217-02|68 70|IE
+17879217-02|124 149|Staphylococcal infections
+17879217-03|52 54|IE
+17879217-03|69 88|acute renal failure
+17879217-03|114 144|necrotising glomerulonephritis
+17954033-00|73 108|chronic hepatitis B virus infection
+17954033-01|60 71|hepatitis B
+17954033-02|59 70|hepatitis B
+17954033-02|146 157|hepatitis B
+17954033-03|99 110|hepatitis B
+17954033-04|44 55|hepatitis B
+17954033-12|112 123|hepatitis B
+17954033-12|215 226|hepatitis B
+18025637-00|0 29|Branch retinal vein occlusion
+18025637-01|10 39|branch retinal vein occlusion
+18025637-01|85 97|hypertension
+18025637-02|163 175|hypertension
+18165598-00|118 122|pain
+18165598-00|137 141|pain
+18165598-01|129 141|inflammation
+18165598-02|177 195|postoperative pain
+18165598-06|69 73|pain
+18165598-07|67 71|pain
+18165598-10|158 162|pain
+18189308-00|103 111|cystitis
+18189308-02|126 154|urinary bladder inflammation
+18189308-03|134 154|bladder inflammation
+18189308-04|12 20|cystitis
+18189308-05|143 151|cystitis
+18189308-06|172 180|cystitis
+18189308-08|86 94|cystitis
+18189308-11|117 137|bladder inflammation
+18340638-02|41 47|anemia
+18340638-03|15 21|anemia
+18340638-09|121 127|anemia
+18399341-01|112 129|block hypotension
+18399341-08|105 116|hypotension
+18399341-09|133 144|hypotension
+18422462-00|66 78|HIV-infected
+18422462-01|160 172|HIV-infected
+18422462-01|237 249|HIV-infected
+18422462-03|68 72|rash
+18422462-03|108 129|peripheral neuropathy
+18422462-04|23 29|anemia
+18422462-04|112 121|hepatitis
+18422462-04|132 140|jaundice
+18422462-05|51 66|lactic acidosis
+18422462-05|130 153|reconstitution syndrome
+18422462-06|102 106|rash
+18422462-06|139 160|peripheral neuropathy
+18422462-07|0 6|Anemia
+18422462-07|11 20|hepatitis
+18422462-08|40 50|toxicities
+18450790-00|24 37|neurotoxicity
+18450790-01|57 82|sensory axonal neuropathy
+18450790-02|128 157|cutaneous lupus erythematosus
+18450790-02|159 162|CLE
+18450790-02|228 238|neurotoxic
+18450790-03|88 91|CLE
+18450790-10|14 24|neurotoxic
+18450790-12|75 85|neurotoxic
+18801087-00|45 74|membranous glomerulonephritis
+18801087-00|93 115|valvular heart disease
+18801087-01|59 70|tachycardia
+18801087-02|38 60|valvular heart disease
+18801087-02|126 137|proteinuria
+18801087-03|41 52|lung cancer
+18801087-05|83 105|subepithelial deposits
+18801087-06|0 19|Autoimmune diseases
+18801087-06|21 36|viral hepatitis
+18801087-06|38 57|malignant neoplasms
+18801087-06|105 134|membranous glomerulonephritis
+18801087-07|102 118|pulmonary lesion
+18801087-07|190 219|membranous glomerulonephritis
+18945509-00|8 31|coronary artery disease
+18945509-00|104 112|diabetes
+18945509-01|57 80|coronary artery disease
+18945509-01|82 85|CAD
+18945509-01|131 139|diabetes
+18945509-02|19 27|diabetic
+18945509-02|58 61|CAD
+18945509-03|20 23|CAD
+18945509-03|40 48|diabetes
+18945509-04|25 28|CAD
+18945509-05|25 28|CAD
+18945509-07|44 52|diabetes
+18945509-07|122 125|CAD
+18987260-00|34 45|nephropathy
+18987260-00|63 75|hypertensive
+18987260-01|168 181|renal disease
+18987260-01|211 223|hypertensive
+18987260-01|257 268|nephropathy
+18987260-08|125 143|glomerulosclerosis
+18987260-08|167 178|proteinuria
+18987260-09|62 80|glomerulosclerosis
+18987260-09|120 135|tubular atrophy
+18987260-09|153 161|fibrosis
+18987260-09|185 196|proteinuria
+18987260-09|201 222|chronic renal failure
+18987260-10|70 81|nephropathy
+18987260-11|60 75|tubular atrophy
+18987260-11|107 115|fibrosis
+18987260-11|123 134|nephropathy
+18987260-12|84 129|glomerulosclerosis to end-stage renal disease
+19020118-06|53 61|seizures
+19020118-08|11 30|atrial fibrillation
+19020118-08|61 74|renal failure
+19020118-09|31 46|coronary artery
+19020118-09|94 116|myocardial infarctions
+19020118-09|121 138|renal dysfunction
+19108278-00|85 104|cardiac arrhythmias
+19108278-08|74 93|cardiac arrhythmias
+19108278-10|12 23|arrhythmias
+19108278-11|59 82|ventricular tachycardia
+19139825-00|59 71|glioblastoma
+19139825-01|10 22|glioblastoma
+19139825-02|76 82|glioma
+19139825-04|35 45|toxicities
+19139825-04|68 92|hematological toxicities
+19139825-04|130 141|lymphopenia
+19139825-04|146 157|neutropenia
+19154241-00|37 56|hyperparathyroidism
+19154241-02|68 81|hypercalcemia
+19154241-03|12 39|Primary hyperparathyroidism
+19154241-05|74 87|hypercalcemic
+19178808-01|113 121|bleeding
+19178808-01|327 338|hypotension
+19178808-02|119 130|hypotension
+19178808-03|0 10|Hemorrhage
+19178808-04|20 31|hypotension
+19178808-05|98 109|hypotension
+19178808-05|200 210|blood loss
+19178808-05|246 257|hypotension
+19184102-00|0 32|Nonalcoholic fatty liver disease
+19184102-01|68 76|epilepsy
+19184102-02|20 52|nonalcoholic fatty liver disease
+19184102-02|54 59|NAFLD
+19184102-02|94 101|obesity
+19184102-03|25 41|hyperinsulinemia
+19184102-04|70 81|weight loss
+19184102-05|31 38|obesity
+19184102-05|40 56|hyperinsulinemia
+19184102-05|157 162|NAFLD
+19263707-00|34 44|vasculitis
+19263707-01|109 124|hyperthyroidism
+19263707-03|55 65|vasculitis
+19263707-04|25 40|Graves' disease
+19263707-04|89 99|vasculitis
+19263707-05|35 55|vasculitic skin rash
+19263707-05|84 93|arthritis
+19263707-05|95 102|pyrexia
+19263707-05|107 118|parotiditis
+19263707-06|140 148|myositis
+19263707-08|81 91|vasculitis
+19293073-02|12 34|Coronary heart disease
+19293073-02|39 62|cerebrovascular disease
+19293073-04|135 157|coronary heart disease
+19293073-05|93 115|myocardial infarctions
+19293073-05|117 124|strokes
+19293073-07|188 210|cardiovascular disease
+19293073-07|212 215|CVD
+19293073-07|311 318|strokes
+19293073-07|356 362|stroke
+19293073-07|411 414|CVD
+19293073-08|13 47|increase gastrointestinal bleeding
+19293073-08|51 70|hemorrhagic strokes
+19293073-10|175 178|CVD
+19293073-10|212 215|CVD
+19293073-11|39 61|myocardial infarctions
+19293073-11|90 106|ischemic strokes
+19293073-12|32 35|CVD
+19293073-13|71 79|bleeding
+19293073-13|98 123|gastrointestinal bleeding
+19293073-14|31 50|hemorrhagic strokes
+19293073-15|54 73|hemorrhagic strokes
+19293073-16|67 70|CVD
+19293073-19|41 62|myocardial infarction
+19293073-19|74 81|strokes
+19293073-20|43 51|bleeding
+19338378-00|113 129|thrombocytopenia
+19338378-01|104 114|thrombosis
+19338378-01|134 150|thrombocytopenia
+19338378-01|152 155|HIT
+19338378-01|193 196|HIT
+19338378-02|95 98|HIT
+19338378-03|42 45|HIT
+19338378-03|91 109|hepatic impairment
+19338378-04|113 134|hepatic hypoperfusion
+19338378-04|141 154|heart failure
+19338378-04|180 197|renal dysfunction
+19338378-04|233 240|obesity
+19338378-07|149 156|obesity
+19338378-09|6 14|bleeding
+19338378-11|76 79|HIT
+19338378-11|179 182|HIT
+19338378-11|195 205|thromboses
+19392810-00|0 14|Rhabdomyolysis
+19392810-00|25 40|ischemic stroke
+19392810-04|42 56|rhabdomyolysis
+19392810-04|61 85|cerebral ischemic stroke
+19392810-08|21 35|rhabdomyolysis
+19392810-08|37 56|acute renal failure
+19392810-08|61 86|acute respiratory failure
+19392810-09|45 52|aphasia
+19392810-10|20 48|cerebral ischemic infarction
+19392810-11|81 95|rhabdomyolysis
+19392810-11|100 115|ischemic stroke
+19392810-13|29 43|rhabdomyolysis
+19392810-13|48 54|stroke
+19419794-00|79 90|dyskinesias
+19419794-05|69 80|dyskinesias
+19419794-06|149 160|dyskinesias
+19419794-07|144 155|dyskinesias
+19447152-00|16 21|mania
+19447152-01|151 164|bipolar mania
+19447152-02|33 49|bipolar disorder
+19447152-02|68 93|mitochondrial dysfunction
+19447152-06|69 84|hyperlocomotion
+19447152-08|31 36|mania
+19447152-08|150 166|bipolar disorder
+19515070-01|52 75|fulminant liver failure
+19515070-02|53 72|acute kidney injury
+19515070-02|74 77|AKI
+19515070-03|81 94|liver failure
+19515070-04|137 145|toxicity
+19515070-06|68 91|fulminant liver failure
+19515070-06|108 111|AKI
+19515070-07|70 78|toxicity
+19515070-08|94 117|fulminant liver failure
+19531695-00|0 8|Delirium
+19531695-01|52 60|delirium
+19531695-02|97 106|confusion
+19531695-02|111 119|paranoia
+19531695-04|46 65|atrial fibrillation
+19531695-08|4 12|delirium
+19531695-09|105 113|delirium
+19531695-10|223 231|delirium
+19531695-11|95 103|delirium
+19531695-12|73 81|delirium
+19531695-13|8 16|toxicity
+19549709-00|58 63|NSCLC
+19549709-01|79 90|lung cancer
+19549709-01|92 97|NSCLC
+19549709-02|101 106|NSCLC
+19549709-03|26 31|NSCLC
+19549709-03|278 286|toxicity
+19549709-05|82 87|tumor
+19549709-10|33 40|fatigue
+19549709-10|42 49|dyspnea
+19549709-10|51 61|stomatitis
+19549709-10|63 69|anemia
+19549709-10|75 91|thrombocytopenia
+19549709-13|97 102|NSCLC
+19549709-14|58 63|NSCLC
+19553912-00|15 21|anemia
+19553912-01|15 21|anemia
+19553912-03|83 89|anemia
+19553912-04|118 124|anemia
+19553912-05|22 28|anemia
+19655282-00|110 120|chest pain
+19655282-01|92 102|chest pain
+19655282-01|162 185|acute coronary syndrome
+19655282-03|89 99|chest pain
+19655282-03|104 122|coronary vasospasm
+19655282-03|151 159|ischemia
+19655282-04|79 89|chest pain
+19655282-05|132 142|chest pain
+19655282-08|28 48|cardiovascular death
+19655282-08|52 73|myocardial infarction
+19655282-09|56 66|chest pain
+19655282-14|17 34|coronary stenosis
+19655282-15|136 157|myocardial infarction
+19655282-16|41 60|myocardial ischemia
+19655282-16|137 147|chest pain
+19655282-16|155 163|ischemic
+19715529-00|36 59|encephalopathy syndrome
+19715529-01|22 41|leukoencephalopathy
+19715529-01|79 92|neurotoxicity
+19715529-03|111 130|alcoholic cirrhosis
+19715529-03|182 201|leukoencephalopathy
+19715529-03|226 249|encephalopathy syndrome
+19715529-04|89 98|deep coma
+19715529-08|34 57|encephalopathy syndrome
+19728177-00|10 21|hypothermia
+19728177-00|50 64|cerebral edema
+19728177-00|69 94|intracranial hypertension
+19728177-00|111 136|fulminant hepatic failure
+19728177-01|72 86|cerebral edema
+19728177-01|100 125|fulminant hepatic failure
+19728177-01|127 130|FHF
+19728177-01|174 185|hypothermia
+19728177-02|131 134|FHF
+19728177-02|168 182|cerebral edema
+19728177-03|91 99|toxicity
+19728177-05|29 32|FHF
+19728177-05|56 70|cerebral edema
+19728177-06|51 67|hyperventilation
+19728177-06|92 101|paralysis
+19728177-08|30 41|hypothermia
+19728177-09|45 59|cerebral edema
+19728177-09|64 89|intracranial hypertension
+19728177-11|29 32|FHF
+19728177-11|37 51|cerebral edema
+19728177-11|71 79|overdose
+19728177-11|103 114|hypothermia
+19728177-12|20 31|hypothermia
+19815465-00|8 28|visual field defects
+19815465-01|28 42|visual defects
+19815465-02|29 37|epilepsy
+19815465-03|53 60|seizure
+19815465-05|0 35|Bilateral visual field constriction
+19815465-07|0 36|Bilateral visual field abnormalities
+19815465-07|63 71|epilepsy
+19815465-08|116 132|retinal toxicity
+19841052-00|46 59|HIV infection
+19841052-01|103 116|HIV infection
+19841052-02|126 139|HIV infection
+19841052-06|23 36|HIV infection
+19914299-00|24 39|memory deficits
+19914299-01|0 6|Cancer
+19920070-00|115 127|hepatomegaly
+19920070-02|43 60|liver enlargement
+19967075-00|58 61|OAT
+19967075-00|84 95|Nephropathy
+19967075-01|126 137|nephropathy
+19967075-03|35 38|OAT
+19967075-09|19 30|nephropathy
+19967075-09|143 146|OAT
+20024739-00|45 56|HIV disease
+20024739-00|108 111|HIV
+20024739-01|56 66|depression
+20024739-01|130 133|HIV
+20024739-02|34 37|HIV
+20024739-03|136 155|depression symptoms
+20024739-03|214 224|Depression
+20024739-07|48 58|depression
+20024739-08|0 10|Depression
+20024739-09|76 86|depression
+20024739-10|10 20|depression
+20024739-10|40 51|HIV disease
+20024739-11|142 145|HIV
+20034406-00|100 118|status epilepticus
+20034406-01|43 51|seizures
+20034406-03|62 80|status epilepticus
+20034406-03|82 84|SE
+20034406-04|9 11|SE
+20034406-06|16 18|SE
+20034406-09|62 64|SE
+20034406-10|0 8|Seizures
+20034406-11|72 74|SE
+20034406-12|72 74|SE
+20034406-13|35 37|SE
+20034406-13|80 93|hypertrophied
+20034406-15|88 90|SE
+20034406-16|107 109|SE
+20034406-17|0 8|Seizures
+20034406-18|114 122|seizures
+20046642-03|91 124|hippocampal cognitive dysfunction
+20046642-09|42 47|tumor
+20046642-09|48 56|necrosis
+20046642-12|59 67|toxicity
+20129423-00|52 68|hypersensitivity
+20129423-00|70 81|myocarditis
+20129423-00|167 188|drug hypersensitivity
+20129423-02|106 122|hypersensitivity
+20129423-02|124 135|myocarditis
+20129423-03|20 48|hypersensitivity myocarditis
+20129423-04|6 34|hypersensitivity myocarditis
+20129423-06|29 46|cardiogenic shock
+20129423-07|80 91|myocarditis
+20169779-00|57 76|Parkinson's disease
+20169779-01|108 127|Parkinson's disease
+20169779-01|129 131|PD
+20169779-03|67 92|neuropsychiatric symptoms
+20169779-03|96 98|PD
+20169779-05|134 146|parkinsonism
+20169779-07|27 50|parkinsonian disability
+20169779-07|52 62|dyskinesia
+20169779-07|221 224|DVD
+20169779-09|97 107|dyskinesia
+20169779-11|35 61|neuropsychiatric disorders
+20169779-11|65 67|PD
+20192893-00|16 30|nephrotoxicity
+20192893-01|12 29|Renal dysfunction
+20192893-01|68 70|CM
+20192893-02|42 53|nephrotoxic
+20192893-02|64 66|CM
+20192893-05|122 124|NS
+20192893-08|98 110|renal damage
+20192893-08|122 124|CM
+20192893-09|77 88|CM toxicity
+20408947-00|85 104|acute liver failure
+20408947-01|34 48|hepatotoxicity
+20408947-01|77 96|acute liver failure
+20408947-01|98 101|ALF
+20408947-02|77 97|substance dependence
+20408947-03|245 248|ALF
+20408947-03|344 347|ALF
+20408947-03|375 396|chronic liver disease
+20408947-03|398 401|CLD
+20408947-04|31 34|ALF
+20408947-05|35 38|ALF
+20408947-05|61 82|psychiatric diagnosis
+20408947-05|120 123|ALF
+20408947-05|130 133|CLD
+20408947-06|107 120|graft failure
+20408947-06|175 178|ALF
+20408947-06|230 233|ALF
+20408947-06|244 247|CLD
+20408947-07|26 29|ALF
+20408947-08|42 65|psychiatric disturbance
+20408947-08|139 142|ALF
+20408947-08|211 214|ALF
+20408947-08|234 237|CLD
+20447294-00|115 131|neuropathic pain
+20447294-01|206 222|neuropathic pain
+20447294-02|229 233|pain
+20447294-02|266 278|inflammation
+20447294-02|312 331|diabetic neuropathy
+20447294-04|46 58|hyperalgesia
+20447294-04|176 186|neuropathy
+20447294-06|183 193|neuropathy
+20447294-07|146 158|hyperalgesia
+20495512-00|16 32|thrombocytopenia
+20495512-01|16 32|thrombocytopenia
+20495512-01|34 37|HIT
+20495512-03|0 10|Thrombosis
+20495512-03|15 31|thrombocytopenia
+20495512-03|78 81|HIT
+20495512-03|135 157|vascular complications
+20495512-04|18 21|HIT
+20495512-05|0 3|HIT
+20495512-05|58 68|thrombosis
+20495512-05|92 102|thrombosis
+20495512-07|17 20|HIT
+20495512-08|155 158|HIT
+20495512-10|113 116|HIT
+20495512-11|88 91|HIT
+20513036-00|9 18|paralysis
+20513036-00|54 73|spasmodic dysphonia
+20513036-01|136 155|spasmodic dysphonia
+20513036-02|65 69|pain
+20513036-03|52 61|paralysis
+20513036-05|53 72|spasmodic dysphonia
+20513036-08|37 46|paralysis
+20513036-08|58 67|paralytic
+20513036-08|119 128|paralysis
+20513036-10|66 75|paralysis
+20513036-12|56 65|paralysis
+20513036-12|96 105|paralysis
+20513036-14|26 35|paralysis
+20513036-15|32 41|paralysis
+20513036-16|24 33|paralysis
+20513036-17|4 13|paralysis
+20566328-00|0 24|Mitochondrial impairment
+20566328-00|56 75|cardiac dysfunction
+20566328-01|123 142|cardiac dysfunction
+20566328-02|101 129|left ventricular dysfunction
+20566328-07|122 141|cardiac dysfunction
+20566328-07|166 187|diastolic dysfunction
+20566328-08|91 110|cardiac dysfunction
+20589632-00|28 44|hemolytic anemia
+20589632-00|100 130|hemolytic transfusion reaction
+20589632-01|24 38|acute leukemia
+20589632-01|72 78|anemia
+20589632-02|42 56|hemoglobinuria
+20589632-04|20 36|hemolytic anemia
+20589632-07|16 22|anemia
+20589632-07|81 87|anemia
+20589632-08|13 22|hemolysis
+20682692-00|123 143|diabetic nephropathy
+20682692-01|126 134|diabetes
+20682692-01|190 201|nephropathy
+20682692-01|280 300|diabetic nephropathy
+20682692-01|302 322|diabetic nephropathy
+20682692-02|121 182|renal interstitial fibrosis independently of microalbuminuria
+20682692-02|225 233|diabetes
+20682692-03|92 112|diabetic nephropathy
+20682692-06|130 150|diabetic nephropathy
+20682692-08|131 151|diabetic nephropathy
+20682692-09|87 109|reduced renal fibrosis
+20682692-09|139 150|nephropathy
+20682692-10|71 91|diabetic nephropathy
+20682692-11|83 103|diabetic nephropathy
+20682692-11|114 136|diabetes complications
+20828385-00|69 89|mantle cell lymphoma
+20828385-01|0 20|Mantle cell lymphoma
+20828385-01|22 25|MCL
+20828385-01|71 89|Hodgkin's lymphoma
+20828385-03|71 74|MCL
+20828385-03|177 180|MCL
+20828385-03|189 194|tumor
+20828385-05|66 71|tumor
+20828385-05|175 180|tumor
+20828385-06|94 99|tumor
+20828385-07|77 85|necrotic
+20828385-08|27 32|tumor
+20828385-08|134 139|tumor
+20828385-08|214 217|MCL
+20859899-00|0 7|Syncope
+20859899-00|18 30|hyperkalemia
+20859899-01|38 53|coronary artery
+20859899-01|80 101|myocardial infarction
+20859899-01|145 166|loss of consciousness
+20859899-01|181 192|bradycardia
+20859899-01|203 215|hyperkalemia
+20859899-03|13 25|hyperkalemia
+20859899-05|49 61|hyperkalemia
+20859899-05|171 188|renal disturbance
+20927253-00|8 21|skeletal pain
+20927253-01|12 24|Osteoporosis
+20927253-02|84 96|osteoporosis
+20927253-04|0 20|Musculoskeletal pain
+20927253-05|71 84|skeletal pain
+20927253-06|43 55|osteoporosis
+20927253-06|67 71|pain
+20927253-06|100 104|pain
+20927253-06|166 178|osteoporosis
+20959502-00|69 101|Staphylococcus aureus meningitis
+20959502-01|82 92|bacteremia
+20959502-01|113 123|meningitis
+20959502-02|88 96|weakness
+20959502-02|133 142|pneumonia
+20959502-06|32 51|acute renal failure
+20959502-07|22 26|Coma
+20959502-07|140 154|cardiac arrest
+20959502-08|39 49|bacteremia
+20959502-08|120 129|infection
+20959502-09|84 94|meningitis
+20959502-13|98 120|interstitial nephritis
+20959502-13|135 145|bacteremia
+20959502-15|72 82|bacteremia
+20959502-16|55 65|meningitis
+21195121-00|28 39|convulsions
+21195121-02|10 21|convulsions
+21195121-03|207 215|epilepsy
+21195121-04|125 133|epilepsy
+21195121-05|114 124|convulsion
+21195121-05|184 194|convulsion
+21195121-06|83 93|convulsion
+21195121-06|147 157|convulsion
+21195121-06|185 195|convulsive
+21195121-08|107 115|seizures
+24055495-00|44 62|cognitive deficits
+24055495-01|50 58|dementia
+24055495-01|71 90|Alzheimer's disease
+24055495-04|97 115|cognitive deficits
+24055495-05|152 170|cognitive deficits
+24055495-09|137 155|cognitive deficits
+24055495-09|172 194|glucose hypometabolism
+24055495-09|198 200|AD

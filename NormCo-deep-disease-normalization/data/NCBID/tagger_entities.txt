@@ -1,0 +1,927 @@
+9949209-00|23 39|copper toxicosis
+9949209-01|0 36|Abnormal hepatic copper accumulation
+9949209-01|57 75|inherited disorder
+9949209-02|19 46|hepatic copper accumulation
+9949209-02|93 107|Wilson disease
+9949209-02|109 111|WD
+9949209-04|57 111|copper overload disease non-Indian childhood cirrhosis
+9949209-05|28 64|autosomal recessive copper toxicosis
+9949209-05|66 68|CT
+9949209-05|149 162|liver disease
+9949209-06|24 26|WD
+9949209-06|61 63|CT
+9949209-07|63 65|CT
+9949209-08|144 146|WD
+9949209-08|171 173|CT
+9949209-09|83 85|CT
+9950360-00|26 29|APC
+9950360-00|96 99|FAP
+9950360-00|129 132|APC
+9950360-00|155 172|colorectal cancer
+9950360-01|36 53|colorectal cancer
+9950360-01|109 139|familial adenomatous polyposis
+9950360-01|141 144|FAP
+9950360-01|191 217|adenomatous polyposis coli
+9950360-01|219 222|APC
+9950360-02|47 50|APC
+9950360-02|188 191|APC
+9950360-02|209 212|FAP
+9950360-02|213 230|colorectal cancer
+9950360-03|13 16|APC
+9950360-03|52 55|FAP
+9950360-03|60 88|15 non-FAP colorectal cancer
+9950360-04|85 88|FAP
+9950360-05|87 90|FAP
+9950360-05|100 117|colorectal cancer
+9950360-06|123 126|FAP
+9950360-08|87 90|APC
+9950360-08|112 115|FAP
+9950360-08|120 145|non-FAP colorectal cancer
+9634518-00|32 68|phenylalanine hydroxylase deficiency
+9634518-01|0 15|Phenylketonuria
+9634518-01|17 20|PKU
+9634518-01|26 52|mild hyperphenylalaninemia
+9634518-01|54 57|MHP
+9634518-01|63 80|allelic disorders
+9634518-02|81 95|PAH deficiency
+9634518-08|118 132|PAH deficiency
+9634518-09|182 203|hyperphenylalaninemia
+9563950-00|61 79|myotonic dystrophy
+9563950-01|0 18|Myotonic dystrophy
+9563950-01|20 22|DM
+9563950-01|89 91|DM
+9563950-02|13 15|DM
+9563950-05|34 36|DM
+9563950-06|98 100|DM
+9674903-00|0 15|Maternal disomy
+9674903-00|20 41|Prader-Willi syndrome
+9674903-01|0 27|Maternal uniparental disomy
+9674903-01|29 32|UPD
+9674903-01|100 121|Prader-Willi syndrome
+9674903-01|123 126|PWS
+9674903-02|32 50|maternal disomy 15
+9674903-02|54 57|PWS
+9674903-03|51 54|PWS
+9674903-05|65 68|PWS
+9674903-05|162 165|PWS
+9674903-09|0 15|Maternal disomy
+9674903-10|141 169|haploinsufficiency of distal
+9674903-11|0 18|Uniparental disomy
+9674903-11|180 183|PWS
+9674903-12|100 103|UPD
+9674903-12|111 114|PWS
+9863607-00|26 44|myotonic dystrophy
+9863607-01|0 18|Myotonic dystrophy
+9863607-01|20 22|DM
+9863607-01|30 56|autosomal dominant disease
+9863607-02|16 27|infertility
+9863607-02|32 61|congenital myotonic dystrophy
+9863607-02|94 96|DM
+9863607-03|108 110|DM
+9863607-03|179 181|DM
+9863607-04|15 17|DM
+9863607-05|116 118|DM
+9863607-07|28 30|DM
+9863607-07|93 95|DM
+9863607-08|46 48|DM
+9443866-00|0 21|Ataxia-telangiectasia
+9443866-01|96 109|breast cancer
+9443866-01|190 211|ataxia-telangiectasia
+9443866-01|213 216|A-T
+9443866-08|45 48|A-T
+9311732-00|51 85|isolated unilateral retinoblastoma
+9311732-01|22 56|isolated unilateral retinoblastoma
+9311732-01|58 63|tumor
+9311732-02|45 59|retinoblastoma
+9311732-03|92 126|isolated unilateral retinoblastoma
+9311732-03|175 180|tumor
+9311732-04|16 22|tumors
+9311732-06|25 31|tumors
+9311732-07|42 48|tumors
+9311732-08|17 23|tumors
+9311732-08|86 92|tumors
+9311732-09|49 55|tumors
+9311732-10|117 123|tumors
+9311732-14|133 139|tumors
+9311732-14|170 194|bilateral retinoblastoma
+9311732-15|84 98|retinoblastoma
+9931324-00|103 131|congenital eye malformations
+9931324-01|42 50|aniridia
+9931324-01|52 82|congenital absence of the iris
+9931324-02|34 42|aniridia
+9931324-03|207 215|aniridia
+9931324-04|215 223|aniridia
+9931324-05|97 113|ectopia pupillae
+9931324-05|137 157|congenital nystagmus
+9931324-05|222 230|aniridia
+9668171-00|65 83|myotonic dystrophy
+9668171-01|61 63|DM
+9668171-01|118 136|myotonic dystrophy
+9668171-01|138 140|DM
+9668171-04|60 62|DM
+9668171-04|79 95|genetic diseases
+9668171-05|182 184|DM
+9668171-07|38 40|DM
+9463314-00|32 53|ataxia-telangiectasia
+9463314-00|126 134|leukemia
+9463314-00|136 144|lymphoma
+9463314-00|150 163|breast cancer
+9463314-01|55 76|ataxia-telangiectasia
+9463314-01|78 81|A-T
+9463314-02|176 199|cerebellar degeneration
+9463314-03|18 21|A-T
+9463314-03|111 124|breast cancer
+9463314-03|229 232|A-T
+9463314-03|269 292|cerebellar degeneration
+9463314-05|32 35|A-T
+9463314-05|76 84|leukemia
+9463314-05|86 94|lymphoma
+9463314-05|133 149|Hodgkin lymphoma
+9463314-07|29 32|A-T
+9391879-00|55 76|breast/ovarian cancer
+9391879-01|40 61|breast/ovarian cancer
+9391879-02|47 60|breast cancer
+9391879-02|81 102|breast-ovarian cancer
+9391879-05|68 89|breast/ovarian cancer
+9700175-00|36 61|hereditary ovarian cancer
+9700175-01|0 25|Hereditary Ovarian Cancer
+9700175-02|100 114|ovarian cancer
+9700175-03|36 50|ovarian cancer
+9700175-03|128 151|forms of ovarian cancer
+9700175-04|36 61|hereditary ovarian cancer
+9700175-08|37 51|ovarian cancer
+9700175-10|41 55|ovarian cancer
+9700175-11|59 73|ovarian cancer
+9792861-00|53 78|breast and ovarian cancer
+9792861-01|49 62|breast cancer
+9792861-01|121 134|breast cancer
+9792861-01|139 160|breast/ovarian cancer
+9792861-02|83 89|cancer
+9792861-07|100 114|ovarian cancer
+9792861-08|112 125|breast cancer
+9792861-09|33 46|breast cancer
+9792861-11|108 121|breast cancer
+9792861-11|126 147|breast/ovarian cancer
+9705283-03|86 94|aniridia
+9705283-03|96 110|Peters anomaly
+9705283-03|112 140|autosomal dominant keratitis
+9705283-03|146 171|familial foveal dysplasia
+9705283-04|80 88|aniridia
+9705283-04|106 132|genetic haploinsufficiency
+9705283-05|111 119|Aniridia
+9705283-06|95 113|haploinsufficiency
+9705283-10|76 84|aniridia
+9546397-00|25 40|hemochromatosis
+9546397-01|75 101|hereditary hemochromatosis
+9546397-03|61 76|hemochromatosis
+9774970-00|63 68|tumor
+9774970-01|64 92|breast and/or ovarian cancer
+9774970-05|84 123|hereditary breast and/or ovarian cancer
+9790667-01|145 175|cerebrotendinous xanthomatosis
+9790667-01|177 180|CTX
+9702690-00|23 43|adrenoleukodystrophy
+9702690-01|33 53|adrenoleukodystrophy
+9702690-01|55 58|ALD
+9702690-01|112 115|ALD
+9702690-03|201 204|ALD
+9702690-05|97 115|Alzheimers disease
+9702690-05|117 119|AD
+9702690-07|57 86|demyelination of the cerebral
+9702690-07|172 175|ALD
+9702690-09|84 87|ALD
+9702690-10|100 116|insidious lesion
+9702690-10|239 260|neuronal degeneration
+9702690-10|264 267|ALD
+9618166-00|35 51|Pendred syndrome
+9618166-01|0 16|Pendred syndrome
+9618166-01|23 51|autosomal recessive disorder
+9618166-01|85 93|deafness
+9618166-01|98 104|goiter
+9618166-02|84 87|PDS
+9618166-09|92 108|Pendred syndrome
+9427148-00|0 22|Aspartylglucosaminuria
+9427148-01|0 22|Aspartylglucosaminuria
+9427148-01|24 27|AGU
+9427148-01|39 74|disorder of glycoprotein metabolism
+9427148-01|89 147|deficiency of the lysosomal enzyme aspartylglucosaminidase
+9427148-02|0 3|AGU
+9427148-03|29 32|AGU
+9427148-04|26 29|AGU
+9467011-00|53 67|Cowden disease
+9467011-00|72 96|Bannayan-Zonana syndrome
+9467011-00|102 121|hamartoma syndromes
+9467011-01|4 10|tumour
+9467011-02|78 104|prostate and kidney cancer
+9467011-02|139 146|tumours
+9467011-02|155 177|endometrial carcinomas
+9467011-02|179 197|malignant melanoma
+9467011-02|202 217|thyroid tumours
+9467011-03|68 103|hamartoma syndromes  Cowden disease
+9467011-03|105 107|CD
+9467011-03|125 140|Bannayan-Zonana
+9467011-03|142 145|BZS
+9467011-03|150 180|Ruvalcaba-Riley-Smith syndrome
+9467011-04|25 27|CD
+9467011-04|47 50|BZS
+9467011-05|49 51|CD
+9467011-07|32 34|CD
+9467011-07|117 119|CD
+9467011-09|63 66|BZS
+9467011-11|124 126|CD
+9467011-11|144 147|BZS
+9467011-12|69 72|BZS
+9467011-13|52 54|CD
+9467011-14|51 53|CD
+9467011-14|68 82|breast disease
+9467011-15|91 109|breast involvement
+9467011-16|109 133|malignant breast disease
+9467011-17|282 304|gastrointestinal tract
+9467011-18|86 88|CD
+9831355-00|7 10|APC
+9831355-00|59 101|hereditary non-polyposis colorectal cancer
+9831355-01|30 72|hereditary non-polyposis colorectal cancer
+9831355-01|74 79|HNPCC
+9831355-02|26 29|APC
+9831355-02|81 98|colorectal cancer
+9831355-04|117 134|absence of cancer
+9590178-00|0 12|Wilms' tumor
+9590178-01|46 57|Wilms tumor
+9590178-01|61 64|WT1
+9590178-04|53 79|male pseudohermaphroditism
+9590178-04|83 103|Denys-Drash syndrome
+9358014-01|31 57|hereditary hemochromatosis
+9358014-01|59 61|HH
+9358014-07|69 71|HH
+9358014-08|75 77|HH
+9358014-08|178 184|cancer
+9382108-00|41 59|Huntington disease
+9382108-01|33 51|Huntington disease
+9382108-01|53 55|HD
+9382108-01|171 173|HD
+9382108-03|26 28|HD
+9554743-00|111 125|Wilson disease
+9554743-01|150 164|Wilson disease
+9554743-04|163 177|Wilson disease
+9792860-00|89 124|autosomal recessive Alport syndrome
+9792860-01|0 35|Autosomal recessive Alport syndrome
+9792860-01|53 81|hematuric glomerulonephritis
+9792860-01|99 141|glomerular basement membrane abnormalities
+9792860-03|194 229|autosomal recessive Alport syndrome
+9771706-00|68 85|diabetes mellitus
+9771706-00|90 103|optic atrophy
+9771706-00|105 121|Wolfram syndrome
+9771706-01|0 16|Wolfram syndrome
+9771706-01|18 21|WFS
+9771706-01|42 88|autosomal recessive neurodegenerative disorder
+9771706-01|123 158|insulin-dependent diabetes mellitus
+9771706-01|175 188|optic atrophy
+9771706-03|76 79|WFS
+9771706-04|121 124|WFS
+9472666-00|35 69|complement component C6 deficiency
+9472666-01|0 34|Complement component C6 deficiency
+9472666-01|99 123|meningococcal meningitis
+9472666-02|74 84|meningitis
+9472666-02|94 114|neisserial infection
+9733027-00|24 41|Friedreich ataxia
+9733027-01|0 17|Friedreich ataxia
+9733027-01|101 105|FRDA
+9506545-00|0 26|Eye movement abnormalities
+9506545-00|54 97|autosomal dominant cerebellar ataxia type I
+9506545-01|160 228|autosomal dominant cerebellar ataxias type I spinocerebellar ataxias
+9506545-01|270 297|SCA3/Machado-Joseph disease
+9506545-01|299 302|MJD
+9506545-02|69 80|hypermetria
+9506545-07|56 74|saccade hypometria
+9288106-00|40 61|ataxia-telangiectasia
+9288106-00|72 97|sporadic T-cell leukaemia
+9288106-01|0 21|Ataxia-telangiectasia
+9288106-01|23 26|A-T
+9288106-01|43 64|multi-system disorder
+9288106-02|12 18|cancer
+9288106-02|31 50|lymphoid neoplasias
+9288106-02|81 84|A-T
+9288106-03|13 19|tumour
+9288106-03|43 83|sporadic T-cell prolymphocytic leukaemia
+9288106-03|148 164|T-cell leukaemia
+9288106-03|173 176|A-T
+9288106-04|50 53|A-T
+9288106-07|65 68|A-T
+9288106-08|78 84|tumour
+9288106-09|56 62|tumour
+9288106-09|86 115|B-cell non-Hodgkins lymphomas
+9288106-09|117 122|B-NHL
+9288106-10|147 154|tumours
+9288106-10|224 238|sporadic T-PLL
+9288106-10|271 277|tumour
+9580132-00|140 184|familial neurohypophyseal diabetes insipidus
+9580132-01|0 44|Familial neurohypophyseal diabetes insipidus
+9580132-01|46 50|FNDI
+9580132-01|58 84|autosomal dominant disease
+9580132-02|45 49|FNDI
+9580132-06|71 75|FNDI
+9714764-01|97 132|insulin-dependent diabetes mellitus
+9714764-01|134 138|IDDM
+9792409-00|36 57|ataxia-telangiectasia
+9792409-01|59 87|autosomal recessive disorder
+9792409-01|88 109|ataxia-telangiectasia
+9792409-01|111 114|A-T
+9792409-02|75 78|A-T
+9792409-08|74 77|A-T
+9792409-08|132 135|A-T
+9792409-12|34 37|A-T
+9867744-00|13 28|hemochromatosis
+9867744-01|14 29|hemochromatosis
+9867744-04|55 75|absence of cirrhosis
+9867744-05|95 110|hemochromatosis
+9867744-06|69 84|hemochromatosis
+9867744-07|26 41|hemochromatosis
+9867744-07|49 66|hepatic cirrhosis
+9867744-07|121 136|chronic disease
+9482572-01|44 52|aniridia
+9482572-01|95 109|Peters anomaly
+9482572-01|116 136|congenital cataracts
+9482572-01|143 171|autosomal dominant keratitis
+9482572-01|182 208|isolated foveal hypoplasia
+9482572-02|60 68|aniridia
+9674906-00|0 31|Schwartz-Jampel syndrome type 2
+9674906-00|36 60|Stuve-Wiedemann syndrome
+9674906-01|96 120|Schwartz-Jampel syndrome
+9674906-01|122 125|SJS
+9674906-01|130 138|myotonia
+9674906-01|143 161|skeletal dysplasia
+9674906-01|179 182|SJS
+9674906-01|179 189|SJS type 2
+9674906-02|60 84|Stuve-Wiedemann syndrome
+9674906-02|86 89|SWS
+9674906-02|133 151|skeletal dysplasia
+9674906-02|153 165|contractures
+9674906-03|162 165|SJS
+9674906-03|206 209|SWS
+9674906-04|35 47|neonatal SJS
+9674906-04|51 54|SWS
+9674906-04|107 129|neuromuscular disorder
+9674906-04|136 165|congenital joint contractures
+9674906-04|217 229|hyperthermia
+9674906-04|278 319|campomelic-metaphyseal skeletal dysplasia
+9674906-06|76 90|bone dysplasia
+9674906-06|121 124|SJS
+9674906-06|142 145|SWS
+9674906-07|20 23|SWS
+9674906-07|28 31|SJS
+9674906-07|28 38|SJS type 2
+9536083-01|69 103|familial breast and ovarian cancer
+9536083-07|140 161|breast/ovarian cancer
+9400934-00|46 73|intracranial retinoblastoma
+9400934-01|63 90|intracranial retinoblastoma
+9400934-01|124 150|pineal and retinal tumours
+9400934-02|124 138|pineal tumours
+9400934-05|146 160|retinoblastoma
+9729124-00|31 59|congenital chloride diarrhea
+9729124-00|61 64|CLD
+9729124-01|0 28|Congenital chloride diarrhea
+9729124-01|30 33|CLD
+9729124-02|62 65|CLD
+9729124-05|138 141|CLD
+9729124-07|111 114|CLD
+9729124-07|182 198|Pendred syndrome
+9585605-00|30 47|Angelman syndrome
+9585605-01|0 17|Angelman syndrome
+9585605-01|19 21|AS
+9585605-01|99 117|uniparental disomy
+9585605-01|119 122|UPD
+9585605-03|79 81|AS
+9585605-07|112 114|AS
+9585605-07|156 158|AS
+9585605-07|198 200|AS
+9360520-00|0 54|Autosomal dominant neurohypophyseal diabetes insipidus
+9360520-01|0 54|Autosomal dominant neurohypophyseal diabetes insipidus
+9360520-01|56 61|ADNDI
+9360520-01|69 86|inherited disease
+9360520-02|71 89|diabetes insipidus
+9360520-03|97 102|ADNDI
+9360520-06|88 118|attenuated posterior pituitary
+9360520-07|66 93|inherited neurodegeneration
+9709714-00|19 46|hypertrophic cardiomyopathy
+9709714-00|89 145|very-long-chain acyl-coenzyme A dehydrogenase deficiency
+9709714-01|32 64|dehydrogenase (VLCAD) deficiency
+9709714-02|50 66|VLCAD deficiency
+9709714-02|117 144|hypertrophic cardiomyopathy
+9709714-02|146 174|hepatomegaly, encephalopathy
+9709714-02|180 189|hypotonia
+9709714-03|30 46|VLCAD deficiency
+9709714-06|4 27|ventricular hypertrophy
+9709714-07|24 40|VLCAD deficiency
+9709714-07|112 126|cardiomyopathy
+9600235-00|47 68|ataxia-telangiectasia
+9600235-01|9 12|A-T
+9600235-01|124 141|recessive disease
+9600235-01|142 163|ataxia-telangiectasia
+9600235-01|165 168|A-T
+9600235-02|74 77|A-T
+9600235-02|228 231|A-T
+9770531-00|56 76|renal cell carcinoma
+9770531-00|101 118|von Hippel-Lindau
+9770531-01|30 47|von Hippel-Lindau
+9770531-01|49 52|VHL
+9770531-01|88 108|renal cell carcinoma
+9770531-01|154 157|VHL
+9770531-04|23 26|VHL
+9770531-04|98 118|renal cell carcinoma
+9770531-06|29 32|VHL
+9770531-07|126 133|cancers
+9770531-08|171 177|cancer
+9385378-00|96 121|mucopolysaccharidosis IVA
+9385378-01|0 25|Mucopolysaccharidosis IVA
+9385378-01|27 34|MPS IVA
+9385378-01|42 88|autosomal recessive lysosomal storage disorder
+9385378-01|101 115|genetic defect
+9385378-03|107 114|MPS IVA
+9385378-04|116 123|MPS IVA
+9603435-00|124 153|subacute G(M2) gangliosidosis
+9603435-01|130 147|Tay-Sachs disease
+9603435-01|149 152|TSD
+9603435-01|190 204|gangliosidosis
+9603435-03|170 184|gangliosidosis
+9603435-06|350 353|TSD
+9603435-08|59 82|Hex A enzyme deficiency
+9603435-09|198 214|Hex A deficiency
+9294109-00|0 18|Myotonic dystrophy
+9294109-01|0 18|Myotonic dystrophy
+9294109-01|20 22|DM
+9294109-01|44 61|muscular disorder
+9294109-01|148 150|DM
+9618170-00|57 60|DMD
+9618170-00|77 108|X-linked dilated cardiomyopathy
+9618170-01|0 31|X-linked dilated cardiomyopathy
+9618170-01|33 38|XLDCM
+9618170-01|67 83|dystrophinopathy
+9618170-01|182 199|skeletal myopathy
+9618170-02|34 61|Duchenne muscular dystrophy
+9618170-02|68 71|DMD
+9618170-02|111 116|XLDCM
+9618170-02|184 187|DMD
+9618170-02|197 202|XLDCM
+9618170-03|91 94|DMD
+9618170-03|104 109|XLDCM
+9618170-05|54 57|DMD
+9618170-05|126 131|XLDCM
+9585583-00|25 49|Saethre-Chotzen syndrome
+9585583-01|47 71|Saethre-Chotzen syndrome
+9585583-01|101 149|condition of craniosynostosis and limb anomalies
+9585583-04|70 94|Saethre-Chotzen syndrome
+9585583-06|108 126|coronal synostosis
+9585583-06|128 141|brachycephaly
+9585583-06|191 204|hypertelorism
+9585583-08|304 325|craniofacial and limb
+9371490-00|47 62|prostate cancer
+9371490-01|0 27|Sporadic prostate carcinoma
+9371490-01|52 58|cancer
+9371490-01|166 172|cancer
+9371490-02|116 140|sporadic prostate cancer
+9371490-04|6 11|tumor
+9371490-04|147 162|prostate cancer
+9371490-05|15 30|prostate tumors
+9371490-07|62 68|tumors
+9371490-07|137 161|sporadic prostate cancer
+9521421-00|27 52|mucopolysaccharidosis IVA
+9521421-01|0 25|Mucopolysaccharidosis IVA
+9521421-01|27 34|MPS IVA
+9521421-01|42 88|autosomal recessive lysosomal storage disorder
+9521421-01|101 115|genetic defect
+9521421-02|133 140|MPS IVA
+9521421-03|58 65|MPS IVA
+9521421-12|75 82|MPS IVA
+9852676-00|57 75|myotonic dystrophy
+9852676-01|4 22|myotonic dystrophy
+9852676-01|24 26|DM
+9852676-01|166 168|DM
+9852676-02|48 50|DM
+9852676-03|52 54|DM
+9852676-04|40 42|DM
+9852676-05|163 165|DM
+9852676-07|97 99|DM
+9852676-07|104 122|Friedreichs ataxia
+9425228-00|52 60|melanoma
+9425228-01|11 28|Familial Melanoma
+9425228-02|79 87|melanoma
+9425228-03|53 61|melanoma
+9425228-06|69 86|familial melanoma
+9425228-06|130 138|melanoma
+9888388-00|66 91|hereditary coproporphyria
+9888388-01|0 25|Hereditary coproporphyria
+9888388-01|27 29|HC
+9888388-01|43 60|hepatic porphyria
+9888388-02|77 101|neurological dysfunction
+9888388-02|170 189|infectious diseases
+9888388-04|259 261|HC
+9888388-10|103 105|HC
+9888388-10|184 200|CPO gene defects
+9463309-04|45 64|hypohaptoglobinemia
+9463309-09|26 61|hypohaptoglobinemia remains unknown
+9585611-00|35 72|attenuated adenomatous polyposis coli
+9585611-01|27 32|tumor
+9585611-01|66 103|attenuated adenomatous polyposis coli
+9585611-01|105 109|AAPC
+9585611-01|125 155|familial adenomatous polyposis
+9585611-01|157 160|FAP
+9585611-02|0 4|AAPC
+9585611-02|46 62|colonic adenomas
+9585611-02|84 101|colorectal cancer
+9585611-03|71 75|AAPC
+9585611-04|72 75|APC
+9585611-04|126 130|AAPC
+9585611-05|21 24|APC
+9585611-06|57 60|APC
+9585611-07|29 48|colorectal adenomas
+9585611-07|114 136|upper-gastrointestinal
+9585611-08|84 92|adenomas
+9585611-09|7 11|AAPC
+9585611-09|52 71|colorectal adenomas
+9585611-09|76 88|rectal polyp
+9585611-10|3 17|desmoid tumors
+9585611-11|26 30|AAPC
+9585611-11|61 64|APC
+9585611-12|91 94|FAP
+9724771-00|55 72|colorectal tumors
+9724771-01|10 40|familial adenomatous polyposis
+9724771-01|42 45|FAP
+9724771-01|68 94|autosomal dominant disease
+9724771-01|140 173|colorectal adenomas and carcinoma
+9724771-01|224 227|APC
+9724771-02|13 16|FAP
+9724771-02|20 57|attenuated adenomatous polyposis coli
+9724771-02|128 131|APC
+9724771-03|0 37|Attenuated adenomatous polyposis coli
+9724771-03|65 84|colorectal adenomas
+9724771-03|154 157|FAP
+9724771-04|40 48|adenomas
+9724771-04|73 76|APC
+9724771-05|41 44|APC
+9724771-05|102 119|colorectal tumors
+9724771-05|140 148|adenomas
+9724771-06|52 88|colorectal adenomas and/or carcinoma
+9724771-06|137 140|APC
+9724771-08|57 60|APC
+9724771-08|165 189|polyps of the colorectum
+9724771-09|72 75|APC
+9724771-09|119 161|multiple colorectal adenomas and carcinoma
+9724771-09|209 212|FAP
+9724771-09|247 264|colorectal cancer
+9585606-00|4 19|hemochromatosis
+9585606-01|0 15|Hemochromatosis
+9585606-01|21 39|inherited disorder
+9585606-02|4 19|hemochromatosis
+9585606-03|9 24|hemochromatosis
+9703501-01|4 29|breast and ovarian cancer
+9689113-00|24 46|von Willebrand disease
+9689113-00|59 124|hemostasis and thrombosis. von Willebrand factor (vWf) deficiency
+9689113-00|139 161|von Willebrand disease
+9689113-01|69 82|vWf-deficient
+9689113-02|36 50|von Willebrand
+9689113-05|0 20|Defective thrombosis
+9689113-05|76 91|vascular injury
+9689113-07|60 82|von Willebrand disease
+9448273-00|4 27|von Hippel-Lindau tumor
+9448273-01|24 53|von Hippel-Lindau (VHL) tumor
+9448273-01|116 119|VHL
+9448273-01|120 135|cancer syndrome
+9448273-01|159 189|sporadic renal cell carcinomas
+9448273-01|191 194|RCC
+9448273-01|200 223|brain hemangioblastomas
+9448273-02|0 3|VHL
+9448273-02|19 22|RCC
+9448273-02|103 106|VHL
+9448273-04|31 37|cancer
+9448273-05|55 58|VHL
+9448273-05|88 111|VHL-negative RCC cancer
+9448273-06|5 38|VHL-positive and VHL-negative RCC
+9448273-07|103 106|VHL
+9448273-08|38 41|VHL
+9448273-08|139 144|tumor
+9448273-09|53 56|VHL
+9448273-09|70 73|VHL
+9448273-09|87 92|tumor
+9703418-00|87 111|complement C9 deficiency
+9703418-01|0 53|Deficiency of the ninth component of human complement
+9703418-01|78 99|complement deficiency
+9703418-02|34 47|C9 deficiency
+9703418-02|65 77|C9-deficient
+9703418-02|109 133|meningococcal meningitis
+9703418-03|128 140|C9-deficient
+9703418-05|81 94|C9 deficiency
+9848786-00|6 36|complement factor H deficiency
+9848786-00|53 78|hemolytic uremic syndrome
+9848786-01|124 143|acute renal disease
+9848786-02|60 96|idiopathic hemolytic uremic syndrome
+9848786-02|98 101|HUS
+9848786-04|58 79|homozygous deficiency
+9848786-04|156 181|defect for the deficiency
+9848786-05|39 62|heterozygous deficiency
+9848786-06|0 53|Factor H deficiency is the only complement deficiency
+9848786-06|70 73|HUS
+9848786-07|84 98|idiopathic HUS
+9342365-01|70 95|breast and ovarian cancer
+9342365-01|148 153|tumor
+9342365-09|105 110|tumor
+9521325-00|42 77|idiopathic ventricular fibrillation
+9521325-01|51 64|sudden deaths
+9521325-02|156 191|idiopathic ventricular fibrillation
+9521325-02|193 196|IVF
+9521325-03|20 23|IVF
+9521325-04|70 82|sudden death
+9521325-04|122 125|IVF
+9521325-05|8 11|IVF
+9521325-05|19 45|cardiac rhythm disturbance
+9521325-06|134 137|IVF
+9521325-08|102 105|IVF
+9869602-00|25 28|APC
+9869602-00|98 115|colorectal cancer
+9869602-01|87 104|colorectal cancer
+9869602-02|11 14|APC
+9869602-02|78 104|familial colorectal cancer
+9869602-03|90 107|colorectal cancer
+9869602-04|133 142|neoplasia
+9869602-05|40 57|colorectal cancer
+9869602-06|52 67|familial cancer
+9869602-06|138 144|cancer
+9869602-07|0 20|Colorectal neoplasia
+9869602-07|150 170|noncolonic neoplasia
+9869602-08|24 27|APC
+9869602-08|98 105|cancers
+9869602-08|172 189|colorectal cancer
+9336417-00|18 40|ankylosing spondylitis
+9336417-01|103 125|ankylosing spondylitis
+9336417-01|127 129|AS
+9336417-02|20 22|AS
+9336417-02|76 94|Rheumatic Diseases
+9336417-05|137 139|AS
+9336417-10|30 32|AS
+9336417-11|73 75|AS
+9731533-00|25 31|cancer
+9731533-01|13 16|APC
+9731533-01|49 79|familial adenomatous polyposis
+9731533-01|81 84|FAP
+9731533-01|106 133|autosomal dominant disorder
+9731533-01|171 177|polyps
+9731533-01|233 250|colorectal cancer
+9731533-01|252 255|CRC
+9731533-02|9 15|tumour
+9731533-02|60 67|tumours
+9731533-03|53 56|APC
+9731533-04|140 143|CRC
+9731533-05|34 40|cancer
+9731533-06|31 55|breast and other cancers
+9465039-00|4 19|hemochromatosis
+9465039-01|68 94|hereditary hemochromatosis
+9465039-12|219 245|hereditary hemochromatosis
+9457913-00|154 191|atrophic benign epidermolysis bullosa
+9457913-01|26 69|atrophic benign epidermolysis bullosa often
+9457913-02|92 129|atrophic benign epidermolysis bullosa
+9463318-00|35 53|myotonic dystrophy
+9463318-01|191 209|myotonic dystrophy
+9425239-00|77 95|myotonic dystrophy
+9425239-01|21 39|myotonic dystrophy
+9425239-01|41 43|DM
+9425239-01|109 111|DM
+9425239-02|37 39|DM
+9425239-05|49 51|DM
+9425239-05|139 157|myotonic dystrophy
+9973276-00|10 30|colorectal polyposis
+9973276-00|35 41|cancer
+9973276-00|54 57|APC
+9973276-01|50 53|APC
+9973276-01|83 99|colorectal tumor
+9973276-01|113 152|familial adenomatous polyposis syndrome
+9973276-01|157 191|sporadic colorectal carcinogenesis
+9973276-02|78 81|APC
+9973276-03|161 179|adenomatous polyps
+9973276-03|188 205|colorectal cancer
+9973276-05|75 78|APC
+9973276-05|156 176|colorectal neoplasia
+9973276-06|40 43|APC
+9973276-06|85 93|adenomas
+9973276-06|98 116|colorectal cancers
+9973276-07|59 66|adenoma
+9973276-07|136 153|colorectal cancer
+9973276-08|232 249|colorectal cancer
+9927033-00|6 21|MLH1 deficiency
+9927033-00|37 61|hematological malignancy
+9927033-00|66 90|neurofibromatosis type 1
+9927033-01|74 115|hereditary nonpolyposis colorectal cancer
+9927033-03|40 81|hereditary nonpolyposis colorectal cancer
+9927033-03|103 127|hematological malignancy
+9927033-03|193 217|neurofibromatosis type 1
+9927033-03|219 222|NF1
+9927033-05|58 84|mismatch repair deficiency
+9927033-05|133 141|leukemia
+9927033-05|149 157|lymphoma
+9927033-05|174 191|neurofibromatosis
+9800909-00|80 107|Duchenne muscular dystrophy
+9800909-01|96 123|Duchenne muscular dystrophy
+9800909-01|125 128|DMD
+9800909-01|217 220|DMD
+9800909-02|141 144|DMD
+9800909-06|105 125|cerebral dysfunction
+9800909-07|107 110|DMD
+9800909-07|202 205|DMD
+9861003-00|52 74|mental health wellness
+9861003-00|105 131|bipolar affective disorder
+9861003-01|0 26|Bipolar affective disorder
+9861003-01|28 32|BPAD
+9861003-02|94 98|BPAD
+9861003-03|129 133|BPAD
+9861003-04|101 105|BPAD
+9861003-04|144 161|genetic disorders
+9861003-04|171 193|mental health wellness
+9861003-04|210 230|psychiatric disorder
+9861003-04|382 386|BPAD
+9861003-05|396 418|mental health wellness
+9861003-06|126 130|BPAD
+932197-00|0 58|Hereditary deficiency of the fifth component of complement
+932197-03|40 98|hereditary deficiency of the fifth component of complement
+932197-04|45 73|systemic lupus erythematosus
+932197-09|156 169|C5 deficiency
+932197-10|57 69|C5-deficient
+932197-10|71 74|C5D
+932197-11|137 140|C5D
+932197-12|48 51|C5D
+932197-13|50 79|membranous glomerulonephritis
+932197-13|81 91|vasculitis
+932197-13|97 106|arthritis
+932197-13|200 220|bacterial infections
+932197-14|37 40|C5D
+932197-14|122 173|neutrophilic leukocytosis during pyogenic infection
+9439660-00|42 63|ataxia-telangiectasia
+9439660-01|3 24|ataxia-telangiectasia
+9439660-01|26 29|A-T
+9439660-01|87 115|autosomal recessive syndrome
+9439660-02|62 65|A-T
+9439660-02|77 83|cancer
+9439660-03|83 86|A-T
+9439660-03|109 112|A-T
+9439660-04|5 8|A-T
+9439660-05|105 108|A-T
+9439660-06|101 117|sporadic cancers
+9439660-06|190 195|tumor
+9856498-00|23 36|C6 deficiency
+9856498-01|0 53|Deficiency of the sixth component of human complement
+9856498-02|0 21|Meningococcal disease
+9856498-02|73 92|total C6 deficiency
+9856498-03|123 139|total deficiency
+9856498-07|54 66|C6-deficient
+9744473-00|53 81|metachromatic leukodystrophy
+9744473-01|0 29|Deficiency of arylsulfatase A
+9744473-01|60 88|metachromatic leukodystrophy
+9744473-01|90 93|MLD
+9744473-02|48 51|MLD
+9744473-03|67 70|MLD
+9744473-06|131 134|MLD
+9450866-00|0 10|Piebaldism
+9450866-00|16 24|deafness
+9450866-01|51 61|piebaldism
+9450866-01|86 108|sensorineural deafness
+9450866-02|108 116|deafness
+9450866-02|141 151|piebaldism
+9450866-03|24 46|sensorineural deafness
+9450866-03|108 118|piebaldism
+9450866-03|199 209|piebaldism
+9450866-03|235 255|Waardenburg syndrome
+9497246-00|78 91|breast cancer
+9497246-01|4 17|Breast Cancer
+9497246-02|39 62|inherited breast cancer
+9497246-02|159 172|breast cancer
+9497246-02|191 204|Breast Cancer
+9497246-03|59 66|ovarian
+9497246-03|76 83|cancers
+9497246-05|26 47|breast-ovarian cancer
+9497246-06|58 71|breast cancer
+9497246-07|116 129|breast cancer
+9497246-12|33 46|breast cancer
+9497246-13|18 32|ovarian cancer
+9497246-14|21 34|breast cancer
+9620771-00|19 26|obesity
+9620771-00|28 49|adrenal insufficiency
+9620771-02|21 45|isolated ACTH deficiency
+9620771-03|198 205|obesity
+9620771-03|317 324|obesity
+9620771-04|171 178|obesity
+9620771-04|194 226|pigmentation and ACTH deficiency
+9620771-08|49 63|genetic defect
+9620771-08|112 130|endocrine disorder
+9620771-08|156 163|obesity
+9620771-08|165 186|adrenal insufficiency
+9420335-00|4 9|tumor
+9420335-01|28 33|tumor
+9420335-01|132 150|pancreatic cancers
+9420335-04|0 41|Growth retardation of the Smad4-deficient
+9420335-05|83 102|gastrulation defect
+9420335-06|118 137|gastrulation defect
+9888390-00|92 120|metachromatic leukodystrophy
+9888390-01|72 100|metachromatic leukodystrophy
+9888390-01|102 105|MLD
+9888390-01|135 160|deficient arylsulfatase A
+9888390-02|178 181|MLD
+9888390-07|45 48|MLD
+9888390-08|121 124|MLD
+9888390-09|48 62|conditions MLD
+941901-01|102 110|melanoma
+941901-01|173 192|deficiency of hex A
+941901-01|247 264|Tay-Sachs disease
+941901-01|266 269|TSD
+941901-03|109 112|TSD
+941901-05|93 96|TSD
+941901-06|130 133|TSD
+9590284-00|18 39|Prader-Willi syndrome
+9590284-02|86 107|Prader-Willi syndrome
+9590284-02|109 112|PWS
+9590284-03|61 64|PWS
+9590284-04|139 142|PWS
+9590284-05|66 69|PWS
+9590284-05|203 206|PWS
+9457914-00|74 111|atrophic benign epidermolysis bullosa
+9457914-01|26 63|atrophic benign epidermolysis bullosa
+9457914-01|104 125|epidermolysis bullosa
+9457914-01|156 170|nail dystrophy
+9457914-01|172 187|patchy alopecia
+9457914-01|193 213|dental abnormalities
+9457914-02|0 14|Skin fragility
+9457914-03|62 99|atrophic benign epidermolysis bullosa
+9843038-00|65 90|hereditary coproporphyria
+9843038-01|0 25|Hereditary coproporphyria
+9843038-01|27 30|HCP
+9843038-01|38 64|autosomal dominant disease
+9843038-01|84 124|deficiency of coproporphyrinogen oxidase
+9843038-02|52 55|HCP
+993342-00|105 153|deficiency of the second component of complement
+993342-01|102 150|deficiency of the second component of complement
+993342-02|72 85|C2 deficiency
+993342-02|131 144|C2 deficiency
+993342-03|65 78|C2 deficiency
+993342-04|53 66|C2 deficiency
+993342-08|54 67|C2 deficiency
+993342-08|165 178|C2 deficiency
+993342-08|206 219|C2 deficiency
+993342-08|383 396|C2 deficiency
+9671401-00|45 59|retinoblastoma
+9671401-00|105 110|tumor
+9671401-01|160 174|retinoblastoma
+9671401-02|46 63|unilateral tumors
+9671401-05|104 110|tumors
+9856499-00|0 24|Complement C7 deficiency
+9856499-01|33 46|C7 deficiency
+9856499-05|49 59|C7 defects
+9529364-00|65 101|isolated diffuse mesangial sclerosis
+9529364-01|161 181|Denys-Drash syndrome
+9529364-01|183 186|DDS
+9529364-01|192 219|diffuse mesangial sclerosis
+9529364-01|221 224|DMS
+9529364-01|242 263|pseudohermaphroditism
+9529364-01|271 282|Wilms tumor
+9529364-01|284 286|WT
+9529364-02|18 21|DDS
+9529364-03|54 57|DMS
+9529364-03|59 63|IDMS
+9529364-03|74 77|DDS
+9529364-03|90 114|urogenital abnormalities
+9529364-03|122 124|WT
+9529364-04|78 82|IDMS
+9529364-05|24 28|IDMS
+9529364-06|30 34|IDMS
+9529364-06|73 76|DDS
+9529364-07|48 52|IDMS
+9529364-09|77 80|DMS
+9529364-09|106 109|DMS
+9391889-00|25 54|congenital myotonic dystrophy
+9391889-01|48 77|congenital myotonic dystrophy
+9391889-01|79 81|DM
+9391889-02|30 47|mentally retarded
+9391889-02|72 89|muscular weakness
+9391889-04|41 43|DM
+9391889-05|40 42|DM
+9391889-06|60 62|DM
+9391889-07|64 66|DM
+9391889-08|46 48|DM
+9391889-08|184 186|DM
+9391889-09|196 198|DM
+9391889-10|42 55|congenital DM
+9391889-10|104 106|DM
+9465301-01|103 120|Angelman syndrome
+9465301-01|162 203|chromosome 15 paternal uniparental disomy
+9949197-00|68 101|Emery-Dreifuss muscular dystrophy
+9949197-01|70 103|Emery-Dreifuss muscular dystrophy
+9949197-01|105 109|EDMD
+9949197-06|174 189|cardiac defects
+9949197-06|193 197|EDMD
+9949197-08|102 106|EDMD
+9949197-11|3 7|EDMD
+9988281-00|70 87|breast carcinomas
+9988281-01|30 42|BRCA1 tumour
+9988281-01|63 99|hereditary breast and ovarian cancer
+9988281-01|159 166|cancers
+9988281-02|28 44|sporadic cancers
+9988281-02|169 208|non-familial breast and ovarian cancers
+9988281-05|133 152|breast malignancies
+9988281-06|91 130|benign breast, invasive lobular cancers
+9988281-06|145 162|ductal carcinomas
+9988281-07|88 105|ductal carcinomas
+9988281-07|206 229|sporadic breast cancers
