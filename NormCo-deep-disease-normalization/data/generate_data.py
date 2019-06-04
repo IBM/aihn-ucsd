@@ -129,7 +129,7 @@ def createVocabAndEmbeddings(concept_dict, vocabFileName, embeddingInitFileName,
     embeddings = np.asarray(embeddings)
     np.save(embeddingInitFileName, embeddings)
 
-    with open(vocabFileName, 'w') as f:
+    with open(vocabFileName, 'w', encoding='utf-8') as f:
         f.write('<pad>\n')
         f.write('<unk>\n')
         for k in sorted(vocab):
@@ -323,7 +323,7 @@ if __name__ == "__main__":
     ##################################
     with open(args.test_pmids) as f:
         test_pmids = set([l.strip() for l in f])
-    test_mentions = getMentions(args.test_file)
+    test_mentions = getMentions(args.test_file, pmid_list=test_pmids)
 
     with open(args.train_pmids) as f:
         train_pmids = set([l.strip() for l in f])
