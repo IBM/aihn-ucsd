@@ -48,6 +48,8 @@ The following will describe how to generate the training and test data, train a 
 ### Acquire third party data
 To obtain the correct versions of the CTD MEDIC dictionary, first download and extract the code for [TaggerOne](https://www.ncbi.nlm.nih.gov/research/bionlp/taggerone/TaggerOne-0.2.1.tgz). Copy the file TaggerOne-0.2.1/data/BC5CDR/CTD_diseases-2015-06-04.tsv to NormCo-disease-normalization/data/BC5CDR/concept_dict.tsv. Then copy the file TaggerOne-0.2.1/data/NCBID/CTD_diseases.tsv to NormCo-disease-normalization/data/NCBID/concept_dict.tsv
 
+In the file NormCo-disease-normalization/data/BC5CDR/concept_dict.tsv, add a new row at the beginning of the file (after the comments section) and fill in the second column with the value `<unk>`
+
 Obtain the BioCreative Data [here](https://biocreative.bioinformatics.udel.edu/resources/corpora/biocreative-v-cdr-corpus/). Combine the training and validation splits into one file called "traindev_set.PubTator.txt" and rename the test split to "test_set.PubTator.txt". Place both of these files under NormCo-disease-normalization/data/BC5CDR
 
 Obtain the NCBID data [here](https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/), downloading each split's complete set. Combine the training and validation splits into one file called "traindev_set.PubTator.txt" and rename the test split to "test_set.PubTator.txt". Place both of these files under NormCo-disease-normalization/data/NCBID
