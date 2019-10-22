@@ -1,5 +1,5 @@
 # ----------------------------------------------------------------------------
-# Copyright (c) 2016-2019, AIHN-UCSD development team.
+# Copyright (c) 2019, AIHN-UCSD development team.
 #
 # Distributed under the terms of the Modified BSD License.
 #
