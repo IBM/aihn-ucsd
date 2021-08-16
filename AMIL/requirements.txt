@@ -1,0 +1,68 @@
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+bcrypt==3.2.0
+blis @ file:///tmp/build/80754af9/cython-blis_1613319335612/work
+brotlipy==0.7.0
+catalogue==2.0.1
+certifi==2020.12.5
+cffi @ file:///tmp/build/80754af9/cffi_1613246945912/work
+chardet @ file:///tmp/build/80754af9/chardet_1607706746162/work
+click==7.1.2
+cryptography @ file:///tmp/build/80754af9/cryptography_1615532411702/work
+cycler==0.10.0
+cymem @ file:///tmp/build/80754af9/cymem_1613319259039/work
+en-core-sci-lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_lg-0.4.0.tar.gz
+filelock==3.0.12
+flashtext==2.7
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1615900442896/work
+Jinja2==2.11.3
+joblib==1.0.1
+jsonschema @ file:///tmp/build/80754af9/jsonschema_1594303806266/work
+kiwisolver==1.3.1
+MarkupSafe==1.1.1
+matplotlib==3.4.1
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+murmurhash @ file:///tmp/build/80754af9/murmurhash_1607456108764/work
+nltk==3.5
+numpy==1.20.1
+packaging==20.9
+pandas==1.2.3
+pathy==0.4.0
+Pillow==8.2.0
+plac==1.1.3
+preshed==3.0.5
+protobuf==3.15.6
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydantic==1.7.3
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.8.1
+pytz==2021.1
+regex==2020.11.13
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+sacremoses==0.0.43
+scikit-learn==0.24.1
+scipy==1.6.1
+seaborn==0.11.1
+six @ file:///home/linux1/recipes/ci/six_1610970791821/work
+sklearn==0.0
+smart-open==3.0.0
+spacy==3.0.5
+spacy-legacy==3.0.1
+srsly==2.4.0
+tensorboardX==2.1
+thinc==8.0.2
+threadpoolctl==2.1.0
+tokenizers==0.10.1
+torch==1.8.0
+tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
+transformers==4.3.3
+typer==0.3.2
+typing-extensions==3.7.4.3
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+wasabi @ file:///tmp/build/80754af9/wasabi_1612219178408/work
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
