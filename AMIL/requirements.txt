@@ -35,7 +35,7 @@ plac==1.1.3
 preshed==3.0.5
 protobuf==3.15.6
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-pydantic==1.7.3
+pydantic==1.7.4
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 pyparsing==2.4.7
 pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1600141720057/work
