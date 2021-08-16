@@ -1,2 +1,0 @@
-2019AB UMLS Release Files: https://uts.nlm.nih.gov/uts/login?service=https:%2F%2Fdownload.nlm.nih.gov%2Fumls%2Fkss%2F2019AB%2Fumls-2019AB-full.zip
-2019 PubMed Corpus: https://mbr.nlm.nih.gov/Download/Baselines/2019/
