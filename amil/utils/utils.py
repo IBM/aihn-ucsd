@@ -107,6 +107,3 @@ def idx_to_ent(entities_file):
             idx_to_ent[str(idx)] = entity
             idx += 1
     return idx_to_ent
-
-mongodump --uri "mongodb://admin:admin-sandbox@ucsd-sandbox.w8zcb.mongodb.net/mba-sandbox" -o ~/Sandbox/mba-backups
-#
