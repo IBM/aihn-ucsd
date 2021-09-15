@@ -41,14 +41,8 @@ class MEDLINESpacySents:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("num")
-    args = parser.parse_args()
-
-    file_num = str(args.num)
-    split = "split_" + file_num
-    infile = config.medline_file.replace("medline_abs.txt", split)
-    outfile = config.medline_spacy_sents.replace("sents.txt", "sents_{}.txt".format(split))
+    infile = config.medline_file
+    outfile = config.medline_spacy_sents
     print("Infile {}, Outfile {}".format(infile, outfile))
     ms = MEDLINESpacySents(infile, outfile)
     t = time.time()
