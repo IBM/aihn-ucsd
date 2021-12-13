@@ -1,11 +1,15 @@
 """
+
 Script adopted from:
     https://github.com/huggingface/transformers/blob/master/examples/run_glue.py
+
 """
 
 import collections
 import logging
+
 from transformers import BertConfig
+
 from model.model import BertForDistantRE
 from utils.train_utils import *
 from utils.utils import idx_to_rel, idx_to_ent, trip_set
@@ -17,17 +21,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-
-def flatten_trips_dict(d):
-    flat_dict = {}
-    for dic in d:
-        flat_dict[dic] = d[dic]
-    return flat_dict
-
 def long_tail_split(all, upper_20=False):
-    """
-    Returns rare triples if upper_20 == False and common triples if upper_20 == True
-    """
     with open(config.lower_half_trips, "rb") as wf:
         lower_80_ids = pickle.load(wf)
 
@@ -73,7 +67,7 @@ def evaluate_test(model, model_dir, set_type="test", eval_lower_80=False, load_e
                   run_label=''):
     eval_dataset = load_dataset(set_type, logger, ent_types=True)
     eval_sampler = SequentialSampler(eval_dataset)
-    eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=config.eval_batch_size)
+    eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=1)
 
     # Eval
     logger.info("***** Running evaluation {} *****".format(set_type))
@@ -145,7 +139,7 @@ def evaluate_test(model, model_dir, set_type="test", eval_lower_80=False, load_e
                 eval_loss += tmp_eval_loss.mean().item()
             nb_eval_steps += 1
 
-            trip_names = batch[5].detach().cpu()
+            trip_names = batch[5].detach().cpu().squeeze()
             unique_trips_in_group = set()
             for trip in trip_names:
                 if trip not in unique_trips_in_group:
@@ -153,18 +147,18 @@ def evaluate_test(model, model_dir, set_type="test", eval_lower_80=False, load_e
                     eval_labels.append(inputs["labels"].detach().cpu())
                     eval_logits.append(logits.detach().cpu())
                     eval_groups.append(batch[3].detach().cpu())  # groups
-                    eval_names.append(trip_names)  # names
+                    eval_names.append(trip)  # names
                     eval_preds.append(torch.argmax(logits.detach().cpu(), dim=1).item())
 
         del model, batch, logits, tmp_eval_loss, eval_dataloader, eval_dataset  # memory mgmt
 
         eval = {
             'loss': eval_loss / nb_eval_steps,
-            'labels': torch.cat(eval_labels),
-            'logits': torch.cat(eval_logits),
+            'labels': torch.stack(eval_labels),
+            'logits': torch.stack(eval_logits),
             'preds': np.asarray(eval_preds),
-            'groups': torch.cat(eval_groups),
-            'names': torch.cat(eval_names)
+            'groups': torch.stack(eval_groups),
+            'names': torch.stack(eval_names)
         }
 
     # Get all positive relationship lables
@@ -186,7 +180,7 @@ def evaluate_test(model, model_dir, set_type="test", eval_lower_80=False, load_e
         "loss": eval_loss,
         "counter": eval['labels'].shape
     }
-    results['original'] = compute_metrics(eval['logits'], eval['labels'], eval['groups'], set_type, logger,
+    results['original'] = compute_metrics(eval['logits'], eval['labels'], eval['names'], set_type, logger,
                                           ent_types=True)
     results["loss"] = eval_loss
     logger.info("Results: %s", results)
@@ -213,7 +207,7 @@ def main():
     # Load model
     model_dir = '[insert model dir here]'
     logger.info("Evaluate the checkpoint: %s", model_dir)
-    model = BertForDistantRE(BertConfig.from_pretrained(model_dir), num_labels, bag_attn=config.use_bag_attn)
+    model = BertForDistantRE(BertConfig.from_pretrained(model_dir), num_labels, config, bag_attn=config.use_bag_attn)
     model.load_state_dict(torch.load(model_dir + "/pytorch_model.bin", map_location=torch.device(config.device)))
     model.to(config.device)
 
@@ -221,7 +215,7 @@ def main():
     load_eval = True
 
     # Run full set, lower 80 and upper 20
-    runs = ['FULL_SET', 'LOWER_80', 'UPPER_20']
+    runs = ['FULL_SET'] #, 'LOWER_80', 'UPPER_20']
     for run_label in runs:
 
         # Vars to evaluate all data / Lower 80 (rare triples) / Upper 20 (common triples)

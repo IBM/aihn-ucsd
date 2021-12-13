@@ -66,7 +66,7 @@ def train(train_dataset, model):
     train_iterator = trange(0, int(config.num_train_epochs), desc="Epoch", )
     set_seed()
 
-    for _ in train_iterator:  # Epochs
+    for _ in train_iterator:
         epoch_iterator = tqdm(train_dataloader, desc="Iteration")
         avg_loss = AverageMeter()
         avg_acc = AverageMeter()
@@ -81,7 +81,6 @@ def train(train_dataset, model):
                 "labels": batch[4],
                 "is_train": True
             }
-
             loss, logits = model(**inputs)
 
             # Train results
@@ -209,7 +208,7 @@ def train(train_dataset, model):
 def main():
     os.makedirs(config.output_dir, exist_ok=True)  # Only create model output dir when training
     num_labels = len(read_relations(config.relations_file_types))
-    model = BertForDistantRE(BertConfig.from_pretrained(config.pretrained_model_dir), num_labels,
+    model = BertForDistantRE(BertConfig.from_pretrained(config.pretrained_model_dir), num_labels, config,
                              bag_attn=config.use_bag_attn)
     model.to(config.device)
 
@@ -225,11 +224,10 @@ def main():
 
     # Evaluation
     logger.info("Evaluate the checkpoint: %s", config.test_ckpt)
-    model = BertForDistantRE(BertConfig.from_pretrained(config.test_ckpt), num_labels, bag_attn=config.use_bag_attn)
+    model = BertForDistantRE(BertConfig.from_pretrained(config.test_ckpt), num_labels, config, bag_attn=config.use_bag_attn)
     model.load_state_dict(torch.load(config.test_ckpt + "/pytorch_model.bin"))
     model.to(config.device)
     results = evaluate(model, logger, "test", prefix="TEST", ent_types=True)
-
     with open(os.path.join(config.test_ckpt, "pr_metrics.txt"), "w") as wf:
         json.dump(str(results), wf)
 

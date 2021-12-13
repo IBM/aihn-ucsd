@@ -85,12 +85,12 @@ def compute_metrics(logits, labels, groups, set_type, logger, ent_types=False):
             triples.add((entity2idx[src], rel, entity2idx[tgt]))
 
     # RE predictions
-    probas = logits
+    probas = torch.nn.Softmax(-1)(logits).squeeze()
     re_preds = list()
+
     for i in range(probas.size(0)):
         group = groups[i]
         src, tgt = group[0].item(), group[1].item()
-        top_prediction = torch.argmax(probas[i])
         for rel, rel_idx in rel2idx.items():
             if rel != "na":
                 score = probas[i][rel_idx].item()
@@ -99,6 +99,7 @@ def compute_metrics(logits, labels, groups, set_type, logger, ent_types=False):
                     "relation": rel,
                     "score": score
                 })
+
 
     # Adopted from:
     # https://github.com/thunlp/OpenNRE/blob/master/opennre/framework/data_loader.py#L230
@@ -125,6 +126,9 @@ def compute_metrics(logits, labels, groups, set_type, logger, ent_types=False):
 
     # Added metrics
     added_metrics = {}
+    for n in range(100, 1000, 100): # 100, 200, etc recall
+        added_metrics['P@{}'.format(n)] = sum(P[:n]) / n
+
     for n in range(2000, total, 2000):
         added_metrics['P@{}'.format(n)] = sum(P[:n]) / n
     added_metrics['P@{}'.format(total)] = sum(P[:total]) / total
@@ -161,7 +165,7 @@ def save_eval_results(results, eval_dir, set_type, logger, prefix=""):
             wf.write("%s = %s\n" % (key, str(results[key])))
 
 
-def load_dataset(set_type, logger, ent_types=False):
+def load_dataset(set_type, logger, ent_types=True):
     if set_type == "train":
         if ent_types:
             features_file = config.feats_file_types_train
@@ -221,15 +225,15 @@ def non_dup_ordered_seq(seq):
     return non_dup_seq
 
 
-def evaluate(model, logger, set_type="dev", prefix="", ent_types=False):
+def evaluate(model, logger, set_type="dev", prefix=""):
     eval_output_dir = config.output_dir
-    eval_dataset = load_dataset(set_type, logger, ent_types=ent_types)
+    eval_dataset = load_dataset(set_type, logger, ent_types=True)
 
     if not os.path.exists(eval_output_dir):
         os.makedirs(eval_output_dir)
 
     eval_sampler = SequentialSampler(eval_dataset)
-    eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=config.eval_batch_size)
+    eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=1)
 
     # Eval!
     logger.info("***** Running evaluation {} *****".format(prefix))
@@ -257,33 +261,31 @@ def evaluate(model, logger, set_type="dev", prefix="", ent_types=False):
             eval_loss += tmp_eval_loss.mean().item()
         nb_eval_steps += 1
 
-        eval_labels.append(inputs["labels"].detach().cpu())
-        eval_logits.append(logits.detach().cpu())
-        eval_groups.append(batch[3].detach().cpu())  # groups
-        eval_preds.append(torch.argmax(logits.detach().cpu(), dim=1).item())
-
-        if ent_types:
-            eval_names.append(batch[5].detach().cpu())  # names
+        # Evaluate original triples, not abstract triples
+        trip_names = batch[5].detach().cpu().squeeze()
+        unique_trips_in_group = set()
+        for trip in trip_names:
+            if trip not in unique_trips_in_group:
+                unique_trips_in_group.add(trip)
+                eval_labels.append(inputs["labels"].detach().cpu())
+                eval_logits.append(logits.detach().cpu())
+                eval_groups.append(batch[3].detach().cpu())  # groups
+                eval_names.append(trip)  # names
+                eval_preds.append(torch.argmax(logits.detach().cpu(), dim=1).item())
 
     del model, batch, logits, tmp_eval_loss, eval_dataloader, eval_dataset  # memory mgmt
 
     eval = {
         'loss': eval_loss / nb_eval_steps,
-        'labels': torch.cat(eval_labels),  # B,
-        'logits': torch.cat(eval_logits),  # B x C
+        'labels': torch.stack(eval_labels),  # B,
+        'logits': torch.stack(eval_logits),  # B x C
         'preds': np.asarray(eval_preds),
-        'groups': torch.cat(eval_groups)  # B x 2
+        'groups': torch.stack(eval_groups),  # B x 2
+        'names' : torch.stack(eval_names)
     }
 
-    # Add ent names to evaluation for ent types experiment
-    if ent_types:
-        eval['names'] = torch.cat(eval_names)
-
     # Get all positive relationship lables
-    if ent_types:
-        rel2idx = read_relations(config.relations_file_types)
-    else:
-        rel2idx = read_relations(config.relations_file)
+    rel2idx = read_relations(config.relations_file_types)
     pos_rel_idxs = list(rel2idx.values())
     rel_idx_na = rel2idx['na']
     del pos_rel_idxs[rel_idx_na]
@@ -303,9 +305,7 @@ def evaluate(model, logger, set_type="dev", prefix="", ent_types=False):
     }
 
     results['original'] = compute_metrics(eval['logits'], eval['labels'], eval['names'], set_type, logger,
-                                          ent_types=ent_types)
-    results['top_preds_only'] = compute_metrics(eval['logits'], eval['labels'], eval['names'], set_type, logger,
-                                                ent_types=ent_types)
+                                          ent_types=True)
     logger.info("Results: %s", results)
 
     # Save evaluation results
