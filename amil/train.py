@@ -118,7 +118,7 @@ def train(train_dataset, model):
 
                 if config.logging_steps > 0 and global_step % config.logging_steps == 0:
                     logs = {}
-                    results = evaluate(model, logger, "dev", ent_types=True)
+                    results = evaluate(model, logger, "dev")
                     for key, value in results["original"].items():
                         eval_key = "eval_{}".format(key)
                         if key == "R" or key == "P":
@@ -186,7 +186,7 @@ def train(train_dataset, model):
             train_iterator.close()
             break
 
-    results = evaluate(model, logger, set_type="dev", prefix="final-{}".format(global_step), ent_types=True)
+    results = evaluate(model, logger, set_type="dev", prefix="final-{}".format(global_step))
     if results["new_results"]["scikit_f1"] > best_f1:
         best_results = results
         best_f1 = results["new_results"]["scikit_f1"]
@@ -227,7 +227,7 @@ def main():
     model = BertForDistantRE(BertConfig.from_pretrained(config.test_ckpt), num_labels, config, bag_attn=config.use_bag_attn)
     model.load_state_dict(torch.load(config.test_ckpt + "/pytorch_model.bin"))
     model.to(config.device)
-    results = evaluate(model, logger, "test", prefix="TEST", ent_types=True)
+    results = evaluate(model, logger, "test", prefix="TEST")
     with open(os.path.join(config.test_ckpt, "pr_metrics.txt"), "w") as wf:
         json.dump(str(results), wf)
 

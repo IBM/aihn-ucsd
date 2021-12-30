@@ -3,9 +3,10 @@ import torch.nn as nn
 from transformers import BertModel, BertPreTrainedModel
 
 
+
 class BertForDistantRE(BertPreTrainedModel):
 
-    def __init__(self, config, num_labels, file_config, dropout=0.1, bag_attn=False, rel_embedding='A', device='cpu'):
+    def __init__(self, config, num_labels, file_config, dropout=0.1, bag_attn=False):
         super(BertForDistantRE, self).__init__(config)
         self.num_labels = num_labels
         self.bert = BertModel(config)
@@ -15,7 +16,7 @@ class BertForDistantRE(BertPreTrainedModel):
         self.classifier = nn.Linear(3 * config.hidden_size, num_labels)
         self.bag_attn = bag_attn
         self.rel_emb = file_config.rel_embedding
-        self.on_device = device
+        self.on_device = file_config.device
         if bag_attn:
             self.Wo = nn.Linear(3 * config.hidden_size, 3 * config.hidden_size)
         self.softmax = nn.Softmax(-1)
@@ -37,23 +38,26 @@ class BertForDistantRE(BertPreTrainedModel):
             logits = logits.diagonal(dim1=1, dim2=2)  # B x C
         return logits
 
-    def create_e_start_mask(self, entity_ids, b, g, l):
+    def create_e_start_mask(self, entity_ids):
+        b, g, l = entity_ids.shape
         idx_e2_start = torch.argmax(entity_ids, dim=2)  # index of first '2' (start of tail ent)
         entity_ids_no_e2 = entity_ids.detach().clone()
         entity_ids_no_e2[entity_ids_no_e2 == 2] = 0
-        idx_e1_start = torch.argmax(entity_ids_no_e2, dim=2)  # index of first '2' (start of tail ent)
-        e1_s_mask = torch.zeros((b * g, l)).scatter_(1, idx_e1_start.view(-1, 1), 1)
-        e2_s_mask = torch.zeros((b * g, l)).scatter_(1, idx_e2_start.view(-1, 1), 1)
-        return e1_s_mask.resize(b, g, l).to(self.device), e2_s_mask.resize(b, g, l).to(self.device)
+        idx_e1_start = torch.argmax(entity_ids_no_e2, dim=2).to(self.on_device)  # index of first '2' (start of tail ent)
+        zeros = torch.zeros((b * g, l)).to(self.on_device)
+        e1_s_mask = zeros.scatter_(1, idx_e1_start.view(-1, 1), 1)
+        e2_s_mask = zeros.scatter_(1, idx_e2_start.view(-1, 1), 1)
+        return e1_s_mask.resize(b, g, l).to(self.on_device), e2_s_mask.resize(b, g, l).to(self.on_device)
 
-    def create_e_end_mask(self, entity_ids, b, g, l):
+    def create_e_end_mask(self, entity_ids):
+        b, g, l = entity_ids.shape
         # E1 end
         ent_ids_copy = entity_ids.detach().clone()
         ent_ids_copy[ent_ids_copy == 2] = 0  # zero out e2
         idx_e1_start = torch.argmax(ent_ids_copy, dim=2)  # index of first '1' (start of tail ent)
         e1_len = torch.count_nonzero(ent_ids_copy, dim=2) - 1
         idx_e1_end = idx_e1_start + e1_len
-        idx_e1_end.to(self.device)
+        idx_e1_end.to(self.on_device)
 
         # E2 end:
         ent_ids_copy = entity_ids.detach().clone()
@@ -61,13 +65,13 @@ class BertForDistantRE(BertPreTrainedModel):
         idx_e2_start = torch.argmax(ent_ids_copy, dim=2)  # index of first '2' (start of tail ent)
         e2_len = torch.count_nonzero(ent_ids_copy, dim=2) - 1
         idx_e2_end = idx_e2_start + e2_len
-        idx_e2_end.to(self.device)
+        idx_e2_end.to(self.on_device)
 
         # Create mask
-        e1_e_mask = torch.zeros((b * g, l)).to(self.device).scatter_(1, idx_e1_end.view(-1, 1), 1).resize(b, g, l)
-        e2_e_mask = torch.zeros((b * g, l)).to(self.device).scatter_(1, idx_e2_end.view(-1, 1), 1).resize(b, g, l)
+        e1_e_mask = torch.zeros((b * g, l)).to(self.on_device).scatter_(1, idx_e1_end.view(-1, 1), 1).resize(b, g, l)
+        e2_e_mask = torch.zeros((b * g, l)).to(self.on_device).scatter_(1, idx_e2_end.view(-1, 1), 1).resize(b, g, l)
 
-        return e1_e_mask.to(self.device), e2_e_mask.to(self.device)
+        return e1_e_mask.to(self.on_device), e2_e_mask.to(self.on_device)
 
     def create_e_mid_mask(self, entity_ids):
         # Dims
@@ -102,7 +106,7 @@ class BertForDistantRE(BertPreTrainedModel):
             e_mid_mask[i, e_starts_max.values[i]:] = 0  # everything after start of 2nd entity
 
         e_mid_mask = e_mid_mask.resize(b, g, l)
-        return e_mid_mask.to(self.device)
+        return e_mid_mask.to(self.on_device)
 
     def forward(self,
                 input_ids,
@@ -112,17 +116,18 @@ class BertForDistantRE(BertPreTrainedModel):
                 is_train=True):
         '''PART-I: Encode the sequence with BERT'''
         B, G, L = input_ids.shape  # batch size (2), group/bag (16), length (128)
+        entity_ids.to(self.on_device)
         input_ids = input_ids.view(B * G, -1)
         attention_mask = attention_mask.view(B * G, -1)
 
         outputs = self.bert(input_ids, attention_mask=attention_mask)
         sequence_output, pooled_output = outputs[0], outputs[1]  # seq output: 2 x 16 x 128 x 768, pooled: 2 x 16 x 768
 
-        sequence_output = sequence_output.view(B, G, L, -1).clone()  # B x G x L x H
+        sequence_output = sequence_output.view(B, G, L, -1).clone().to(self.on_device)  # B x G x L x H
         cls = pooled_output.view(B, G, -1).clone()  # B x G x H
 
         '''PART-II: Get hidden representations'''
-        if self.rel_emb in ['A', 'B']:
+        if self.rel_emb in ['A', 'B', 'C']:
             # E1 entity mention pool
             e1_mask = (entity_ids == 1).float()  # locations of e1 entity
             e1 = sequence_output * e1_mask.unsqueeze(-1)  # B x G x L x H
@@ -135,7 +140,13 @@ class BertForDistantRE(BertPreTrainedModel):
             e2 = e2.sum(2) / e2_mask.sum(2).unsqueeze(-1)
             e2 = self.We(self.dropout(self.act(e2)))  # B x G x H
 
-        if self.rel_emb in ['D', 'E', 'H', 'I', 'N', 'O']:
+            rel_emb_dict = {
+                'A': cls,  # [CLS]
+                'B': torch.cat((e1, e2), -1),  # mention pool
+                'C': torch.cat((cls, e1, e2), -1),  # CLS] + mention pool (original UMLS) B x G x 3H
+            }
+
+        if self.rel_emb in ['D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O']:
             # E1 start, E2 start:
             e1_s_mask, e2_s_mask = self.create_e_start_mask(entity_ids)
             e1_s = sequence_output * e1_s_mask.unsqueeze(-1)
@@ -146,49 +157,49 @@ class BertForDistantRE(BertPreTrainedModel):
             e2_s = e2_s.sum(2) / e2_s_mask.sum(2).unsqueeze(-1)
             e2_s = self.We(self.dropout(self.act(e2_s)))
 
-        if self.rel_emb in ['F', 'G', 'H', 'I', 'L', 'M', 'N', 'O']:
             # E1 end, E2 end:
-            e1_e_mask, e2_e_mask = self.create_e_end_mask(entity_ids, B, G, L)
+            e1_e_mask, e2_e_mask = self.create_e_end_mask(entity_ids)
             e1_e = sequence_output * e1_e_mask.unsqueeze(-1)
             e1_e = e1_e.sum(2) / e1_e_mask.sum(2).unsqueeze(-1)
-            e1_e = self.We(self.dropout(self.act(e1_e)))
+            e1_e = self.We(self.dropout(self.act(e1_e.to(self.on_device))))
 
             e2_e = sequence_output * e2_e_mask.unsqueeze(-1)
             e2_e = e2_e.sum(2) / e2_e_mask.sum(2).unsqueeze(-1)
             e2_e = self.We(self.dropout(self.act(e2_e)))
 
-        if self.rel_emb in ['J', 'K', 'L', 'M', 'N', 'O']:
             # E middle:
             create_e_mid_mask = self.create_e_mid_mask(entity_ids)
             e_mid = sequence_output * create_e_mid_mask.unsqueeze(-1)
             e_mid = e_mid.sum(2) / create_e_mid_mask.sum(2).unsqueeze(-1)
             e_mid = self.We(self.dropout(self.act(e_mid)))
 
+            rel_emb_dict = {
+                'D': torch.cat((e1_s, e2_s), -1),  # entity start
+                'E': torch.cat((cls, e1_s, e2_s), -1),  # [CLS] + entity start
+                'F': torch.cat((e1_e, e2_e), -1),  # entity end
+                'G': torch.cat((cls, e1_e, e2_e), -1),  # [CLS] + entity end
+                'H': torch.cat((e1_s, e1_e, e2_s, e2_e), -1),  # entity start + entity end
+                'I': torch.cat((cls, e1_s, e1_e, e2_s, e2_e), -1),  # [CLS] + entity start + entity end
+                'J': e_mid,  # middle
+                'K': torch.cat((cls, e_mid), -1),  # [CLS] + middle
+                'L': torch.cat((e1_e, e_mid, e2_e), -1),  # middle + entity ends
+                'M': torch.cat((cls, e1_e, e_mid, e2_e), -1),  # [CLS] + middle + entity ends
+                'N': torch.cat((e1_s, e1_e, e_mid, e2_s, e2_e), -1),  # entity start + middle + enity end
+                'O': torch.cat((cls, e1_s, e1_e, e_mid, e2_s, e2_e), -1),  # cls + entity start + middle + enity end
+            }
+
         if self.rel_emb in ['P', 'Q']:
             # Avg sequence embedding
             sequence_avg = sequence_output.sum(2) / L # B x G x H
 
-        '''PART-III: Relation Embedding Variations'''
-        rel_emb_dict = {
-            'A': cls, # [CLS]
-            'B': torch.cat((e1, e2), -1), # mention pool
-            'C': torch.cat((cls, e1, e2), -1),  # CLS] + mention pool (original UMLS) B x G x 3H
-            'D': torch.cat((e1_s, e2_s), -1), # entity start
-            'E': torch.cat((cls, e1_s, e2_s), -1), # [CLS] + entity start
-            'F': torch.cat((e1_e, e2_e), -1), # entity end
-            'G': torch.cat((cls, e1_e, e2_e), -1), # [CLS] + entity end
-            'H': torch.cat((e1_s, e1_e, e2_s, e2_e), -1), # entity start + entity end
-            'I': torch.cat((cls, e1_s, e1_e, e2_s, e2_e), -1), # [CLS] + entity start + entity end
-            'J': torch.cat((e_mid), -1), # middle
-            'K': torch.cat((cls, e_mid), -1), # [CLS] + middle
-            'L': torch.cat((e1_e, e_mid, e2_e), -1), # middle + entity ends
-            'M': torch.cat((cls, e1_e, e_mid, e2_e), -1), # [CLS] + middle + entity ends
-            'N': torch.cat((e1_s, e1_e, e_mid, e2_s, e2_e), -1), #  entity start + middle + enity end
-            'O': torch.cat((cls, e1_s, e1_e, e_mid, e2_s, e2_e), -1), # cls + entity start + middle + enity end
-            'P': sequence_avg, # avg of entire sequence
-            'Q': torch.cat((cls, sequence_avg), -1), # avg of entire sequence
-        }
+            rel_emb_dict = {
+                'P': sequence_avg,  # avg of entire sequence
+                'Q': torch.cat((cls, sequence_avg), -1),  # avg of entire sequence
+            }
 
+
+
+        '''PART-III: Relation Embedding Variations'''
         # Set relationship embedding type
         r_h = rel_emb_dict.get(self.rel_emb, None)
 

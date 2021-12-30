@@ -92,21 +92,22 @@ def evaluate_test(model, model_dir, set_type="test", eval_lower_80=False, load_e
                                                     eval['names']):
             r = label.item()
             one_trip_per_bag = set()
-            for name in names:
-                h, t = name[0].item(), name[1].item()
-                trip = "\t".join([str(h).lower(), str(r).lower(), str(t).lower()])
-                # Eval distinct trip names in each eval group to better compare to eval names experiment
-                # Results 1 pos/neg per distinct trip name
-                if trip not in one_trip_per_bag:
-                    one_trip_per_bag.add(trip)
-                    total_trips += 1
-                    trip_sent_count[trip] += 1
-                    result_tracker['labels'].append(label)
-                    result_tracker['logits'].append(logit)
-                    result_tracker['groups'].append(group)  # groups
-                    result_tracker['preds'].append(pred)
-                    result_tracker['names'].append(name)
-                    result_tracker['trips'].append(trip)
+            h,t = names[0].item(), names[1].item()
+            g_h, g_t = group[0][0].item(), group[0][1].item()
+            trip = "\t".join([str(h), str(r), str(t)])
+            group_and_trip = "\t".join([str(g_h),str(g_t), str(h), str(r), str(t)])
+            # Eval distinct trip names in each eval group to compare to eval names experiment
+            # Results 1 pos/neg per distinct trip name
+            if group_and_trip not in one_trip_per_bag:
+                one_trip_per_bag.add(group_and_trip)
+                total_trips += 1
+                trip_sent_count[trip] += 1
+                result_tracker['labels'].append(label)
+                result_tracker['logits'].append(logit)
+                result_tracker['groups'].append(group)
+                result_tracker['preds'].append(pred)
+                result_tracker['names'].append(names)
+                result_tracker['trips'].append(trip)
         kept_trips = total_trips
         if eval_lower_80:
             result_tracker, kept_trips, total_trips = long_tail_split(result_tracker)
